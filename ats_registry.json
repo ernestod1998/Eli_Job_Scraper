@@ -1,0 +1,110 @@
+{
+  "baseline_complete": false,
+  "boards": {
+    "greenhouse:khanacademy": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-09-08",
+      "name": "Khan Academy",
+      "promoted_until": "2026-09-22",
+      "retry_after": null,
+      "slug": "khanacademy",
+      "sources": [
+        "eli-curated-public-board"
+      ],
+      "status": "active"
+    },
+    "greenhouse:thinkacademyus": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-09-08",
+      "name": "Think Academy International Education",
+      "promoted_until": "2026-09-22",
+      "retry_after": null,
+      "slug": "thinkacademyus",
+      "sources": [
+        "eli-curated-public-board"
+      ],
+      "status": "active"
+    },
+    "lever:stradaeducation": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-09-08",
+      "name": "Strada Education Foundation",
+      "promoted_until": "2026-09-22",
+      "retry_after": null,
+      "slug": "stradaeducation",
+      "sources": [
+        "eli-curated-public-board"
+      ],
+      "status": "active"
+    },
+    "workday:https://icf.wd5.myworkdayjobs.com/wday/cxs/icf/icfexternal_career_site/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-09-08",
+      "name": "ICF International",
+      "promoted_until": "2026-09-22",
+      "retry_after": null,
+      "sources": [
+        "eli-curated-public-board"
+      ],
+      "status": "active",
+      "url": "https://icf.wd5.myworkdayjobs.com/wday/cxs/icf/icfexternal_career_site/jobs"
+    },
+    "workday:https://roberthalf.wd1.myworkdayjobs.com/wday/cxs/roberthalf/roberthalfcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-09-08",
+      "name": "Robert Half",
+      "promoted_until": "2026-09-22",
+      "retry_after": null,
+      "sources": [
+        "eli-curated-public-board"
+      ],
+      "status": "active",
+      "url": "https://roberthalf.wd1.myworkdayjobs.com/wday/cxs/roberthalf/roberthalfcareers/jobs"
+    },
+    "workday:https://simonsfoundation.wd1.myworkdayjobs.com/wday/cxs/simonsfoundation/simonsfoundationcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-09-08",
+      "name": "Simons Foundation",
+      "promoted_until": "2026-09-22",
+      "retry_after": null,
+      "sources": [
+        "eli-curated-public-board"
+      ],
+      "status": "active",
+      "url": "https://simonsfoundation.wd1.myworkdayjobs.com/wday/cxs/simonsfoundation/simonsfoundationcareers/jobs"
+    }
+  },
+  "cursors": {
+    "candidates": 0,
+    "discovery_prefix": 0,
+    "shards": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0
+    },
+    "yc_companies": 0
+  },
+  "schema_version": 1
+}

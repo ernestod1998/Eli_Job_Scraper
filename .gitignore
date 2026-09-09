@@ -1,0 +1,22 @@
+.DS_Store
+__pycache__/
+.venv/
+.env*
+*.pdf
+resume*
+candidate_profile*
+public/
+_site/
+test-results/
+*_jobs.md
+*_jobs.html
+notified.json
+workflow_runs.jsonl
+
+# Personal data — NEVER commit (public repo). CI gets these via Actions secrets.
+candidate_profile.md
+resume.md
+resume.txt
+shortlist.*
+
+node_modules/

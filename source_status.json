@@ -1,0 +1,26 @@
+{
+  "updated_at": "2026-09-09T00:47:31.120259+00:00",
+  "sources": {
+    "linkedin": {
+      "status": "failure",
+      "last_attempt": "2026-09-09T00:44:32.787044+00:00",
+      "last_success": null,
+      "observations": 0,
+      "error": "Source exceeded 120s limit"
+    },
+    "indeed": {
+      "status": "success",
+      "last_attempt": "2026-09-09T00:46:32.801475+00:00",
+      "last_success": "2026-09-09T00:47:09.121629+00:00",
+      "observations": 9,
+      "error": ""
+    },
+    "boards": {
+      "status": "failure",
+      "last_attempt": "2026-09-09T00:47:09.122027+00:00",
+      "last_success": null,
+      "observations": 0,
+      "error": "Source reported incomplete collection; see workflow logs."
+    }
+  }
+}
