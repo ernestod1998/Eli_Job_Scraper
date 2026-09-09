@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-09 00:52 UTC",
-  "total": 1,
-  "new_count": 1,
+  "scraped_at": "2026-09-09 19:49 UTC",
+  "total": 7,
+  "new_count": 6,
   "jobs": [
     {
       "company": "American Water",
@@ -15,15 +15,70 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-09T00:52:59.750695+00:00"
-    }
-  ],
-  "new_jobs": [
+      "last_observed_at": "2026-09-09T19:49:29.568620+00:00"
+    },
     {
-      "company": "American Water",
-      "title": "Senior, Financial Analyst",
+      "company": "California Dental Association",
+      "title": "Senior Financial Analyst, Insurance Operations",
       "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463561196/",
+      "url": "https://www.linkedin.com/jobs/view/4465059852/",
+      "date_posted": "2026-09-09",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-09T19:49:29.568605+00:00"
+    },
+    {
+      "company": "California Department of Health Care Access and Information",
+      "title": "Lead Fiscal Analyst",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465315183/",
+      "date_posted": "2026-09-09",
+      "ats": "LinkedIn",
+      "salary": "$6,623.00/mo - $8,290.00/mo",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-09T19:49:29.568613+00:00"
+    },
+    {
+      "company": "BW Design Group",
+      "title": "Project Accountant",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463578568/",
+      "date_posted": "2026-09-09",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-09T19:49:29.568616+00:00"
+    },
+    {
+      "company": "US LBM",
+      "title": "Fulfillment Buyer",
+      "location": "Elk Grove, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463888829/",
+      "date_posted": "2026-09-09",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-09T19:49:29.568618+00:00"
+    },
+    {
+      "company": "CBX Solutions, LLC",
+      "title": "Construction Project Accountant",
+      "location": "Rocklin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464621953/",
       "date_posted": "2026-09-08",
       "ats": "LinkedIn",
       "california_eligibility": "local",
@@ -31,14 +86,115 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-09T00:52:59.750695+00:00"
+      "last_observed_at": "2026-09-09T19:49:29.568621+00:00"
+    },
+    {
+      "company": "California Department of Health Care Services",
+      "title": "Program Analyst",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463554203/",
+      "date_posted": "2026-09-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-09T19:49:29.568623+00:00"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "California Dental Association",
+      "title": "Senior Financial Analyst, Insurance Operations",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465059852/",
+      "date_posted": "2026-09-09",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-09T19:49:29.568605+00:00"
+    },
+    {
+      "company": "California Department of Health Care Access and Information",
+      "title": "Lead Fiscal Analyst",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465315183/",
+      "date_posted": "2026-09-09",
+      "ats": "LinkedIn",
+      "salary": "$6,623.00/mo - $8,290.00/mo",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-09T19:49:29.568613+00:00"
+    },
+    {
+      "company": "BW Design Group",
+      "title": "Project Accountant",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463578568/",
+      "date_posted": "2026-09-09",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-09T19:49:29.568616+00:00"
+    },
+    {
+      "company": "US LBM",
+      "title": "Fulfillment Buyer",
+      "location": "Elk Grove, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463888829/",
+      "date_posted": "2026-09-09",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-09T19:49:29.568618+00:00"
+    },
+    {
+      "company": "CBX Solutions, LLC",
+      "title": "Construction Project Accountant",
+      "location": "Rocklin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464621953/",
+      "date_posted": "2026-09-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-09T19:49:29.568621+00:00"
+    },
+    {
+      "company": "California Department of Health Care Services",
+      "title": "Program Analyst",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463554203/",
+      "date_posted": "2026-09-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-09T19:49:29.568623+00:00"
     }
   ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 1,
+    "location": 461,
     "stale": 0
   }
 }
