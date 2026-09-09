@@ -6,6 +6,11 @@ Targets finance, budgeting, fiscal and administrative analysis, grants and contr
 accounting, procurement, purchasing, and related compliance roles. All salaries and
 work arrangements are included. Unknown eligibility is labeled for review.
 
+Listings never expire automatically because of posting date or first-seen age.
+Source search windows still select newly discovered jobs; the cumulative master
+keeps earlier matches. The bounded browser cache is disposable and reloads from
+that master. A retained listing is not a guarantee that the vacancy is still open.
+
 The dashboard stores saved, applied, and dismissed decisions in this browser only.
 Use Export regularly to keep a backup; Import restores it on another device.
 There is no cross-device service, paid AI ranking, or notification integration.

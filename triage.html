@@ -862,7 +862,7 @@
   }
 
   // What the card's 🕒 shows. The scrapers now stamp Pacific days, but
-  // all_jobs.json keeps entries for 14 days, so rows written before that fix
+  // all_jobs.json keeps entries indefinitely, so rows written before that fix
   // can still carry a future date — and a source we haven't normalized could
   // reintroduce one. A date that hasn't happened yet is never right, so clamp
   // it to the viewer's today. Relative strings and past dates pass through.
@@ -1421,23 +1421,8 @@
     for (const k in j) if (k[0] !== '_' && k !== 'description') o[k] = j[k];
     return o;
   }
-  // Bound the decision map so it can't grow forever and eventually exceed the
-  // sync body cap, which would stop syncing permanently.
-  //
-  // Safe because all_jobs.json prunes at 14 days (ALL_JOBS_PRUNE_DAYS in
-  // scrape_jobs.py): any job still in the feed was first seen within 14 days,
-  // so a dismissal older than 30 days can't refer to anything visible and
-  // dropping it cannot resurrect a job.
-  //
-  //   saved / applied  kept forever — that's the user's application history
-  //   dismissed        dropped after 30 days
-  //   tombstones       dropped after 60 days
-  //   t === 0          NEVER aged out: a migrated Phase 1 decision whose real
-  //                    age is unknown, possibly dismissed yesterday. Ageing
-  //                    those would silently un-dismiss a migrating user's lot.
-  //
-  // KEEP IN SYNC WITH: sync/merge.js — sync/merge.test.mjs extracts this exact
-  // function and fails CI if the two disagree.
+  // Decision retention is separate from listing retention: saved/applied stay,
+  // while the existing dismissal and tombstone cleanup windows are unchanged.
   function gcDecisions(triage, nowMs) {
     const now = nowMs == null ? Date.now() : nowMs;
     const out = {};
@@ -1604,21 +1589,19 @@
   // ---------- Prune (keeps localStorage bounded) ----------
   // Drops untriaged jobs that carry genuinely-senior/exec markers (excluded
   // at the scraper — keep this regex in sync with EXCLUDED_SENIORITY_RE in
-  // scrape_jobs.py) or older than 30 days. Bare "manager"/"lead" are
+  // scrape_jobs.py). Age never removes jobs. Bare "manager"/"lead" are
   // deliberately ALLOWED — senior analyst titles are eligible for Eli
   // titles. Anything saved/applied/dismissed is kept — triage history.
   const EXCLUDED_TITLE_RE = /\b(director|vice president|vp|svp|evp|chief|head\s+of|executive director)\b|\b(general|group|regional|national|district)\s+manager\b/i;
   function pruneState() {
-    const cutoff = Date.now() - 14 * 86400000;
     const before = state.jobs.length;
     state.jobs = state.jobs.filter(j => {
       if (tri(j.url)) return true;   // tri(), not truthiness — a tombstone is an object
       if (EXCLUDED_TITLE_RE.test(j.title || '') || j.california_eligibility === 'excluded') return false;
-      const t = jobDateMs(j);
-      return t == null || t >= cutoff;
+      return true; // Listing age never removes a card.
     });
     if (state.jobs.length < before) {
-      console.info(`[pruneState] dropped ${before - state.jobs.length} stale/excluded job(s)`);
+      console.info(`[pruneState] dropped ${before - state.jobs.length} excluded job(s)`);
     }
   }
 

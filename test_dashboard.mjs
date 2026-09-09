@@ -39,3 +39,17 @@ assert(!/name: '(?:linkedin|indeed|hollywood)_jobs.json'/.test(html));
 assert(html.includes("fetch('source_status.json'"));
 for(const id of ['kpi-total','chart-companies','chart-roles','chart-salary','sal-min','filter-source','filter-role','filter-sen','filter-date','filter-sort','filter-state','view-map','export-btn','import-btn'])assert(html.includes(`id="${id}"`));
 console.log('Original dashboard controls, Eli classifications, decisions migration and isolation passed');
+
+// A listing can be years old without disappearing on refresh; unrelated gates remain.
+context.state={jobs:[
+  {url:'old',title:'Financial Analyst',date_posted:'2019-01-01'},
+  {url:'excluded',title:'Director Financial Analyst'},
+  {url:'outside',title:'Financial Analyst',california_eligibility:'excluded'},
+]};
+context.tri=()=>null;
+context.console=console;
+vm.runInContext("const EXCLUDED_TITLE_RE = /\\bdirector\\b/i;\n"+extract('pruneState'),context);
+context.pruneState();
+assert.equal(context.state.jobs.length,1);
+assert.equal(context.state.jobs[0].url,'old');
+console.log('Old listings remain retained; role/location gates remain active');
