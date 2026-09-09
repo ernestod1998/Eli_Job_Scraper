@@ -1,0 +1,44 @@
+{
+  "scraped_at": "2026-09-09 00:52 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "American Water",
+      "title": "Senior, Financial Analyst",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463561196/",
+      "date_posted": "2026-09-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-09T00:52:59.750695+00:00"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "American Water",
+      "title": "Senior, Financial Analyst",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463561196/",
+      "date_posted": "2026-09-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-09T00:52:59.750695+00:00"
+    }
+  ],
+  "filter_stats": {
+    "company": 0,
+    "seniority": 0,
+    "role": 0,
+    "location": 1,
+    "stale": 0
+  }
+}
