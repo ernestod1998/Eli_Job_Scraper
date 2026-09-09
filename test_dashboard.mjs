@@ -16,6 +16,16 @@ assert.equal(context.matches({...job,location:'Remote, US'},null,{view:'active',
 assert.equal(context.safeURL('javascript:alert(1)'),null);
 assert.equal(context.decodeJobs([{...job,url:'javascript:alert(1)'},job]).length,1);
 assert.equal(context.decodeJobs([{...job,california_eligibility:'excluded'}]).length,0);
+const now=Date.parse('2026-09-08T19:00:00Z');
+assert.equal(context.recentEnough({date_posted:'2026-08-25'},now),true);
+assert.equal(context.recentEnough({date_posted:'2026-08-24'},now),false);
+assert.equal(context.recentEnough({date_posted:'2026-08-24T15:00:00Z'},now),false);
+assert.equal(context.recentEnough({date_posted:'Posted 15 Days Ago'},now),false);
+assert.equal(context.recentEnough({date_posted:'Posted 14 Days Ago'},now),true);
+assert.equal(context.recentEnough({date_posted:'unknown'},now),true);
+assert.equal(context.recentEnough({},now),true);
+assert.equal(context.decodeJobs([{...job,date_posted:'2000-01-01'}]).length,0);
+assert(html.includes("' · Last attempt: '+(s.last_attempt||'Never')"));
 assert.throws(()=>context.validDecisions({'https://example.com':{s:'unknown',t:1}}));
 assert.equal(context.mergeDecisions({a:{s:'saved',t:2}},{a:{s:'dismissed',t:1}}).a.s,'saved');
 assert.equal(context.mergeDecisions({a:{s:'saved',t:1}},{a:{s:null,t:2}}).a.s,null);

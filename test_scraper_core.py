@@ -45,6 +45,18 @@ class RoleAndLocationPolicy(unittest.TestCase):
         self.assertEqual(sj.INDEED_LOOKBACK_HOURS, 48)
         self.assertEqual(sj.BOARDS_LOOKBACK_HOURS, 48)
 
+    def test_live_buyer_and_specialized_compliance_false_positives(self):
+        for title in ("Inbound Sales Closer — Dental Buyer Advocates", "Grocery Order Writer (Buyer / Inventory Replenishment) - Full Time"):
+            self.assertFalse(sj.is_target_role(title), title)
+        for title in ("Buyer II", "Procurement Analyst", "Financial Management Analyst II"):
+            self.assertTrue(sj.is_target_role(title), title)
+        specialized = role(title="Regulatory Compliance Analyst", description="Conduct trade practice surveillance and CFTC regulatory filings.")
+        kept, rejected, _ = sj._filter_job_observations([specialized], default_feed="general")
+        self.assertEqual(kept, [])
+        self.assertEqual(rejected[0]["reason"], "role")
+        self.assertEqual(sj.classify_job(role(title="Regulatory Compliance Analyst"))["role_fit"], "unverified")
+        self.assertEqual(sj.classify_job(role(title="Financial Management Analyst II"))["role_fit"], "matched")
+
     def test_fallback_report_is_failure_not_fresh_observation(self):
         with tempfile.TemporaryDirectory() as tmp, patch.dict(os.environ, {"ELI_SOURCE_REPORT_PATH": os.path.join(tmp, "status.json")}), patch.object(sj, "SOURCE_DIAGNOSTICS", ["⛔ preserving previous results"]):
             sj.write_source_report([role()])
@@ -260,8 +272,7 @@ class RegistrySaveIntegration(unittest.TestCase):
                 saved = json.load(f)["jobs"]
         self.assertEqual([j["feeds"] for j in saved], [["hollywood"], ["general"]])
         self.assertTrue(all("registry_notify_eligible" not in j for j in saved))
-        notified = mocked_notify.call_args.args[0]
-        self.assertEqual([j["url"] for j in notified], ["https://registry/loud"])
+        mocked_notify.assert_not_called()
 
 
 if __name__ == "__main__":

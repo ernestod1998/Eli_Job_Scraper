@@ -29,7 +29,7 @@ COLLECTION_STARTED = time.monotonic()
 
 def bounded_queries(items):
     """Smoke runs deliberately sample a source and always disclose partial coverage."""
-    limit = 2 if SMOKE_COLLECTION else 10000
+    limit = 1 if SMOKE_COLLECTION else 10000
     deadline = 65 if SMOKE_COLLECTION else 480
     for index, item in enumerate(items):
         if index >= limit or time.monotonic() - COLLECTION_STARTED >= deadline:
@@ -64,7 +64,7 @@ HEADERS = {
 
 
 KEYWORDS = [
-    "financial analyst", "finance analyst", "fp&a", "financial planning",
+    "financial analyst", "financial management analyst", "finance analyst", "fp&a", "financial planning",
     "budget analyst", "budget planning analyst", "fiscal analyst", "cost analyst",
     "project financial", "program financial", "financial reporting", "billing analyst",
     "accounting analyst", "project accountant", "administrative analyst",
@@ -149,6 +149,8 @@ def is_target_role(title: str) -> bool:
     if EXCLUDED_SENIORITY_RE.search(title):
         return False
     if re.search(r'\b(software|investment banking|quantitative|trading|aml|bsa|clinical|environmental)\b', title, re.I):
+        return False
+    if re.search(r'\b(sales closer|buyer advocates?|grocery|order writer|inventory replenishment)\b', title, re.I):
         return False
     return bool(_KEYWORD_RE.search(title))
 
@@ -342,7 +344,7 @@ def _metro_confirmed(location: str) -> bool:
 
 
 # PJ's lanes are on-site/hybrid; flip to widen the net to US-remote roles.
-INCLUDE_REMOTE_US = False
+INCLUDE_REMOTE_US = True  # Eli includes US remote roles, with California uncertainty labels.
 
 
 def is_watch_location(location: str) -> bool:
@@ -382,9 +384,18 @@ def classify_job(job: dict) -> dict:
     text = str(job.get("location", "")) + " " + str(job.get("description", ""))
     remote = "remote" in str(job.get("location", "")).lower()
     eligibility = "excluded" if remote and california_excluded(text) else "unverified" if remote else "local"
-    ambiguous = bool(re.search(r'\b(administrative|management|program|business operations|compliance) analyst\b', job.get("title", ""), re.I))
+    ambiguous = bool(re.search(r'\b(administrative|management|program|business operations|compliance) analyst\b', job.get("title", ""), re.I)) and "financial management analyst" not in job.get("title", "").lower()
     relevant = bool(re.search(r'\b(budget|financial|finance|accounting|procurement|purchasing|contracts?|grants?)\b', str(job.get("description", "")), re.I))
-    return {"california_eligibility": eligibility, "role_fit": "unverified" if ambiguous and not relevant else "matched"}
+    specialized = "compliance" in job.get("title", "").lower() and bool(re.search(r'\b(cftc|commodity exchange act|trade practice surveillance|anti.money laundering|clinical trials|environmental permits)\b', str(job.get("description", "")), re.I))
+    fit = "excluded" if specialized else "unverified" if ambiguous and not relevant else "matched"
+    # The master omits descriptions; retain classifications already established
+    # from source evidence when re-filtering those compact records.
+    if not job.get("description"):
+        if job.get("california_eligibility") == "excluded":
+            eligibility = "excluded"
+        if job.get("role_fit") in {"matched", "unverified", "excluded"}:
+            fit = job["role_fit"]
+    return {"california_eligibility": eligibility, "role_fit": fit}
 
 
 def is_remote_us(location: str) -> bool:
@@ -1538,7 +1549,9 @@ def _filter_job_observations(jobs: list[dict], *, default_feed: str):
             location = str(job.get("location", "") or "")
             location_ok = is_target_location(location) if feed == "hollywood" else is_watch_location(location)
             job.update(classify_job(job))
-            if not location_ok or job["california_eligibility"] == "excluded":
+            if job["role_fit"] == "excluded":
+                reason = "role"
+            elif not location_ok or job["california_eligibility"] == "excluded":
                 reason = "location"
             elif is_stale_posting(job.get("date_posted", "")):
                 # Runs before _normalize_dates, so is_stale_posting sees raw
@@ -1657,7 +1670,7 @@ def _merge_into_all_jobs(observed_jobs: list, rejected_observations: list | None
         )
 
     cutoff = (now - timedelta(days=ALL_JOBS_PRUNE_DAYS)).strftime("%Y-%m-%dT%H:%M:%SZ")
-    kept = [j for j in by_identity.values() if j.get("first_seen", stamp) >= cutoff]
+    kept = [j for j in by_identity.values() if j.get("first_seen", stamp) >= cutoff and not is_stale_posting(j.get("date_posted", ""))]
     kept.sort(key=lambda j: j.get("first_seen", ""), reverse=True)
 
     with open(path, "w") as f:
@@ -1706,13 +1719,7 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     prev_ids = _load_prev_ids(json_path)
     new_jobs = [j for j in jobs if _job_identity(j.get("url", "")) not in prev_ids]
 
-    # Registry boards establish their own silent baseline on the first valid
-    # scrape. Capture that private marker before user-facing/master output is
-    # written, then notify only the explicitly eligible subset.
-    notify_identities = {
-        _job_identity(j.get("url", "")) for j in new_jobs
-        if j.get("registry_notify_eligible", True)
-    }
+    # Strip private registry metadata. Notifications are disabled for Eli.
     for job in jobs:
         job.pop("registry_notify_eligible", None)
 
@@ -1722,16 +1729,6 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
         _merge_into_all_jobs(jobs, rejected)
     except Exception as e:
         print(f"  ⚠️  all_jobs.json accumulator failed (non-fatal): {e}")
-
-    # Push new roles to Pushover (no-op without PUSHOVER_TOKEN/USER env vars).
-    try:
-        import notify
-        notify.notify_new_jobs([
-            job for job in new_jobs
-            if _job_identity(job.get("url", "")) in notify_identities
-        ])
-    except Exception as e:
-        print(f"  ⚠️  Pushover notify failed (non-fatal): {e}")
 
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 

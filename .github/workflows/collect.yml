@@ -12,6 +12,11 @@ on:
         type: number
         default: 600
         required: true
+      smoke:
+        description: Sample one query per source and label collection partial
+        type: boolean
+        default: false
+        required: true
   schedule:
     - cron: '17 17 * * *'
 permissions:
@@ -44,6 +49,7 @@ jobs:
         if: github.event_name != 'workflow_dispatch' || inputs.collect
         env:
           SOURCE_TIMEOUT: ${{ inputs.source_timeout || 600 }}
+          ELI_SMOKE: ${{ inputs.smoke && '1' || '0' }}
         run: python collect.py --timeout "$SOURCE_TIMEOUT"
       - name: Persist observations and status
         if: github.event_name != 'workflow_dispatch' || inputs.collect

@@ -1,0 +1,46 @@
+{
+  "scraped_at": "2026-09-09 00:49 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "City of Rocklin (CA)",
+      "title": "Management Analyst (Human Resources)",
+      "location": "Rocklin City Hall, CA",
+      "url": "https://www.governmentjobs.com/jobs/5460818-0/management-analyst-human-resources",
+      "date_posted": "",
+      "salary": "$101,634.00 - $138,516.00 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-09T00:49:46.007493+00:00"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "City of Rocklin (CA)",
+      "title": "Management Analyst (Human Resources)",
+      "location": "Rocklin City Hall, CA",
+      "url": "https://www.governmentjobs.com/jobs/5460818-0/management-analyst-human-resources",
+      "date_posted": "",
+      "salary": "$101,634.00 - $138,516.00 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-09T00:49:46.007493+00:00"
+    }
+  ],
+  "filter_stats": {
+    "company": 0,
+    "seniority": 0,
+    "role": 0,
+    "location": 0,
+    "stale": 0
+  }
+}
