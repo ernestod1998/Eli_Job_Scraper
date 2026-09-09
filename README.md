@@ -29,3 +29,16 @@ Use Python 3.11 or newer and install `requirements.txt`. Run Python tests with
 
 Daily automation is gated by the repository variable `ENABLE_SCHEDULE`. It remains
 off until the initial manual collection and Pages deployment are verified.
+
+The scheduled collection runs at 17:17 UTC each day (10:17 a.m. Pacific during
+daylight saving time, 9:17 a.m. during standard time). Time-filtered searches use
+a 48-hour overlap; provider limits and extended outages can still cause gaps.
+
+Run `python collect.py` locally for collection. Use
+`ELI_SMOKE=1 python collect.py --timeout 120` for a bounded partial-coverage check.
+`python refilter_results.py` reapplies current rules to already collected evidence.
+The GitHub workflow also supports publishing committed data without recollecting.
+
+The Pages artifact includes only the entry page, dashboard, master job list, and
+source status. Source failures retain earlier data without updating observation
+dates. A partial run does not replace the last fully successful collection time.
