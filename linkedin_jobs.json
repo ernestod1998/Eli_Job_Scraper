@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-09 19:49 UTC",
-  "total": 7,
-  "new_count": 6,
+  "scraped_at": "2026-09-10 19:45 UTC",
+  "total": 12,
+  "new_count": 5,
   "jobs": [
     {
       "company": "American Water",
@@ -15,7 +15,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-09T19:49:29.568620+00:00"
+      "last_observed_at": "2026-09-10T19:45:24.743716+00:00"
     },
     {
       "company": "California Dental Association",
@@ -29,7 +29,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-09T19:49:29.568605+00:00"
+      "last_observed_at": "2026-09-10T19:45:24.743709+00:00"
     },
     {
       "company": "California Department of Health Care Access and Information",
@@ -38,13 +38,12 @@
       "url": "https://www.linkedin.com/jobs/view/4465315183/",
       "date_posted": "2026-09-09",
       "ats": "LinkedIn",
-      "salary": "$6,623.00/mo - $8,290.00/mo",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-09T19:49:29.568613+00:00"
+      "last_observed_at": "2026-09-10T19:45:24.743710+00:00"
     },
     {
       "company": "BW Design Group",
@@ -58,7 +57,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-09T19:49:29.568616+00:00"
+      "last_observed_at": "2026-09-10T19:45:24.743712+00:00"
     },
     {
       "company": "US LBM",
@@ -72,7 +71,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-09T19:49:29.568618+00:00"
+      "last_observed_at": "2026-09-10T19:45:24.743715+00:00"
     },
     {
       "company": "CBX Solutions, LLC",
@@ -100,101 +99,160 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-09T19:49:29.568623+00:00"
+      "last_observed_at": "2026-09-10T19:45:24.743718+00:00"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Financial Analyst",
+      "location": "Woodland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465694419/",
+      "date_posted": "2026-09-10",
+      "ats": "LinkedIn",
+      "salary": "$90,000.00/yr - $120,000.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-10T19:45:24.743691+00:00"
+    },
+    {
+      "company": "Fluor Corporation",
+      "title": "Risk Cost Analyst (Project Controls Specialist II)",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465381407/",
+      "date_posted": "2026-09-10",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-10T19:45:24.743702+00:00"
+    },
+    {
+      "company": "UC Davis Health",
+      "title": "Fleet Business Operations Analyst",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4464578634/",
+      "date_posted": "2026-09-10",
+      "ats": "LinkedIn",
+      "salary": "$73,080.00/yr - $130,410.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-10T19:45:24.743705+00:00"
+    },
+    {
+      "company": "LHH",
+      "title": "Financial Analyst",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4452761984/",
+      "date_posted": "2026-09-09",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-10T19:45:24.743707+00:00"
+    },
+    {
+      "company": "CA Department of Corrections & Rehabilitation",
+      "title": "ASSOCIATE ACCOUNTING ANALYST",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463090575/",
+      "date_posted": "2026-09-09",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-10T19:45:24.743713+00:00"
     }
   ],
   "new_jobs": [
     {
-      "company": "California Dental Association",
-      "title": "Senior Financial Analyst, Insurance Operations",
+      "company": "Robert Half",
+      "title": "Financial Analyst",
+      "location": "Woodland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465694419/",
+      "date_posted": "2026-09-10",
+      "ats": "LinkedIn",
+      "salary": "$90,000.00/yr - $120,000.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-10T19:45:24.743691+00:00"
+    },
+    {
+      "company": "Fluor Corporation",
+      "title": "Risk Cost Analyst (Project Controls Specialist II)",
       "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465059852/",
-      "date_posted": "2026-09-09",
+      "url": "https://www.linkedin.com/jobs/view/4465381407/",
+      "date_posted": "2026-09-10",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-09T19:49:29.568605+00:00"
+      "last_observed_at": "2026-09-10T19:45:24.743702+00:00"
     },
     {
-      "company": "California Department of Health Care Access and Information",
-      "title": "Lead Fiscal Analyst",
+      "company": "UC Davis Health",
+      "title": "Fleet Business Operations Analyst",
       "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465315183/",
-      "date_posted": "2026-09-09",
+      "url": "https://www.linkedin.com/jobs/view/4464578634/",
+      "date_posted": "2026-09-10",
       "ats": "LinkedIn",
-      "salary": "$6,623.00/mo - $8,290.00/mo",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-09T19:49:29.568613+00:00"
-    },
-    {
-      "company": "BW Design Group",
-      "title": "Project Accountant",
-      "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463578568/",
-      "date_posted": "2026-09-09",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-09T19:49:29.568616+00:00"
-    },
-    {
-      "company": "US LBM",
-      "title": "Fulfillment Buyer",
-      "location": "Elk Grove, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463888829/",
-      "date_posted": "2026-09-09",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-09T19:49:29.568618+00:00"
-    },
-    {
-      "company": "CBX Solutions, LLC",
-      "title": "Construction Project Accountant",
-      "location": "Rocklin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464621953/",
-      "date_posted": "2026-09-08",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-09T19:49:29.568621+00:00"
-    },
-    {
-      "company": "California Department of Health Care Services",
-      "title": "Program Analyst",
-      "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463554203/",
-      "date_posted": "2026-09-08",
-      "ats": "LinkedIn",
+      "salary": "$73,080.00/yr - $130,410.00/yr",
       "california_eligibility": "local",
       "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-09T19:49:29.568623+00:00"
+      "last_observed_at": "2026-09-10T19:45:24.743705+00:00"
+    },
+    {
+      "company": "LHH",
+      "title": "Financial Analyst",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4452761984/",
+      "date_posted": "2026-09-09",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-10T19:45:24.743707+00:00"
+    },
+    {
+      "company": "CA Department of Corrections & Rehabilitation",
+      "title": "ASSOCIATE ACCOUNTING ANALYST",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463090575/",
+      "date_posted": "2026-09-09",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-10T19:45:24.743713+00:00"
     }
   ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 461,
+    "location": 474,
     "stale": 0
   }
 }
