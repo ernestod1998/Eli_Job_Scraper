@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-10 19:45 UTC",
-  "total": 12,
-  "new_count": 5,
+  "scraped_at": "2026-09-11 19:45 UTC",
+  "total": 16,
+  "new_count": 4,
   "jobs": [
     {
       "company": "American Water",
@@ -108,13 +108,12 @@
       "url": "https://www.linkedin.com/jobs/view/4465694419/",
       "date_posted": "2026-09-10",
       "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $120,000.00/yr",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-10T19:45:24.743691+00:00"
+      "last_observed_at": "2026-09-11T19:45:03.253740+00:00"
     },
     {
       "company": "Fluor Corporation",
@@ -128,7 +127,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-10T19:45:24.743702+00:00"
+      "last_observed_at": "2026-09-11T19:45:03.253741+00:00"
     },
     {
       "company": "UC Davis Health",
@@ -143,7 +142,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-10T19:45:24.743705+00:00"
+      "last_observed_at": "2026-09-11T19:45:03.253743+00:00"
     },
     {
       "company": "LHH",
@@ -157,7 +156,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-10T19:45:24.743707+00:00"
+      "last_observed_at": "2026-09-11T19:45:03.253744+00:00"
     },
     {
       "company": "CA Department of Corrections & Rehabilitation",
@@ -171,88 +170,132 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-10T19:45:24.743713+00:00"
+      "last_observed_at": "2026-09-11T19:45:03.253746+00:00"
+    },
+    {
+      "company": "California State Controller's Office",
+      "title": "ACCOUNTING ANALYST",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466062931/",
+      "date_posted": "2026-09-11",
+      "ats": "LinkedIn",
+      "salary": "$4,256.00/mo - $6,591.00/mo",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-11T19:45:03.253724+00:00"
+    },
+    {
+      "company": "HDR",
+      "title": "Project Accountant 2",
+      "location": "Folsom, CA",
+      "url": "https://www.linkedin.com/jobs/view/4428723792/",
+      "date_posted": "2026-09-11",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-11T19:45:03.253733+00:00"
+    },
+    {
+      "company": "California Department of Forestry and Fire Protection (CAL FIRE)",
+      "title": "Program Analyst",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4463179394/",
+      "date_posted": "2026-09-11",
+      "ats": "LinkedIn",
+      "salary": "$6,031.00/mo - $7,547.00/mo",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-11T19:45:03.253736+00:00"
+    },
+    {
+      "company": "Kratos Defense and Security Solutions",
+      "title": "Buyer II-III",
+      "location": "Roseville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447021584/",
+      "date_posted": "2026-09-11",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-11T19:45:03.253738+00:00"
     }
   ],
   "new_jobs": [
     {
-      "company": "Robert Half",
-      "title": "Financial Analyst",
-      "location": "Woodland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465694419/",
-      "date_posted": "2026-09-10",
+      "company": "California State Controller's Office",
+      "title": "ACCOUNTING ANALYST",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466062931/",
+      "date_posted": "2026-09-11",
       "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $120,000.00/yr",
+      "salary": "$4,256.00/mo - $6,591.00/mo",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-10T19:45:24.743691+00:00"
+      "last_observed_at": "2026-09-11T19:45:03.253724+00:00"
     },
     {
-      "company": "Fluor Corporation",
-      "title": "Risk Cost Analyst (Project Controls Specialist II)",
-      "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465381407/",
-      "date_posted": "2026-09-10",
+      "company": "HDR",
+      "title": "Project Accountant 2",
+      "location": "Folsom, CA",
+      "url": "https://www.linkedin.com/jobs/view/4428723792/",
+      "date_posted": "2026-09-11",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-10T19:45:24.743702+00:00"
+      "last_observed_at": "2026-09-11T19:45:03.253733+00:00"
     },
     {
-      "company": "UC Davis Health",
-      "title": "Fleet Business Operations Analyst",
+      "company": "California Department of Forestry and Fire Protection (CAL FIRE)",
+      "title": "Program Analyst",
       "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464578634/",
-      "date_posted": "2026-09-10",
+      "url": "https://www.linkedin.com/jobs/view/4463179394/",
+      "date_posted": "2026-09-11",
       "ats": "LinkedIn",
-      "salary": "$73,080.00/yr - $130,410.00/yr",
+      "salary": "$6,031.00/mo - $7,547.00/mo",
       "california_eligibility": "local",
       "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-10T19:45:24.743705+00:00"
+      "last_observed_at": "2026-09-11T19:45:03.253736+00:00"
     },
     {
-      "company": "LHH",
-      "title": "Financial Analyst",
-      "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4452761984/",
-      "date_posted": "2026-09-09",
+      "company": "Kratos Defense and Security Solutions",
+      "title": "Buyer II-III",
+      "location": "Roseville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447021584/",
+      "date_posted": "2026-09-11",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-10T19:45:24.743707+00:00"
-    },
-    {
-      "company": "CA Department of Corrections & Rehabilitation",
-      "title": "ASSOCIATE ACCOUNTING ANALYST",
-      "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4463090575/",
-      "date_posted": "2026-09-09",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-10T19:45:24.743713+00:00"
+      "last_observed_at": "2026-09-11T19:45:03.253738+00:00"
     }
   ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 474,
+    "location": 169,
     "stale": 0
   }
 }
