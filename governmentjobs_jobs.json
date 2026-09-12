@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-11 19:47 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-09-12 19:28 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -17,9 +17,40 @@
         "general"
       ],
       "last_observed_at": "2026-09-09T00:49:46.007493+00:00"
+    },
+    {
+      "company": "City of Sacramento",
+      "title": "Supervising Financial Analyst",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/5470091-0/supervising-financial-analyst",
+      "date_posted": "",
+      "salary": "$99,969.76 - $140,667.50 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-12T19:28:36.625011+00:00"
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "City of Sacramento",
+      "title": "Supervising Financial Analyst",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/5470091-0/supervising-financial-analyst",
+      "date_posted": "",
+      "salary": "$99,969.76 - $140,667.50 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-12T19:28:36.625011+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
