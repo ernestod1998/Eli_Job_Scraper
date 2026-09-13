@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-12 19:25 UTC",
-  "total": 22,
-  "new_count": 6,
+  "scraped_at": "2026-09-13 19:30 UTC",
+  "total": 23,
+  "new_count": 1,
   "jobs": [
     {
       "company": "American Water",
@@ -240,7 +240,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-12T19:25:59.148379+00:00"
+      "last_observed_at": "2026-09-13T19:30:56.504922+00:00"
     },
     {
       "company": "Sutter Health",
@@ -254,7 +254,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-12T19:25:59.148389+00:00"
+      "last_observed_at": "2026-09-13T19:30:56.504925+00:00"
     },
     {
       "company": "University of California, Davis",
@@ -268,7 +268,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-12T19:25:59.148391+00:00"
+      "last_observed_at": "2026-09-13T19:30:56.504926+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -282,7 +282,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-12T19:25:59.148392+00:00"
+      "last_observed_at": "2026-09-13T19:30:56.504928+00:00"
     },
     {
       "company": "California Department of Aging",
@@ -310,100 +310,44 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-12T19:25:59.148398+00:00"
+      "last_observed_at": "2026-09-13T19:30:56.504930+00:00"
+    },
+    {
+      "company": "Sutter Health",
+      "title": "Financial Analyst IV",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4437928057/",
+      "date_posted": "2026-09-13",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-13T19:30:56.504910+00:00"
     }
   ],
   "new_jobs": [
     {
-      "company": "USA Properties Fund, Inc.",
-      "title": "Financial Analyst - Roseville, CA",
-      "location": "Roseville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465195454/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-12T19:25:59.148379+00:00"
-    },
-    {
       "company": "Sutter Health",
-      "title": "Accounting Analyst III, Financial Business Services",
+      "title": "Financial Analyst IV",
       "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4456636034/",
-      "date_posted": "2026-09-12",
+      "url": "https://www.linkedin.com/jobs/view/4437928057/",
+      "date_posted": "2026-09-13",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-12T19:25:59.148389+00:00"
-    },
-    {
-      "company": "University of California, Davis",
-      "title": "Gifts & Contract Financial Analyst (FINANCIAL ANL 2 CX)",
-      "location": "Davis, CA",
-      "url": "https://www.linkedin.com/jobs/view/4454663672/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-12T19:25:59.148391+00:00"
-    },
-    {
-      "company": "City of Sacramento",
-      "title": "Supervising Financial Analyst",
-      "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464276738/",
-      "date_posted": "2026-09-12",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-12T19:25:59.148392+00:00"
-    },
-    {
-      "company": "California Department of Aging",
-      "title": "Program Analyst - Hybrid Option",
-      "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466394886/",
-      "date_posted": "2026-09-11",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-12T19:25:59.148395+00:00"
-    },
-    {
-      "company": "Kratos Defense and Security Solutions",
-      "title": "Buyer II",
-      "location": "Roseville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466408053/",
-      "date_posted": "2026-09-11",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-12T19:25:59.148398+00:00"
+      "last_observed_at": "2026-09-13T19:30:56.504910+00:00"
     }
   ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 457,
+    "location": 417,
     "stale": 0
   }
 }

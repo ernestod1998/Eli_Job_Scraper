@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-09-12T19:29:26.457430+00:00",
+  "updated_at": "2026-09-13T19:33:38.612500+00:00",
   "sources": {
     "linkedin": {
       "status": "partial",
-      "last_attempt": "2026-09-12T19:22:55.012849+00:00",
+      "last_attempt": "2026-09-13T19:28:00.626214+00:00",
       "last_success": null,
-      "observations": 10,
+      "observations": 6,
       "error": "Source reported incomplete collection; see workflow logs."
     },
     "indeed": {
       "status": "partial",
-      "last_attempt": "2026-09-12T19:25:59.211819+00:00",
+      "last_attempt": "2026-09-13T19:30:56.565392+00:00",
       "last_success": "2026-09-09T00:47:09.121629+00:00",
-      "observations": 20,
+      "observations": 10,
       "error": "Source reported incomplete collection; see workflow logs."
     },
     "boards": {
       "status": "failure",
-      "last_attempt": "2026-09-12T19:26:26.219274+00:00",
+      "last_attempt": "2026-09-13T19:31:20.756995+00:00",
       "last_success": null,
       "observations": 0,
       "error": "Source reported incomplete collection; see workflow logs."
     },
     "registry": {
       "status": "success",
-      "last_attempt": "2026-09-12T19:26:38.872415+00:00",
-      "last_success": "2026-09-12T19:27:30.867185+00:00",
+      "last_attempt": "2026-09-13T19:31:33.711037+00:00",
+      "last_success": "2026-09-13T19:32:23.841742+00:00",
       "observations": 0,
       "error": ""
     },
     "usajobs": {
       "status": "success",
-      "last_attempt": "2026-09-12T19:27:30.867366+00:00",
-      "last_success": "2026-09-12T19:27:37.302537+00:00",
+      "last_attempt": "2026-09-13T19:32:23.842071+00:00",
+      "last_success": "2026-09-13T19:32:29.224877+00:00",
       "observations": 0,
       "error": ""
     },
     "governmentjobs": {
       "status": "partial",
-      "last_attempt": "2026-09-12T19:27:37.302754+00:00",
+      "last_attempt": "2026-09-13T19:32:29.225381+00:00",
       "last_success": "2026-09-09T00:49:46.173016+00:00",
-      "observations": 1,
+      "observations": 2,
       "error": "Source reported incomplete collection; see workflow logs."
     },
     "calopps": {
       "status": "success",
-      "last_attempt": "2026-09-12T19:28:36.644022+00:00",
-      "last_success": "2026-09-12T19:29:00.345100+00:00",
+      "last_attempt": "2026-09-13T19:32:54.578503+00:00",
+      "last_success": "2026-09-13T19:33:16.772426+00:00",
       "observations": 0,
       "error": ""
     },
     "calcareers": {
       "status": "success",
-      "last_attempt": "2026-09-12T19:29:00.345286+00:00",
-      "last_success": "2026-09-12T19:29:26.457413+00:00",
+      "last_attempt": "2026-09-13T19:33:16.772789+00:00",
+      "last_success": "2026-09-13T19:33:38.612483+00:00",
       "observations": 0,
       "error": ""
     }
