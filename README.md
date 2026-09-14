@@ -1,6 +1,8 @@
 # Eli's Job Scraper
 
-Independent Sacramento-area and California-compatible U.S. remote job search.
+Independent job search for Sacramento, Los Angeles, Orange County, the greater
+San Francisco Bay Area (including the East Bay and San Jose), and
+California-compatible U.S. remote roles.
 
 Targets finance, budgeting, fiscal and administrative analysis, grants and contracts,
 accounting, procurement, purchasing, and related compliance roles. All salaries and

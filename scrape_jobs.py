@@ -1,5 +1,5 @@
 """
-Sacramento + US Remote Job Scraper (Eli)
+California Metros + US Remote Job Scraper (Eli)
 Three pipelines (see __main__): LinkedIn guest-endpoint watcher, Indeed via
 python-jobspy, and a curated sweep (direct Greenhouse/Workday probes +
 allowlist-filtered LinkedIn). Each writes {basename}.{json,md,html} digests and
@@ -266,9 +266,12 @@ _CHICAGO_AMBIGUOUS = {"oak park", "deerfield", "aurora", "lincolnshire",
 # One entry per substring-gated metro: (tokens, ambiguous tokens, state key).
 # NYC is handled separately by is_nyc() because its rules are structural
 # (boroughs, a short approved-NJ list, metro-label rejection), not token-based.
-WATCH_METROS = [
+CALIFORNIA_WATCH_METROS = [
     (SOCAL_LOCATIONS, _SOCAL_AMBIGUOUS, "CA"),
     (BAY_AREA_LOCATIONS, _BAY_AMBIGUOUS, "CA"),
+]
+
+WATCH_METROS = CALIFORNIA_WATCH_METROS + [
     (ATLANTA_LOCATIONS, _ATLANTA_AMBIGUOUS, "GA"),
     (CHICAGO_LOCATIONS, _CHICAGO_AMBIGUOUS, "IL"),
 ]
@@ -322,14 +325,14 @@ def is_nyc(location: str) -> bool:
     return False
 
 
-def _metro_confirmed(location: str) -> bool:
+def _metro_confirmed(location: str, metros=WATCH_METROS) -> bool:
     """Substring gate across WATCH_METROS with a state confirm for tokens that
     have out-of-state namesakes. No "la" shortcut (collides with Louisiana);
     the "sf" token shortcut is kept from the parent repo."""
     loc = (location or "").lower()
     if re.search(r'(^|\W)sf(\W|$)', loc):
         return True
-    for tokens, ambiguous, state in WATCH_METROS:
+    for tokens, ambiguous, state in metros:
         for city in tokens:
             if city not in loc:
                 continue
@@ -341,18 +344,23 @@ def _metro_confirmed(location: str) -> bool:
 
 # PJ's lanes are on-site/hybrid; flip to widen the net to US-remote roles.
 INCLUDE_REMOTE_US = True  # Eli includes US remote roles, with California uncertainty labels.
+WATCH_LOCATION_LABEL = "Sacramento + LA/OC + SF Bay Area + US Remote"
 
 
 def is_watch_location(location: str) -> bool:
-    """Geo gate for the location-scoped watchers: Sacramento + US Remote, the SF
-    Bay Area, NYC (+ close NJ), Atlanta, and Chicago. Uses the confirmed
-    metro gate, not is_socal — its callers see nationwide location strings,
-    where bare "glendale"/"long beach"/"aurora" substrings would otherwise
-    pass for out-of-state cities."""
+    """Geo gate for Sacramento, LA/Orange County, the SF Bay Area, and US remote.
+
+    The confirmed metro gate protects nationwide feeds from ambiguous names
+    such as Richmond, Newark, Dublin, Orange, and Glendale in other states.
+    """
     loc = (location or "").lower()
     california = bool(re.search(r'\b(ca|california)\b', loc))
     local = california and any(re.search(r'\b' + re.escape(city) + r'\b', loc) for city in SACRAMENTO_CITIES)
-    return local or is_remote_us(location)
+    return (
+        local
+        or _metro_confirmed(location, CALIFORNIA_WATCH_METROS)
+        or (INCLUDE_REMOTE_US and is_remote_us(location))
+    )
 
 
 # Remote roles count as US only on an affirmative US signal, or when the
@@ -1006,6 +1014,8 @@ LINKEDIN_HOLLYWOOD_LOOKBACK_SECONDS = 86400 # 24h — entertainment is a daily 8
 # (NYC verified 2026-07-21).
 LINKEDIN_LOCATIONS = [
     ("Sacramento, California, United States", ""),
+    ("Greater Los Angeles", "90000049"),
+    ("San Francisco Bay Area", "90000084"),
     ("United States", "103644278"),
 ]
 
@@ -1242,7 +1252,12 @@ INDEED_JD_MAX_CHARS = 6000
 # covers OC; 40mi from SF covers the Peninsula + East Bay; NYC stays tight.
 # The central post-fetch policy is authoritative.
 JOBSPY_LOCATIONS = [
-    ("Sacramento, CA", 35), ("Remote", 50),
+    ("Sacramento, CA", 35),
+    ("Los Angeles, CA", 30),
+    ("Irvine, CA", 25),
+    ("San Francisco, CA", 40),
+    ("San Jose, CA", 30),
+    ("Remote", 50),
 ]
 
 
@@ -1264,7 +1279,7 @@ def _jobspy_fetch_with_retry(jobspy_scrape, **kwargs):
 
 
 def scrape_indeed_recent() -> list:
-    """Indeed roles posted in the last INDEED_LOOKBACK_HOURS, Sacramento + US Remote."""
+    """Indeed roles posted recently in Eli's California metros or US remote."""
     print(f"🟦 Scraping Indeed (last {INDEED_LOOKBACK_HOURS}h)...")
     try:
         from jobspy import scrape_jobs as jobspy_scrape
@@ -1771,8 +1786,8 @@ def save_linkedin_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="linkedin_jobs",
-        title="🔥 LinkedIn — Finance / Administration / Procurement Roles (Sacramento + US Remote)",
-        subtitle=f"Sacramento + US Remote · last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
+        title=f"🔥 LinkedIn — Finance / Administration / Procurement Roles ({WATCH_LOCATION_LABEL})",
+        subtitle=f"{WATCH_LOCATION_LABEL} · last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
         accent="#3b82f6",
         empty_message="No new roles since the last run.",
         window_label=f"last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
@@ -1783,8 +1798,8 @@ def save_indeed_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="indeed_jobs",
-        title="🟦 Indeed — Finance / Administration / Procurement Roles (Sacramento + US Remote)",
-        subtitle=f"Sacramento + US Remote · last {INDEED_LOOKBACK_HOURS}h",
+        title=f"🟦 Indeed — Finance / Administration / Procurement Roles ({WATCH_LOCATION_LABEL})",
+        subtitle=f"{WATCH_LOCATION_LABEL} · last {INDEED_LOOKBACK_HOURS}h",
         accent="#2557a7",
         empty_message="No new roles since the last run.",
         window_label=f"last {INDEED_LOOKBACK_HOURS}h",
@@ -1795,8 +1810,8 @@ def save_boards_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="boards_jobs",
-        title="🟪 ZipRecruiter + Google — Finance / Administration / Procurement Roles (Sacramento + US Remote)",
-        subtitle=f"Sacramento + US Remote · last {BOARDS_LOOKBACK_HOURS}h",
+        title=f"🟪 ZipRecruiter + Google — Finance / Administration / Procurement Roles ({WATCH_LOCATION_LABEL})",
+        subtitle=f"{WATCH_LOCATION_LABEL} · last {BOARDS_LOOKBACK_HOURS}h",
         accent="#7c5cff",
         empty_message="No new roles since the last run.",
         window_label=f"last {BOARDS_LOOKBACK_HOURS}h",
@@ -1907,7 +1922,7 @@ def save_results(jobs: list):
         json.dump(output, f, indent=2)
 
     lines = [
-        "# 🎬 Fresh Entertainment MLE Job Listings (SF Bay Area + NYC)",
+        f"# 🎬 Fresh Entertainment MLE Job Listings ({WATCH_LOCATION_LABEL})",
         f"*Last updated: {timestamp}*\n",
         f"**{len(jobs)} role(s) posted in the last 24 hours**\n",
     ]
@@ -1928,7 +1943,7 @@ def save_results(jobs: list):
     with open(os.path.join(SCRIPT_DIR, "jobs.html"), "w") as f:
         f.write(_render_jobs_html(
             title="🎬 Fresh Entertainment MLE Job Listings",
-            subtitle="SF Bay Area + NYC · posted in the last 24 hours",
+            subtitle=f"{WATCH_LOCATION_LABEL} · posted in the last 24 hours",
             timestamp=timestamp,
             jobs=jobs,
             empty_message="No entertainment roles posted in the last 24 hours.",
@@ -1941,7 +1956,7 @@ def save_results(jobs: list):
 # ===========================================================================
 # Salary backfill + extra sources (USAJOBS / GovernmentJobs / CalCareers /
 # CalOpps). These reuse the repo's existing keyword gate (is_target_role) and
-# location predicate (is_watch_location — Sacramento + US Remote), so they
+# location predicate (is_watch_location — Eli's California metros + US remote), so they
 # follow whatever KEYWORDS / SOCAL_LOCATIONS the maintainer sets — no
 # domain-specific terms are hardcoded here. Heavier per-term sources share GOV_SEARCH_TERMS (a slice of
 # the LinkedIn list) to keep request counts sane; widen it if you like.
@@ -2103,7 +2118,7 @@ GOVERNMENTJOBS_PAGES = 2
 
 def scrape_governmentjobs_recent() -> list:
     """State/local-government roles via governmentjobs.com, filtered to the
-    repo's watch locations (Sacramento + US Remote) with is_watch_location()."""
+    repo's California-metro and US-remote watch locations with is_watch_location()."""
     print("🏛  Scraping GovernmentJobs/NEOGOV (state & local gov)...")
     import html as html_mod
     item_re = re.compile(r'<li[^>]*class=["\'][^"\']*\bjob-item\b[^"\']*["\'][^>]*>([\s\S]*?)</li>', re.I)
@@ -2437,9 +2452,9 @@ REFILTER_OUTPUTS = {
 
 REFILTER_RENDER_CONFIG = {
     "hollywood_jobs": ("🎬 Entertainment — Studios / Agencies / Labels", "Curated entertainment employers", "#e879f9", "No new entertainment roles since the last run."),
-    "linkedin_jobs": ("🔥 LinkedIn — Finance / Administration / Procurement Roles (Sacramento + US Remote)", "Sacramento + US Remote", "#3b82f6", "No new roles since the last run."),
-    "indeed_jobs": ("🟦 Indeed — Finance / Administration / Procurement Roles (Sacramento + US Remote)", "Sacramento + US Remote", "#2557a7", "No new roles since the last run."),
-    "boards_jobs": ("🟪 ZipRecruiter + Google — Finance / Administration / Procurement Roles", "Sacramento + US Remote", "#7c5cff", "No new roles since the last run."),
+    "linkedin_jobs": (f"🔥 LinkedIn — Finance / Administration / Procurement Roles ({WATCH_LOCATION_LABEL})", WATCH_LOCATION_LABEL, "#3b82f6", "No new roles since the last run."),
+    "indeed_jobs": (f"🟦 Indeed — Finance / Administration / Procurement Roles ({WATCH_LOCATION_LABEL})", WATCH_LOCATION_LABEL, "#2557a7", "No new roles since the last run."),
+    "boards_jobs": ("🟪 ZipRecruiter + Google — Finance / Administration / Procurement Roles", WATCH_LOCATION_LABEL, "#7c5cff", "No new roles since the last run."),
     "usajobs_jobs": ("🇺🇸 USAJOBS — Federal Roles", "usajobs.gov · federal agencies", "#1d4ed8", "No new federal roles since the last run."),
     "governmentjobs_jobs": ("🏛 NEOGOV — State & Local Government Roles", "governmentjobs.com", "#0e7490", "No new state/local-gov roles since the last run."),
     "calopps_jobs": ("🏛 CalOpps — California Local-Agency Roles", "calopps.org · CA cities, counties, special districts", "#15803d", "No new CalOpps roles since the last run."),
@@ -2672,7 +2687,7 @@ if __name__ == "__main__":
 
     before = len(all_jobs)
     all_jobs = [j for j in all_jobs if is_watch_location(j.get("location", ""))]
-    print(f"\n📍 Sacramento + US Remote filter: {before} → {len(all_jobs)} roles")
+    print(f"\n📍 {WATCH_LOCATION_LABEL} filter: {before} → {len(all_jobs)} roles")
 
     before = len(all_jobs)
     all_jobs = [j for j in all_jobs if is_recent_posting(j)]

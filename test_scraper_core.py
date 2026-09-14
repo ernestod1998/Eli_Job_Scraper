@@ -79,9 +79,27 @@ class RoleAndLocationPolicy(unittest.TestCase):
             self.assertFalse(sj.is_target_role(title), title)
         for city in sj.SACRAMENTO_CITIES:
             self.assertTrue(sj.is_watch_location(city + ", CA"))
-        for location in ("Woodland, WA", "Davis", "Los Angeles, CA", "Remote - Spain", "US Remote except California"):
+        for location in (
+            "Los Angeles, CA", "Orange County, CA", "Irvine, California",
+            "San Francisco, CA", "Oakland, CA", "Berkeley, California",
+            "San Jose, CA", "Palo Alto, CA", "Walnut Creek, CA",
+        ):
+            self.assertTrue(sj.is_watch_location(location), location)
+        for location in (
+            "Woodland, WA", "Davis", "Richmond, VA", "Newark, NJ",
+            "Glendale, AZ", "Orange, NJ", "Boston, MA", "Remote - Spain",
+            "US Remote except California",
+        ):
             self.assertFalse(sj.is_watch_location(location), location)
         self.assertTrue(sj.is_watch_location("Remote - USA"))
+
+    def test_provider_searches_cover_requested_california_metros(self):
+        self.assertEqual(sj.LINKEDIN_LOCATIONS, [
+            ("Sacramento, California, United States", ""),
+            ("Greater Los Angeles", "90000049"),
+            ("San Francisco Bay Area", "90000084"),
+            ("United States", "103644278"),
+        ])
 
     def test_filter_is_feed_aware_and_reports_stats(self):
         rows = [
@@ -225,7 +243,14 @@ class RetrievalPolicy(unittest.TestCase):
         self.assertEqual(calls, [50])
 
     def test_jobspy_metro_radii(self):
-        self.assertEqual(sj.JOBSPY_LOCATIONS, [("Sacramento, CA", 35), ("Remote", 50)])
+        self.assertEqual(sj.JOBSPY_LOCATIONS, [
+            ("Sacramento, CA", 35),
+            ("Los Angeles, CA", 30),
+            ("Irvine, CA", 25),
+            ("San Francisco, CA", 40),
+            ("San Jose, CA", 30),
+            ("Remote", 50),
+        ])
 
 
 class RefilterCommand(unittest.TestCase):
