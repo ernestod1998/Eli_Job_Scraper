@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-13 19:30 UTC",
-  "total": 23,
-  "new_count": 1,
+  "scraped_at": "2026-09-14 21:00 UTC",
+  "total": 26,
+  "new_count": 3,
   "jobs": [
     {
       "company": "American Water",
@@ -324,30 +324,100 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-13T19:30:56.504910+00:00"
-    }
-  ],
-  "new_jobs": [
+      "last_observed_at": "2026-09-14T21:00:24.299496+00:00"
+    },
     {
-      "company": "Sutter Health",
-      "title": "Financial Analyst IV",
+      "company": "UC Davis Health",
+      "title": "Financial and Contracts Analyst 3",
       "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4437928057/",
-      "date_posted": "2026-09-13",
+      "url": "https://www.linkedin.com/jobs/view/4467200819/",
+      "date_posted": "2026-09-14",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-13T19:30:56.504910+00:00"
+      "last_observed_at": "2026-09-14T21:00:24.299483+00:00"
+    },
+    {
+      "company": "University of California, Davis",
+      "title": "Financial and Contracts Analyst 3",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465254194/",
+      "date_posted": "2026-09-14",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-14T21:00:24.299492+00:00"
+    },
+    {
+      "company": "PRIDE Industries",
+      "title": "Buyer II",
+      "location": "Roseville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467227867/",
+      "date_posted": "2026-09-14",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-14T21:00:24.299494+00:00"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "UC Davis Health",
+      "title": "Financial and Contracts Analyst 3",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467200819/",
+      "date_posted": "2026-09-14",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-14T21:00:24.299483+00:00"
+    },
+    {
+      "company": "University of California, Davis",
+      "title": "Financial and Contracts Analyst 3",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4465254194/",
+      "date_posted": "2026-09-14",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-14T21:00:24.299492+00:00"
+    },
+    {
+      "company": "PRIDE Industries",
+      "title": "Buyer II",
+      "location": "Roseville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467227867/",
+      "date_posted": "2026-09-14",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-14T21:00:24.299494+00:00"
     }
   ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 417,
+    "location": 388,
     "stale": 0
   }
 }
