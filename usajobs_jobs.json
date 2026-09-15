@@ -1,14 +1,76 @@
 {
-  "scraped_at": "2026-09-14 21:02 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": [],
+  "scraped_at": "2026-09-15 20:22 UTC",
+  "total": 2,
+  "new_count": 2,
+  "jobs": [
+    {
+      "company": "Department of Education Headquarters",
+      "title": "BUDGET ANALYST, GS-0560-14, FPL GS-14 (TERM) (DH) (OPEN CONTINUOUS)",
+      "location": "San Francisco, California",
+      "url": "https://www.usajobs.gov/job/883263500",
+      "date_posted": "2026-09-02",
+      "salary": "Starting at $125,776 Per year (GS 14)",
+      "ats": "USAJOBS",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:22:36.802083+00:00"
+    },
+    {
+      "company": "Space Systems Command",
+      "title": "Procurement Analyst, SSC/PK",
+      "location": "Los Angeles County, California",
+      "url": "https://www.usajobs.gov/job/884559600",
+      "date_posted": "2026-09-14",
+      "salary": "Starting at $146,632 Per year (NH 4)",
+      "ats": "USAJOBS",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:22:36.802093+00:00"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Department of Education Headquarters",
+      "title": "BUDGET ANALYST, GS-0560-14, FPL GS-14 (TERM) (DH) (OPEN CONTINUOUS)",
+      "location": "San Francisco, California",
+      "url": "https://www.usajobs.gov/job/883263500",
+      "date_posted": "2026-09-02",
+      "salary": "Starting at $125,776 Per year (GS 14)",
+      "ats": "USAJOBS",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:22:36.802083+00:00"
+    },
+    {
+      "company": "Space Systems Command",
+      "title": "Procurement Analyst, SSC/PK",
+      "location": "Los Angeles County, California",
+      "url": "https://www.usajobs.gov/job/884559600",
+      "date_posted": "2026-09-14",
+      "salary": "Starting at $146,632 Per year (NH 4)",
+      "ats": "USAJOBS",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:22:36.802093+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 63,
+    "location": 53,
     "stale": 0
   }
 }

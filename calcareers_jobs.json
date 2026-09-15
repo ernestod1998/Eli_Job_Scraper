@@ -1,14 +1,106 @@
 {
-  "scraped_at": "2026-09-14 21:03 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": [],
+  "scraped_at": "2026-09-15 20:24 UTC",
+  "total": 3,
+  "new_count": 3,
+  "jobs": [
+    {
+      "company": "Department of Transportation",
+      "title": "Program Budget Analyst",
+      "location": "Alameda County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531982",
+      "date_posted": "2026-09-14",
+      "salary": "$6031.00 - $7775.00",
+      "ats": "CalCareers",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:24:23.538402+00:00"
+    },
+    {
+      "company": "Department of Industrial Relations",
+      "title": "Labor Compliance Analyst (LCA)",
+      "location": "Santa Clara County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=530365",
+      "date_posted": "2026-08-28",
+      "salary": "$3861.00 - $6276.00",
+      "ats": "CalCareers",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:24:23.538412+00:00"
+    },
+    {
+      "company": "Department of Transportation",
+      "title": "Division Admin, Training, IT, Purchasing, and Contracts Analyst",
+      "location": "Los Angeles County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531079",
+      "date_posted": "2026-09-03",
+      "salary": "$6031.00 - $7547.00",
+      "ats": "CalCareers",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:24:23.538416+00:00"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Department of Transportation",
+      "title": "Program Budget Analyst",
+      "location": "Alameda County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531982",
+      "date_posted": "2026-09-14",
+      "salary": "$6031.00 - $7775.00",
+      "ats": "CalCareers",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:24:23.538402+00:00"
+    },
+    {
+      "company": "Department of Industrial Relations",
+      "title": "Labor Compliance Analyst (LCA)",
+      "location": "Santa Clara County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=530365",
+      "date_posted": "2026-08-28",
+      "salary": "$3861.00 - $6276.00",
+      "ats": "CalCareers",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:24:23.538412+00:00"
+    },
+    {
+      "company": "Department of Transportation",
+      "title": "Division Admin, Training, IT, Purchasing, and Contracts Analyst",
+      "location": "Los Angeles County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531079",
+      "date_posted": "2026-09-03",
+      "salary": "$6031.00 - $7547.00",
+      "ats": "CalCareers",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:24:23.538416+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 23,
+    "location": 20,
     "stale": 0
   }
 }

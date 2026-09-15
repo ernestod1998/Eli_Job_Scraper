@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-14 21:02 UTC",
-  "total": 2,
-  "new_count": 0,
+  "scraped_at": "2026-09-15 20:23 UTC",
+  "total": 13,
+  "new_count": 11,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -31,10 +31,341 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-14T21:02:42.372356+00:00"
+      "last_observed_at": "2026-09-15T20:23:26.611836+00:00"
+    },
+    {
+      "company": "Santa Clarita Valley Water Agency",
+      "title": "Financial Analyst I",
+      "location": "Santa Clarita, CA",
+      "url": "https://www.governmentjobs.com/jobs/5469979-0/financial-analyst-i",
+      "date_posted": "",
+      "salary": "$121,284.84 - $130,623.96 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611823+00:00"
+    },
+    {
+      "company": "City of San Jose",
+      "title": "Financial Analyst- Department of Finance (Debt Management)",
+      "location": "San Jose",
+      "url": "https://www.governmentjobs.com/jobs/5480346-0/financial-analyst-department-of-finance-debt-management",
+      "date_posted": "",
+      "salary": "$118,460.16 - $144,318.72 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611839+00:00"
+    },
+    {
+      "company": "City of Belmont",
+      "title": "Budget Analyst (Management Analyst I/II)",
+      "location": "Belmont, CA",
+      "url": "https://www.governmentjobs.com/jobs/149607-1/budget-analyst-management-analyst-i-ii",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611845+00:00"
+    },
+    {
+      "company": "City of Burbank",
+      "title": "ADMINISTRATIVE ANALYST I (M)",
+      "location": "Burbank, CA",
+      "url": "https://www.governmentjobs.com/jobs/5471303-0/administrative-analyst-i-m",
+      "date_posted": "",
+      "salary": "$80,472.60 - $105,821.56 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611847+00:00"
+    },
+    {
+      "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
+      "title": "TEMPORARY SENIOR ADMINISTRATIVE ANALYST (BUDGET & ADMINISTRATION)",
+      "location": "Los Angeles, CA",
+      "url": "https://www.governmentjobs.com/jobs/5468168-0/temporary-senior-administrative-analyst-budget-administration",
+      "date_posted": "",
+      "salary": "$40.38 - $60.57 Hourly",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611849+00:00"
+    },
+    {
+      "company": "California State University, Fullerton",
+      "title": "Accounts Payable Analyst (Administrative Analyst/Specialist - Exempt II)",
+      "location": "Fullerton, CA",
+      "url": "https://www.governmentjobs.com/jobs/149528-1/accounts-payable-analyst-administrative-analyst-specialist-exempt-ii",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611850+00:00"
+    },
+    {
+      "company": "San Jose State University",
+      "title": "Department Administrative Analyst",
+      "location": "San Jose, CA",
+      "url": "https://www.governmentjobs.com/jobs/149632-1/department-administrative-analyst",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611852+00:00"
+    },
+    {
+      "company": "County of Marin",
+      "title": "Climate Adaptation and Finance Strategist (Administrative Analyst III)",
+      "location": "San Rafael, CA",
+      "url": "https://www.governmentjobs.com/jobs/5461066-0/climate-adaptation-and-finance-strategist-administrative-analyst-iii",
+      "date_posted": "",
+      "salary": "$130,936.00 - $158,225.60 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611854+00:00"
+    },
+    {
+      "company": "Superior Court of California, County of Alameda",
+      "title": "Associate Fiscal Analyst",
+      "location": "Oakland, CA",
+      "url": "https://www.governmentjobs.com/jobs/149644-1/associate-fiscal-analyst",
+      "date_posted": "",
+      "salary": "$90,729.60 - $110,926.40 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611855+00:00"
+    },
+    {
+      "company": "South Orange County Community College District",
+      "title": "Grants Analyst",
+      "location": "Mission Viejo, CA",
+      "url": "https://www.governmentjobs.com/jobs/149580-1/grants-analyst",
+      "date_posted": "",
+      "salary": "$7,931.00 - $11,214.00 Monthly",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611857+00:00"
+    },
+    {
+      "company": "South Orange County Community College District",
+      "title": "Grants Analyst - PT",
+      "location": "Mission Viejo, CA",
+      "url": "https://www.governmentjobs.com/jobs/149577-1/grants-analyst-pt",
+      "date_posted": "",
+      "salary": "$4,956.00 - $7,008.00 Monthly",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611858+00:00"
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Santa Clarita Valley Water Agency",
+      "title": "Financial Analyst I",
+      "location": "Santa Clarita, CA",
+      "url": "https://www.governmentjobs.com/jobs/5469979-0/financial-analyst-i",
+      "date_posted": "",
+      "salary": "$121,284.84 - $130,623.96 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611823+00:00"
+    },
+    {
+      "company": "City of San Jose",
+      "title": "Financial Analyst- Department of Finance (Debt Management)",
+      "location": "San Jose",
+      "url": "https://www.governmentjobs.com/jobs/5480346-0/financial-analyst-department-of-finance-debt-management",
+      "date_posted": "",
+      "salary": "$118,460.16 - $144,318.72 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611839+00:00"
+    },
+    {
+      "company": "City of Belmont",
+      "title": "Budget Analyst (Management Analyst I/II)",
+      "location": "Belmont, CA",
+      "url": "https://www.governmentjobs.com/jobs/149607-1/budget-analyst-management-analyst-i-ii",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611845+00:00"
+    },
+    {
+      "company": "City of Burbank",
+      "title": "ADMINISTRATIVE ANALYST I (M)",
+      "location": "Burbank, CA",
+      "url": "https://www.governmentjobs.com/jobs/5471303-0/administrative-analyst-i-m",
+      "date_posted": "",
+      "salary": "$80,472.60 - $105,821.56 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611847+00:00"
+    },
+    {
+      "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
+      "title": "TEMPORARY SENIOR ADMINISTRATIVE ANALYST (BUDGET & ADMINISTRATION)",
+      "location": "Los Angeles, CA",
+      "url": "https://www.governmentjobs.com/jobs/5468168-0/temporary-senior-administrative-analyst-budget-administration",
+      "date_posted": "",
+      "salary": "$40.38 - $60.57 Hourly",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611849+00:00"
+    },
+    {
+      "company": "California State University, Fullerton",
+      "title": "Accounts Payable Analyst (Administrative Analyst/Specialist - Exempt II)",
+      "location": "Fullerton, CA",
+      "url": "https://www.governmentjobs.com/jobs/149528-1/accounts-payable-analyst-administrative-analyst-specialist-exempt-ii",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611850+00:00"
+    },
+    {
+      "company": "San Jose State University",
+      "title": "Department Administrative Analyst",
+      "location": "San Jose, CA",
+      "url": "https://www.governmentjobs.com/jobs/149632-1/department-administrative-analyst",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611852+00:00"
+    },
+    {
+      "company": "County of Marin",
+      "title": "Climate Adaptation and Finance Strategist (Administrative Analyst III)",
+      "location": "San Rafael, CA",
+      "url": "https://www.governmentjobs.com/jobs/5461066-0/climate-adaptation-and-finance-strategist-administrative-analyst-iii",
+      "date_posted": "",
+      "salary": "$130,936.00 - $158,225.60 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611854+00:00"
+    },
+    {
+      "company": "Superior Court of California, County of Alameda",
+      "title": "Associate Fiscal Analyst",
+      "location": "Oakland, CA",
+      "url": "https://www.governmentjobs.com/jobs/149644-1/associate-fiscal-analyst",
+      "date_posted": "",
+      "salary": "$90,729.60 - $110,926.40 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611855+00:00"
+    },
+    {
+      "company": "South Orange County Community College District",
+      "title": "Grants Analyst",
+      "location": "Mission Viejo, CA",
+      "url": "https://www.governmentjobs.com/jobs/149580-1/grants-analyst",
+      "date_posted": "",
+      "salary": "$7,931.00 - $11,214.00 Monthly",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611857+00:00"
+    },
+    {
+      "company": "South Orange County Community College District",
+      "title": "Grants Analyst - PT",
+      "location": "Mission Viejo, CA",
+      "url": "https://www.governmentjobs.com/jobs/149577-1/grants-analyst-pt",
+      "date_posted": "",
+      "salary": "$4,956.00 - $7,008.00 Monthly",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-15T20:23:26.611858+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
