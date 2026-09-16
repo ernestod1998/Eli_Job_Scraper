@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-15 20:23 UTC",
+  "scraped_at": "2026-09-16 20:19 UTC",
   "total": 3,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Belmont",
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-15T20:23:52.222145+00:00"
+      "last_observed_at": "2026-09-16T20:19:32.736852+00:00"
     },
     {
       "company": "Judicial Council Of California",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-15T20:23:52.222157+00:00"
+      "last_observed_at": "2026-09-16T20:19:32.736868+00:00"
     },
     {
       "company": "Judicial Council Of California",
@@ -46,56 +46,10 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-15T20:23:52.222160+00:00"
+      "last_observed_at": "2026-09-16T20:19:32.736871+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Belmont",
-      "title": "Budget Analyst (Management Analyst I/II)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/belmont/job-20773376",
-      "date_posted": "",
-      "salary": "$103,123.00-$143,350.00 Annually",
-      "ats": "CalOpps",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-15T20:23:52.222145+00:00"
-    },
-    {
-      "company": "Judicial Council Of California",
-      "title": "Senior Budget Analyst (Senior Fiscal Analyst)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/judicial-council-of-california/job-20733069",
-      "date_posted": "",
-      "salary": "$7,941.00-$11,912.00 Monthly",
-      "ats": "CalOpps",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-15T20:23:52.222157+00:00"
-    },
-    {
-      "company": "Judicial Council Of California",
-      "title": "Senior Budget Analyst (Senior Fiscal Analyst)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/judicial-council-of-california/job-20733065",
-      "date_posted": "",
-      "salary": "$7,941.00-$11,912.00 Monthly",
-      "ats": "CalOpps",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-15T20:23:52.222160+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
