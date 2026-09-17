@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-16 20:20 UTC",
-  "total": 3,
+  "scraped_at": "2026-09-17 20:31 UTC",
+  "total": 4,
   "new_count": 0,
   "jobs": [
     {
@@ -16,7 +16,22 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-16T20:20:02.362165+00:00"
+      "last_observed_at": "2026-09-17T20:31:08.880403+00:00"
+    },
+    {
+      "company": "State Compensation Insurance Fund",
+      "title": "Lead Accounting Analyst",
+      "location": "Alameda County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=532421",
+      "date_posted": "2026-09-16",
+      "salary": "$6330.00 - $7929.00",
+      "ats": "CalCareers",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-17T20:31:08.880417+00:00"
     },
     {
       "company": "Department of Industrial Relations",
@@ -31,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-16T20:20:02.362178+00:00"
+      "last_observed_at": "2026-09-17T20:31:08.880419+00:00"
     },
     {
       "company": "Department of Transportation",
@@ -46,7 +61,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-16T20:20:02.362181+00:00"
+      "last_observed_at": "2026-09-17T20:31:08.880420+00:00"
     }
   ],
   "new_jobs": [],
@@ -54,7 +69,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 23,
+    "location": 24,
     "stale": 0
   }
 }

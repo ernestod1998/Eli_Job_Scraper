@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-16 20:19 UTC",
-  "total": 14,
+  "scraped_at": "2026-09-17 20:30 UTC",
+  "total": 15,
   "new_count": 1,
   "jobs": [
     {
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-16T20:19:12.366517+00:00"
+      "last_observed_at": "2026-09-17T20:30:19.292370+00:00"
     },
     {
       "company": "Santa Clarita Valley Water Agency",
@@ -46,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-16T20:19:12.366504+00:00"
+      "last_observed_at": "2026-09-17T20:30:19.292355+00:00"
     },
     {
       "company": "City of San Jose",
@@ -76,7 +76,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-16T20:19:12.366520+00:00"
+      "last_observed_at": "2026-09-17T20:30:19.292401+00:00"
     },
     {
       "company": "City of Burbank",
@@ -91,7 +91,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-16T20:19:12.366536+00:00"
+      "last_observed_at": "2026-09-17T20:30:19.292403+00:00"
     },
     {
       "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
@@ -121,7 +121,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-16T20:19:12.366537+00:00"
+      "last_observed_at": "2026-09-17T20:30:19.292404+00:00"
     },
     {
       "company": "San Jose State University",
@@ -136,7 +136,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-15T20:23:26.611852+00:00"
+      "last_observed_at": "2026-09-17T20:30:19.292406+00:00"
     },
     {
       "company": "County of Marin",
@@ -166,7 +166,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-15T20:23:26.611855+00:00"
+      "last_observed_at": "2026-09-17T20:30:19.292407+00:00"
     },
     {
       "company": "South Orange County Community College District",
@@ -211,24 +211,39 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-16T20:19:12.366534+00:00"
+      "last_observed_at": "2026-09-17T20:30:19.292402+00:00"
+    },
+    {
+      "company": "Los Angeles County Sanitation Districts",
+      "title": "Budget Analyst",
+      "location": "Whittier, CA",
+      "url": "https://www.governmentjobs.com/jobs/5483853-0/budget-analyst",
+      "date_posted": "",
+      "salary": "$8,798.00 - $10,931.00 Monthly",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-17T20:30:19.292373+00:00"
     }
   ],
   "new_jobs": [
     {
-      "company": "City of Sacramento",
-      "title": "Administrative Analyst (Logistics)",
-      "location": "Sacramento, CA",
-      "url": "https://www.governmentjobs.com/jobs/5474346-0/administrative-analyst-logistics",
+      "company": "Los Angeles County Sanitation Districts",
+      "title": "Budget Analyst",
+      "location": "Whittier, CA",
+      "url": "https://www.governmentjobs.com/jobs/5483853-0/budget-analyst",
       "date_posted": "",
-      "salary": "$75,777.96 - $106,627.20 Annually",
+      "salary": "$8,798.00 - $10,931.00 Monthly",
       "ats": "NEOGOV",
       "california_eligibility": "local",
-      "role_fit": "unverified",
+      "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-16T20:19:12.366534+00:00"
+      "last_observed_at": "2026-09-17T20:30:19.292373+00:00"
     }
   ],
   "filter_stats": {

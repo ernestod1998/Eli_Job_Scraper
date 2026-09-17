@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-16 20:17 UTC",
+  "scraped_at": "2026-09-17 20:29 UTC",
   "total": 3,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Space Systems Command",
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-16T20:17:39.440918+00:00"
+      "last_observed_at": "2026-09-17T20:29:03.683402+00:00"
     },
     {
       "company": "Department of Education Headquarters",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-16T20:17:39.440932+00:00"
+      "last_observed_at": "2026-09-17T20:29:03.683415+00:00"
     },
     {
       "company": "Department of Education Headquarters",
@@ -46,41 +46,10 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-16T20:17:39.440935+00:00"
+      "last_observed_at": "2026-09-17T20:29:03.683417+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Space Systems Command",
-      "title": "Cost Analyst, SYD 80/AAF",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov/job/884883500",
-      "date_posted": "2026-09-15",
-      "salary": "Starting at $104,349 Per year (NH 3)",
-      "ats": "USAJOBS",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-16T20:17:39.440918+00:00"
-    },
-    {
-      "company": "Department of Education Headquarters",
-      "title": "Contract Specialist (Team Lead) and Procurement Analyst, GS-1102-14 (Direct Hire)",
-      "location": "San Francisco, California",
-      "url": "https://www.usajobs.gov/job/884833800",
-      "date_posted": "2026-09-16",
-      "salary": "Starting at $125,776 Per year (GS 14)",
-      "ats": "USAJOBS",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-16T20:17:39.440935+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
