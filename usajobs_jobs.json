@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-17 20:29 UTC",
+  "scraped_at": "2026-09-18 19:46 UTC",
   "total": 3,
   "new_count": 0,
   "jobs": [
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-17T20:29:03.683402+00:00"
+      "last_observed_at": "2026-09-18T19:46:12.534351+00:00"
     },
     {
       "company": "Department of Education Headquarters",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-17T20:29:03.683415+00:00"
+      "last_observed_at": "2026-09-18T19:46:12.534361+00:00"
     },
     {
       "company": "Department of Education Headquarters",
@@ -46,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-17T20:29:03.683417+00:00"
+      "last_observed_at": "2026-09-18T19:46:12.534364+00:00"
     }
   ],
   "new_jobs": [],
@@ -54,7 +54,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 52,
+    "location": 53,
     "stale": 0
   }
 }

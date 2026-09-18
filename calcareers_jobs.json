@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-17 20:31 UTC",
+  "scraped_at": "2026-09-18 19:47 UTC",
   "total": 4,
   "new_count": 0,
   "jobs": [
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-17T20:31:08.880403+00:00"
+      "last_observed_at": "2026-09-18T19:47:28.313692+00:00"
     },
     {
       "company": "State Compensation Insurance Fund",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-17T20:31:08.880417+00:00"
+      "last_observed_at": "2026-09-18T19:47:28.313702+00:00"
     },
     {
       "company": "Department of Industrial Relations",
@@ -46,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-17T20:31:08.880419+00:00"
+      "last_observed_at": "2026-09-18T19:47:28.313705+00:00"
     },
     {
       "company": "Department of Transportation",
@@ -61,7 +61,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-17T20:31:08.880420+00:00"
+      "last_observed_at": "2026-09-18T19:47:28.313707+00:00"
     }
   ],
   "new_jobs": [],
