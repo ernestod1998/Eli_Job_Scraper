@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-18 19:46 UTC",
+  "scraped_at": "2026-09-19 19:28 UTC",
   "total": 19,
-  "new_count": 4,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:46:40.564241+00:00"
+      "last_observed_at": "2026-09-19T19:28:07.982105+00:00"
     },
     {
       "company": "Santa Clarita Valley Water Agency",
@@ -46,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:46:40.564229+00:00"
+      "last_observed_at": "2026-09-19T19:28:07.982094+00:00"
     },
     {
       "company": "City of San Jose",
@@ -61,7 +61,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:46:40.564245+00:00"
+      "last_observed_at": "2026-09-19T19:28:07.982108+00:00"
     },
     {
       "company": "City of Belmont",
@@ -76,7 +76,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:46:40.564262+00:00"
+      "last_observed_at": "2026-09-19T19:28:07.982193+00:00"
     },
     {
       "company": "City of Burbank",
@@ -121,7 +121,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:46:40.564268+00:00"
+      "last_observed_at": "2026-09-19T19:28:07.982200+00:00"
     },
     {
       "company": "San Jose State University",
@@ -136,7 +136,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:46:40.564269+00:00"
+      "last_observed_at": "2026-09-19T19:28:07.982203+00:00"
     },
     {
       "company": "County of Marin",
@@ -151,7 +151,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-15T20:23:26.611854+00:00"
+      "last_observed_at": "2026-09-19T19:28:07.982205+00:00"
     },
     {
       "company": "Superior Court of California, County of Alameda",
@@ -166,7 +166,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:46:40.564271+00:00"
+      "last_observed_at": "2026-09-19T19:28:07.982208+00:00"
     },
     {
       "company": "South Orange County Community College District",
@@ -181,7 +181,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:46:40.564278+00:00"
+      "last_observed_at": "2026-09-19T19:28:07.982210+00:00"
     },
     {
       "company": "South Orange County Community College District",
@@ -196,7 +196,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:46:40.564279+00:00"
+      "last_observed_at": "2026-09-19T19:28:07.982215+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -211,7 +211,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:46:40.564263+00:00"
+      "last_observed_at": "2026-09-19T19:28:07.982195+00:00"
     },
     {
       "company": "Los Angeles County Sanitation Districts",
@@ -226,7 +226,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:46:40.564260+00:00"
+      "last_observed_at": "2026-09-19T19:28:07.982190+00:00"
     },
     {
       "company": "County of Los Angeles",
@@ -241,7 +241,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:46:40.564257+00:00"
+      "last_observed_at": "2026-09-19T19:28:07.982121+00:00"
     },
     {
       "company": "City of Burbank",
@@ -256,7 +256,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:46:40.564266+00:00"
+      "last_observed_at": "2026-09-19T19:28:07.982198+00:00"
     },
     {
       "company": "City of Hermosa Beach",
@@ -289,68 +289,7 @@
       "last_observed_at": "2026-09-18T19:46:40.564276+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "County of Los Angeles",
-      "title": "HEALTH CARE FINANCIAL ANALYST - EMERGENCY APPOINTMENT (HOMELESSNESS)",
-      "location": "Los Angeles County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5421564-0/health-care-financial-analyst-emergency-appointment-homelessness",
-      "date_posted": "",
-      "salary": "$76,615.68 - $103,240.32 Annually",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-18T19:46:40.564257+00:00"
-    },
-    {
-      "company": "City of Burbank",
-      "title": "ADMINISTRATIVE ANALYST II (Z)",
-      "location": "Burbank, CA",
-      "url": "https://www.governmentjobs.com/jobs/5483794-0/administrative-analyst-ii-z",
-      "date_posted": "",
-      "salary": "$89,422.58 - $117,590.72 Annually",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-18T19:46:40.564266+00:00"
-    },
-    {
-      "company": "City of Hermosa Beach",
-      "title": "Management Analyst",
-      "location": "City of Hermosa Beach, CA",
-      "url": "https://www.governmentjobs.com/jobs/5469689-0/management-analyst",
-      "date_posted": "",
-      "salary": "$90,732.00 - $110,292.00 Annually",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-18T19:46:40.564272+00:00"
-    },
-    {
-      "company": "City of South Pasadena",
-      "title": "Senior Management Analyst",
-      "location": "South Pasadena, CA",
-      "url": "https://www.governmentjobs.com/jobs/5479019-0/senior-management-analyst",
-      "date_posted": "",
-      "salary": "$107,616.00 - $144,216.00 Annually",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-18T19:46:40.564276+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,

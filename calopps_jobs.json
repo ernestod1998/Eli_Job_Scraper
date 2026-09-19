@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-18 19:47 UTC",
+  "scraped_at": "2026-09-19 19:28 UTC",
   "total": 4,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Belmont",
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:47:06.591455+00:00"
+      "last_observed_at": "2026-09-19T19:28:32.687169+00:00"
     },
     {
       "company": "Atherton",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:47:06.591467+00:00"
+      "last_observed_at": "2026-09-19T19:28:32.687181+00:00"
     },
     {
       "company": "Judicial Council Of California",
@@ -46,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:47:06.591470+00:00"
+      "last_observed_at": "2026-09-19T19:28:32.687184+00:00"
     },
     {
       "company": "Judicial Council Of California",
@@ -61,26 +61,10 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:47:06.591472+00:00"
+      "last_observed_at": "2026-09-19T19:28:32.687185+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Atherton",
-      "title": "Management Analyst I/II- Public Works",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/atherton/job-20739838",
-      "date_posted": "",
-      "salary": "$10,432.00-$13,383.00 Monthly",
-      "ats": "CalOpps",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-18T19:47:06.591467+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,

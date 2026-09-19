@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-18 19:47 UTC",
-  "total": 4,
+  "scraped_at": "2026-09-19 19:29 UTC",
+  "total": 3,
   "new_count": 0,
   "jobs": [
     {
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:47:28.313692+00:00"
+      "last_observed_at": "2026-09-19T19:29:03.887619+00:00"
     },
     {
       "company": "State Compensation Insurance Fund",
@@ -31,22 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:47:28.313702+00:00"
-    },
-    {
-      "company": "Department of Industrial Relations",
-      "title": "Labor Compliance Analyst (LCA)",
-      "location": "Santa Clara County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=530365",
-      "date_posted": "2026-08-28",
-      "salary": "$3861.00 - $6276.00",
-      "ats": "CalCareers",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-18T19:47:28.313705+00:00"
+      "last_observed_at": "2026-09-19T19:29:03.887630+00:00"
     },
     {
       "company": "Department of Transportation",
@@ -61,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-18T19:47:28.313707+00:00"
+      "last_observed_at": "2026-09-19T19:29:03.887633+00:00"
     }
   ],
   "new_jobs": [],
