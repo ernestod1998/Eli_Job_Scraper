@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-20 19:35 UTC",
+  "scraped_at": "2026-09-21 21:15 UTC",
   "total": 2,
   "new_count": 0,
   "jobs": [
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-20T19:35:50.554546+00:00"
+      "last_observed_at": "2026-09-21T21:15:06.751795+00:00"
     },
     {
       "company": "State Compensation Insurance Fund",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-20T19:35:50.554557+00:00"
+      "last_observed_at": "2026-09-21T21:15:06.751807+00:00"
     }
   ],
   "new_jobs": [],
@@ -39,7 +39,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 24,
+    "location": 25,
     "stale": 0
   }
 }
