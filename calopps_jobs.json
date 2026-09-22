@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-21 21:14 UTC",
+  "scraped_at": "2026-09-22 20:22 UTC",
   "total": 4,
   "new_count": 0,
   "jobs": [
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-21T21:14:42.076118+00:00"
+      "last_observed_at": "2026-09-22T20:22:11.594029+00:00"
     },
     {
       "company": "Atherton",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-21T21:14:42.076131+00:00"
+      "last_observed_at": "2026-09-22T20:22:11.594045+00:00"
     },
     {
       "company": "Judicial Council Of California",
@@ -46,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-21T21:14:42.076134+00:00"
+      "last_observed_at": "2026-09-22T20:22:11.594048+00:00"
     },
     {
       "company": "Judicial Council Of California",
@@ -61,7 +61,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-21T21:14:42.076135+00:00"
+      "last_observed_at": "2026-09-22T20:22:11.594050+00:00"
     }
   ],
   "new_jobs": [],
