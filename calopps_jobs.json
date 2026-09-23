@@ -1,8 +1,23 @@
 {
-  "scraped_at": "2026-09-22 20:22 UTC",
-  "total": 4,
-  "new_count": 0,
+  "scraped_at": "2026-09-23 20:33 UTC",
+  "total": 5,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "San Mateo County Transit District Samtrans",
+      "title": "Principal Grants Analyst",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo-county-transit-district-samtrans/job-20779068",
+      "date_posted": "",
+      "salary": "$129,834.00-$181,767.00 Annually",
+      "ats": "CalOpps",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-23T20:33:01.380685+00:00"
+    },
     {
       "company": "Belmont",
       "title": "Budget Analyst (Management Analyst I/II)",
@@ -16,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-22T20:22:11.594029+00:00"
+      "last_observed_at": "2026-09-23T20:33:01.380696+00:00"
     },
     {
       "company": "Atherton",
@@ -31,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-22T20:22:11.594045+00:00"
+      "last_observed_at": "2026-09-23T20:33:01.380698+00:00"
     },
     {
       "company": "Judicial Council Of California",
@@ -46,7 +61,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-22T20:22:11.594048+00:00"
+      "last_observed_at": "2026-09-23T20:33:01.380699+00:00"
     },
     {
       "company": "Judicial Council Of California",
@@ -61,10 +76,26 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-22T20:22:11.594050+00:00"
+      "last_observed_at": "2026-09-23T20:33:01.380701+00:00"
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "San Mateo County Transit District Samtrans",
+      "title": "Principal Grants Analyst",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo-county-transit-district-samtrans/job-20779068",
+      "date_posted": "",
+      "salary": "$129,834.00-$181,767.00 Annually",
+      "ats": "CalOpps",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-23T20:33:01.380685+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,

@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-22 20:21 UTC",
-  "total": 20,
+  "scraped_at": "2026-09-23 20:32 UTC",
+  "total": 21,
   "new_count": 1,
   "jobs": [
     {
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-22T20:21:43.931507+00:00"
+      "last_observed_at": "2026-09-23T20:32:38.919868+00:00"
     },
     {
       "company": "Santa Clarita Valley Water Agency",
@@ -61,7 +61,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-22T20:21:43.931522+00:00"
+      "last_observed_at": "2026-09-23T20:32:38.919879+00:00"
     },
     {
       "company": "City of Belmont",
@@ -76,7 +76,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-22T20:21:43.931535+00:00"
+      "last_observed_at": "2026-09-23T20:32:38.919887+00:00"
     },
     {
       "company": "City of Burbank",
@@ -121,7 +121,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-22T20:21:43.931541+00:00"
+      "last_observed_at": "2026-09-23T20:32:38.919893+00:00"
     },
     {
       "company": "San Jose State University",
@@ -136,7 +136,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-22T20:21:43.931543+00:00"
+      "last_observed_at": "2026-09-23T20:32:38.919894+00:00"
     },
     {
       "company": "County of Marin",
@@ -181,7 +181,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-22T20:21:43.931546+00:00"
+      "last_observed_at": "2026-09-23T20:32:38.919895+00:00"
     },
     {
       "company": "South Orange County Community College District",
@@ -196,7 +196,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-21T21:14:01.720464+00:00"
+      "last_observed_at": "2026-09-23T20:32:38.919897+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -211,7 +211,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-22T20:21:43.931536+00:00"
+      "last_observed_at": "2026-09-23T20:32:38.919888+00:00"
     },
     {
       "company": "Los Angeles County Sanitation Districts",
@@ -226,7 +226,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-22T20:21:43.931533+00:00"
+      "last_observed_at": "2026-09-23T20:32:38.919881+00:00"
     },
     {
       "company": "County of Los Angeles",
@@ -256,7 +256,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-22T20:21:43.931538+00:00"
+      "last_observed_at": "2026-09-23T20:32:38.919892+00:00"
     },
     {
       "company": "City of Hermosa Beach",
@@ -301,24 +301,39 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-22T20:21:43.931539+00:00"
-    }
-  ],
-  "new_jobs": [
+      "last_observed_at": "2026-09-23T20:32:38.919891+00:00"
+    },
     {
-      "company": "City of Sacramento",
-      "title": "Administrative Analyst (Fire Department)",
-      "location": "Sacramento, CA",
-      "url": "https://www.governmentjobs.com/jobs/5484300-0/administrative-analyst-fire-department",
+      "company": "East Bay Regional Park District",
+      "title": "Administrative Analyst II",
+      "location": "Oakland, CA",
+      "url": "https://www.governmentjobs.com/jobs/5460823-0/administrative-analyst-ii",
       "date_posted": "",
-      "salary": "$75,777.96 - $106,627.20 Annually",
+      "salary": "$116,532.00 - $131,878.50 Annually",
       "ats": "NEOGOV",
       "california_eligibility": "local",
       "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-22T20:21:43.931539+00:00"
+      "last_observed_at": "2026-09-23T20:32:38.919889+00:00"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "East Bay Regional Park District",
+      "title": "Administrative Analyst II",
+      "location": "Oakland, CA",
+      "url": "https://www.governmentjobs.com/jobs/5460823-0/administrative-analyst-ii",
+      "date_posted": "",
+      "salary": "$116,532.00 - $131,878.50 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-23T20:32:38.919889+00:00"
     }
   ],
   "filter_stats": {
