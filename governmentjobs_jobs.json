@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-23 20:32 UTC",
-  "total": 21,
-  "new_count": 1,
+  "scraped_at": "2026-09-24 20:40 UTC",
+  "total": 23,
+  "new_count": 2,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -24,14 +24,14 @@
       "location": "Sacramento, CA",
       "url": "https://www.governmentjobs.com/jobs/5470091-0/supervising-financial-analyst",
       "date_posted": "",
-      "salary": "$99,969.76 - $140,667.50 Annually",
+      "salary": "$102,469.01 - $144,184.18 Annually",
       "ats": "NEOGOV",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-23T20:32:38.919868+00:00"
+      "last_observed_at": "2026-09-24T20:40:28.780341+00:00"
     },
     {
       "company": "Santa Clarita Valley Water Agency",
@@ -61,7 +61,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-23T20:32:38.919879+00:00"
+      "last_observed_at": "2026-09-24T20:40:28.780352+00:00"
     },
     {
       "company": "City of Belmont",
@@ -76,7 +76,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-23T20:32:38.919887+00:00"
+      "last_observed_at": "2026-09-24T20:40:28.780362+00:00"
     },
     {
       "company": "City of Burbank",
@@ -121,7 +121,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-23T20:32:38.919893+00:00"
+      "last_observed_at": "2026-09-24T20:40:28.780368+00:00"
     },
     {
       "company": "San Jose State University",
@@ -136,7 +136,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-23T20:32:38.919894+00:00"
+      "last_observed_at": "2026-09-24T20:40:28.780370+00:00"
     },
     {
       "company": "County of Marin",
@@ -181,7 +181,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-23T20:32:38.919895+00:00"
+      "last_observed_at": "2026-09-24T20:40:28.780376+00:00"
     },
     {
       "company": "South Orange County Community College District",
@@ -204,14 +204,14 @@
       "location": "Sacramento, CA",
       "url": "https://www.governmentjobs.com/jobs/5474346-0/administrative-analyst-logistics",
       "date_posted": "",
-      "salary": "$75,777.96 - $106,627.20 Annually",
+      "salary": "$77,672.41 - $109,292.88 Annually",
       "ats": "NEOGOV",
       "california_eligibility": "local",
       "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-23T20:32:38.919888+00:00"
+      "last_observed_at": "2026-09-24T20:40:28.780365+00:00"
     },
     {
       "company": "Los Angeles County Sanitation Districts",
@@ -226,7 +226,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-23T20:32:38.919881+00:00"
+      "last_observed_at": "2026-09-24T20:40:28.780355+00:00"
     },
     {
       "company": "County of Los Angeles",
@@ -256,7 +256,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-23T20:32:38.919892+00:00"
+      "last_observed_at": "2026-09-24T20:40:28.780366+00:00"
     },
     {
       "company": "City of Hermosa Beach",
@@ -271,7 +271,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-21T21:14:01.720460+00:00"
+      "last_observed_at": "2026-09-24T20:40:28.780371+00:00"
     },
     {
       "company": "City of South Pasadena",
@@ -294,14 +294,14 @@
       "location": "Sacramento, CA",
       "url": "https://www.governmentjobs.com/jobs/5484300-0/administrative-analyst-fire-department",
       "date_posted": "",
-      "salary": "$75,777.96 - $106,627.20 Annually",
+      "salary": "$77,672.41 - $109,292.88 Annually",
       "ats": "NEOGOV",
       "california_eligibility": "local",
       "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-23T20:32:38.919891+00:00"
+      "last_observed_at": "2026-09-24T20:40:28.780367+00:00"
     },
     {
       "company": "East Bay Regional Park District",
@@ -316,24 +316,69 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-23T20:32:38.919889+00:00"
-    }
-  ],
-  "new_jobs": [
+      "last_observed_at": "2026-09-24T20:40:28.780364+00:00"
+    },
     {
-      "company": "East Bay Regional Park District",
-      "title": "Administrative Analyst II",
-      "location": "Oakland, CA",
-      "url": "https://www.governmentjobs.com/jobs/5460823-0/administrative-analyst-ii",
+      "company": "Central Basin Municipal Water District (CA)",
+      "title": "Management Analyst",
+      "location": "Cerritos, CA",
+      "url": "https://www.governmentjobs.com/jobs/150027-1/management-analyst",
       "date_posted": "",
-      "salary": "$116,532.00 - $131,878.50 Annually",
+      "salary": "$96,033.00 - $114,669.00 Annually",
       "ats": "NEOGOV",
       "california_eligibility": "local",
       "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-23T20:32:38.919889+00:00"
+      "last_observed_at": "2026-09-24T20:40:28.780372+00:00"
+    },
+    {
+      "company": "City of Rancho Cordova",
+      "title": "Management Analyst I/II",
+      "location": "Rancho Cordova, CA",
+      "url": "https://www.governmentjobs.com/jobs/5491917-0/management-analyst-i-ii",
+      "date_posted": "",
+      "salary": "$89,122.80 - $119,446.32 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-24T20:40:28.780373+00:00"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Central Basin Municipal Water District (CA)",
+      "title": "Management Analyst",
+      "location": "Cerritos, CA",
+      "url": "https://www.governmentjobs.com/jobs/150027-1/management-analyst",
+      "date_posted": "",
+      "salary": "$96,033.00 - $114,669.00 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-24T20:40:28.780372+00:00"
+    },
+    {
+      "company": "City of Rancho Cordova",
+      "title": "Management Analyst I/II",
+      "location": "Rancho Cordova, CA",
+      "url": "https://www.governmentjobs.com/jobs/5491917-0/management-analyst-i-ii",
+      "date_posted": "",
+      "salary": "$89,122.80 - $119,446.32 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-24T20:40:28.780373+00:00"
     }
   ],
   "filter_stats": {

@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-23 20:33 UTC",
+  "scraped_at": "2026-09-24 20:40 UTC",
   "total": 5,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "San Mateo County Transit District Samtrans",
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-23T20:33:01.380685+00:00"
+      "last_observed_at": "2026-09-24T20:40:56.180895+00:00"
     },
     {
       "company": "Belmont",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-23T20:33:01.380696+00:00"
+      "last_observed_at": "2026-09-24T20:40:56.180906+00:00"
     },
     {
       "company": "Atherton",
@@ -46,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-23T20:33:01.380698+00:00"
+      "last_observed_at": "2026-09-24T20:40:56.180909+00:00"
     },
     {
       "company": "Judicial Council Of California",
@@ -61,7 +61,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-23T20:33:01.380699+00:00"
+      "last_observed_at": "2026-09-24T20:40:56.180910+00:00"
     },
     {
       "company": "Judicial Council Of California",
@@ -76,26 +76,10 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-23T20:33:01.380701+00:00"
+      "last_observed_at": "2026-09-24T20:40:56.180911+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "San Mateo County Transit District Samtrans",
-      "title": "Principal Grants Analyst",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county-transit-district-samtrans/job-20779068",
-      "date_posted": "",
-      "salary": "$129,834.00-$181,767.00 Annually",
-      "ats": "CalOpps",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-23T20:33:01.380685+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,

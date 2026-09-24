@@ -1,8 +1,23 @@
 {
-  "scraped_at": "2026-09-23 20:31 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-09-24 20:39 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Space Systems Command",
+      "title": "Financial Analyst, SYD 80",
+      "location": "Los Angeles County, California",
+      "url": "https://www.usajobs.gov/job/886065300",
+      "date_posted": "2026-09-23",
+      "salary": "Starting at $103,316 Per year (NH 3)",
+      "ats": "USAJOBS",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-24T20:39:25.716176+00:00"
+    },
     {
       "company": "Department of Education Headquarters",
       "title": "BUDGET ANALYST, GS-0560-14, FPL GS-14 (TERM) (DH) (OPEN CONTINUOUS)",
@@ -16,15 +31,31 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-23T20:31:37.789666+00:00"
+      "last_observed_at": "2026-09-24T20:39:25.716187+00:00"
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Space Systems Command",
+      "title": "Financial Analyst, SYD 80",
+      "location": "Los Angeles County, California",
+      "url": "https://www.usajobs.gov/job/886065300",
+      "date_posted": "2026-09-23",
+      "salary": "Starting at $103,316 Per year (NH 3)",
+      "ats": "USAJOBS",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-24T20:39:25.716176+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 51,
+    "location": 50,
     "stale": 0
   }
 }
