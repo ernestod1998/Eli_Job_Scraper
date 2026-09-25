@@ -1,23 +1,8 @@
 {
-  "scraped_at": "2026-09-24 20:41 UTC",
-  "total": 2,
+  "scraped_at": "2026-09-25 20:40 UTC",
+  "total": 1,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "Department of Transportation",
-      "title": "Program Budget Analyst",
-      "location": "Alameda County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=531982",
-      "date_posted": "2026-09-14",
-      "salary": "$6031.00 - $7775.00",
-      "ats": "CalCareers",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-24T20:41:23.289608+00:00"
-    },
     {
       "company": "State Compensation Insurance Fund",
       "title": "Lead Accounting Analyst",
@@ -31,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-24T20:41:23.289618+00:00"
+      "last_observed_at": "2026-09-25T20:40:35.336577+00:00"
     }
   ],
   "new_jobs": [],
@@ -39,7 +24,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 26,
+    "location": 29,
     "stale": 0
   }
 }

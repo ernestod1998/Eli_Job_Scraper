@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-24 20:39 UTC",
+  "scraped_at": "2026-09-25 20:39 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Space Systems Command",
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-24T20:39:25.716176+00:00"
+      "last_observed_at": "2026-09-25T20:39:07.973837+00:00"
     },
     {
       "company": "Department of Education Headquarters",
@@ -31,31 +31,15 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-24T20:39:25.716187+00:00"
+      "last_observed_at": "2026-09-25T20:39:07.973847+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Space Systems Command",
-      "title": "Financial Analyst, SYD 80",
-      "location": "Los Angeles County, California",
-      "url": "https://www.usajobs.gov/job/886065300",
-      "date_posted": "2026-09-23",
-      "salary": "Starting at $103,316 Per year (NH 3)",
-      "ats": "USAJOBS",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-24T20:39:25.716176+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 50,
+    "location": 55,
     "stale": 0
   }
 }
