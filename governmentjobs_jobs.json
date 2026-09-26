@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-25 20:39 UTC",
-  "total": 25,
-  "new_count": 2,
+  "scraped_at": "2026-09-26 20:01 UTC",
+  "total": 26,
+  "new_count": 1,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-25T20:39:47.417340+00:00"
+      "last_observed_at": "2026-09-26T20:01:43.466987+00:00"
     },
     {
       "company": "Santa Clarita Valley Water Agency",
@@ -76,7 +76,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-25T20:39:47.417372+00:00"
+      "last_observed_at": "2026-09-26T20:01:43.467034+00:00"
     },
     {
       "company": "City of Burbank",
@@ -136,7 +136,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-25T20:39:47.417385+00:00"
+      "last_observed_at": "2026-09-26T20:01:43.467045+00:00"
     },
     {
       "company": "County of Marin",
@@ -166,7 +166,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-25T20:39:47.417390+00:00"
+      "last_observed_at": "2026-09-26T20:01:43.467047+00:00"
     },
     {
       "company": "South Orange County Community College District",
@@ -211,7 +211,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-25T20:39:47.417377+00:00"
+      "last_observed_at": "2026-09-26T20:01:43.467038+00:00"
     },
     {
       "company": "Los Angeles County Sanitation Districts",
@@ -226,7 +226,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-25T20:39:47.417357+00:00"
+      "last_observed_at": "2026-09-26T20:01:43.467002+00:00"
     },
     {
       "company": "County of Los Angeles",
@@ -256,7 +256,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-25T20:39:47.417381+00:00"
+      "last_observed_at": "2026-09-26T20:01:43.467042+00:00"
     },
     {
       "company": "City of Hermosa Beach",
@@ -271,7 +271,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-24T20:40:28.780371+00:00"
+      "last_observed_at": "2026-09-26T20:01:43.467049+00:00"
     },
     {
       "company": "City of South Pasadena",
@@ -301,7 +301,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-25T20:39:47.417383+00:00"
+      "last_observed_at": "2026-09-26T20:01:43.467043+00:00"
     },
     {
       "company": "East Bay Regional Park District",
@@ -316,7 +316,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-25T20:39:47.417374+00:00"
+      "last_observed_at": "2026-09-26T20:01:43.467037+00:00"
     },
     {
       "company": "Central Basin Municipal Water District (CA)",
@@ -331,7 +331,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-24T20:40:28.780372+00:00"
+      "last_observed_at": "2026-09-26T20:01:43.467050+00:00"
     },
     {
       "company": "City of Rancho Cordova",
@@ -346,7 +346,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-24T20:40:28.780373+00:00"
+      "last_observed_at": "2026-09-26T20:01:43.467054+00:00"
     },
     {
       "company": "City of Burbank",
@@ -361,7 +361,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-25T20:39:47.417379+00:00"
+      "last_observed_at": "2026-09-26T20:01:43.467040+00:00"
     },
     {
       "company": "City of Anaheim",
@@ -377,38 +377,38 @@
         "general"
       ],
       "last_observed_at": "2026-09-25T20:39:47.417388+00:00"
+    },
+    {
+      "company": "City of Mountain View (CA)",
+      "title": "Senior Financial Analyst",
+      "location": "Mountain View City Hall",
+      "url": "https://www.governmentjobs.com/jobs/5470204-0/senior-financial-analyst",
+      "date_posted": "",
+      "salary": "$126,037.60 - $189,056.40 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-09-26T20:01:43.466999+00:00"
     }
   ],
   "new_jobs": [
     {
-      "company": "City of Burbank",
-      "title": "ADMINISTRATIVE ANALYST I (M)",
-      "location": "Burbank, CA",
-      "url": "https://www.governmentjobs.com/jobs/5366108-0/administrative-analyst-i-m",
+      "company": "City of Mountain View (CA)",
+      "title": "Senior Financial Analyst",
+      "location": "Mountain View City Hall",
+      "url": "https://www.governmentjobs.com/jobs/5470204-0/senior-financial-analyst",
       "date_posted": "",
-      "salary": "$80,472.60 - $105,821.56 Annually",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-25T20:39:47.417379+00:00"
-    },
-    {
-      "company": "City of Anaheim",
-      "title": "Buyer I/II",
-      "location": "City of Anaheim, CA",
-      "url": "https://www.governmentjobs.com/jobs/5478155-0/buyer-i-ii",
-      "date_posted": "",
-      "salary": "",
+      "salary": "$126,037.60 - $189,056.40 Annually",
       "ats": "NEOGOV",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-25T20:39:47.417388+00:00"
+      "last_observed_at": "2026-09-26T20:01:43.466999+00:00"
     }
   ],
   "filter_stats": {

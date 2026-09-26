@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-25 20:40 UTC",
-  "total": 5,
+  "scraped_at": "2026-09-26 20:02 UTC",
+  "total": 4,
   "new_count": 0,
   "jobs": [
     {
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-25T20:40:11.233810+00:00"
+      "last_observed_at": "2026-09-26T20:02:03.147911+00:00"
     },
     {
       "company": "Belmont",
@@ -31,22 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-25T20:40:11.233823+00:00"
-    },
-    {
-      "company": "Atherton",
-      "title": "Management Analyst I/II- Public Works",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/atherton/job-20739838",
-      "date_posted": "",
-      "salary": "$10,432.00-$13,383.00 Monthly",
-      "ats": "CalOpps",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-25T20:40:11.233826+00:00"
+      "last_observed_at": "2026-09-26T20:02:03.147924+00:00"
     },
     {
       "company": "Judicial Council Of California",
@@ -61,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-25T20:40:11.233828+00:00"
+      "last_observed_at": "2026-09-26T20:02:03.147926+00:00"
     },
     {
       "company": "Judicial Council Of California",
@@ -76,7 +61,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-25T20:40:11.233831+00:00"
+      "last_observed_at": "2026-09-26T20:02:03.147929+00:00"
     }
   ],
   "new_jobs": [],
