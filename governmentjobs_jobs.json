@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-26 20:01 UTC",
+  "scraped_at": "2026-09-27 20:18 UTC",
   "total": 26,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -76,7 +76,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-26T20:01:43.467034+00:00"
+      "last_observed_at": "2026-09-27T20:18:05.745032+00:00"
     },
     {
       "company": "City of Burbank",
@@ -136,7 +136,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-26T20:01:43.467045+00:00"
+      "last_observed_at": "2026-09-27T20:18:05.745057+00:00"
     },
     {
       "company": "County of Marin",
@@ -181,7 +181,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-25T20:39:47.417392+00:00"
+      "last_observed_at": "2026-09-27T20:18:05.745063+00:00"
     },
     {
       "company": "South Orange County Community College District",
@@ -196,7 +196,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-25T20:39:47.417396+00:00"
+      "last_observed_at": "2026-09-27T20:18:05.745067+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -211,7 +211,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-26T20:01:43.467038+00:00"
+      "last_observed_at": "2026-09-27T20:18:05.745051+00:00"
     },
     {
       "company": "Los Angeles County Sanitation Districts",
@@ -226,7 +226,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-26T20:01:43.467002+00:00"
+      "last_observed_at": "2026-09-27T20:18:05.745029+00:00"
     },
     {
       "company": "County of Los Angeles",
@@ -256,7 +256,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-26T20:01:43.467042+00:00"
+      "last_observed_at": "2026-09-27T20:18:05.745054+00:00"
     },
     {
       "company": "City of Hermosa Beach",
@@ -271,7 +271,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-26T20:01:43.467049+00:00"
+      "last_observed_at": "2026-09-27T20:18:05.745059+00:00"
     },
     {
       "company": "City of South Pasadena",
@@ -301,7 +301,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-26T20:01:43.467043+00:00"
+      "last_observed_at": "2026-09-27T20:18:05.745056+00:00"
     },
     {
       "company": "East Bay Regional Park District",
@@ -316,7 +316,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-26T20:01:43.467037+00:00"
+      "last_observed_at": "2026-09-27T20:18:05.745049+00:00"
     },
     {
       "company": "Central Basin Municipal Water District (CA)",
@@ -331,7 +331,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-26T20:01:43.467050+00:00"
+      "last_observed_at": "2026-09-27T20:18:05.745060+00:00"
     },
     {
       "company": "City of Rancho Cordova",
@@ -346,7 +346,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-26T20:01:43.467054+00:00"
+      "last_observed_at": "2026-09-27T20:18:05.745062+00:00"
     },
     {
       "company": "City of Burbank",
@@ -361,7 +361,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-26T20:01:43.467040+00:00"
+      "last_observed_at": "2026-09-27T20:18:05.745053+00:00"
     },
     {
       "company": "City of Anaheim",
@@ -391,26 +391,10 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-26T20:01:43.466999+00:00"
+      "last_observed_at": "2026-09-27T20:18:05.745013+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Mountain View (CA)",
-      "title": "Senior Financial Analyst",
-      "location": "Mountain View City Hall",
-      "url": "https://www.governmentjobs.com/jobs/5470204-0/senior-financial-analyst",
-      "date_posted": "",
-      "salary": "$126,037.60 - $189,056.40 Annually",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-26T20:01:43.466999+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
