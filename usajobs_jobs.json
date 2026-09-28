@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-27 20:17 UTC",
+  "scraped_at": "2026-09-28 22:40 UTC",
   "total": 2,
   "new_count": 0,
   "jobs": [
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-27T20:17:05.628876+00:00"
+      "last_observed_at": "2026-09-28T22:40:39.535710+00:00"
     },
     {
       "company": "Department of Education Headquarters",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-27T20:17:05.628890+00:00"
+      "last_observed_at": "2026-09-28T22:40:39.535720+00:00"
     }
   ],
   "new_jobs": [],
