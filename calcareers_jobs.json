@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-28 22:42 UTC",
+  "scraped_at": "2026-09-29 21:35 UTC",
   "total": 1,
   "new_count": 0,
   "jobs": [
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-28T22:42:26.127446+00:00"
+      "last_observed_at": "2026-09-29T21:35:35.291226+00:00"
     }
   ],
   "new_jobs": [],
@@ -24,7 +24,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 32,
+    "location": 31,
     "stale": 0
   }
 }
