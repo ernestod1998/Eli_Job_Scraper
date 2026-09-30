@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-29 21:34 UTC",
+  "scraped_at": "2026-09-30 21:35 UTC",
   "total": 26,
   "new_count": 0,
   "jobs": [
@@ -76,7 +76,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-29T21:34:39.643489+00:00"
+      "last_observed_at": "2026-09-30T21:35:10.155266+00:00"
     },
     {
       "company": "City of Burbank",
@@ -136,7 +136,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-29T21:34:39.643512+00:00"
+      "last_observed_at": "2026-09-30T21:35:10.155280+00:00"
     },
     {
       "company": "County of Marin",
@@ -166,7 +166,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-29T21:34:39.643513+00:00"
+      "last_observed_at": "2026-09-30T21:35:10.155282+00:00"
     },
     {
       "company": "South Orange County Community College District",
@@ -211,7 +211,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-29T21:34:39.643503+00:00"
+      "last_observed_at": "2026-09-30T21:35:10.155273+00:00"
     },
     {
       "company": "Los Angeles County Sanitation Districts",
@@ -226,7 +226,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-29T21:34:39.643486+00:00"
+      "last_observed_at": "2026-09-30T21:35:10.155263+00:00"
     },
     {
       "company": "County of Los Angeles",
@@ -256,7 +256,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-29T21:34:39.643510+00:00"
+      "last_observed_at": "2026-09-30T21:35:10.155277+00:00"
     },
     {
       "company": "City of Hermosa Beach",
@@ -271,7 +271,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-29T21:34:39.643517+00:00"
+      "last_observed_at": "2026-09-30T21:35:10.155285+00:00"
     },
     {
       "company": "City of South Pasadena",
@@ -301,7 +301,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-29T21:34:39.643509+00:00"
+      "last_observed_at": "2026-09-30T21:35:10.155278+00:00"
     },
     {
       "company": "East Bay Regional Park District",
@@ -316,7 +316,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-29T21:34:39.643505+00:00"
+      "last_observed_at": "2026-09-30T21:35:10.155272+00:00"
     },
     {
       "company": "Central Basin Municipal Water District (CA)",
@@ -331,7 +331,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-29T21:34:39.643515+00:00"
+      "last_observed_at": "2026-09-30T21:35:10.155283+00:00"
     },
     {
       "company": "City of Rancho Cordova",
@@ -361,7 +361,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-29T21:34:39.643507+00:00"
+      "last_observed_at": "2026-09-30T21:35:10.155275+00:00"
     },
     {
       "company": "City of Anaheim",
@@ -391,7 +391,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-29T21:34:39.643473+00:00"
+      "last_observed_at": "2026-09-30T21:35:10.155253+00:00"
     }
   ],
   "new_jobs": [],

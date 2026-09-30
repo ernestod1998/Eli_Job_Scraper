@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-29 21:33 UTC",
-  "total": 2,
+  "scraped_at": "2026-09-30 21:34 UTC",
+  "total": 1,
   "new_count": 0,
   "jobs": [
     {
@@ -16,22 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-29T21:33:55.217366+00:00"
-    },
-    {
-      "company": "Department of Education Headquarters",
-      "title": "BUDGET ANALYST, GS-0560-14, FPL GS-14 (TERM) (DH) (OPEN CONTINUOUS)",
-      "location": "San Francisco, California",
-      "url": "https://www.usajobs.gov/job/883263500",
-      "date_posted": "2026-09-02",
-      "salary": "Starting at $125,776 Per year (GS 14)",
-      "ats": "USAJOBS",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-09-29T21:33:55.217377+00:00"
+      "last_observed_at": "2026-09-30T21:34:18.439953+00:00"
     }
   ],
   "new_jobs": [],
@@ -39,7 +24,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 54,
+    "location": 62,
     "stale": 0
   }
 }
