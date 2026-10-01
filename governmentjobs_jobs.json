@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-30 21:35 UTC",
-  "total": 26,
-  "new_count": 0,
+  "scraped_at": "2026-10-01 21:59 UTC",
+  "total": 28,
+  "new_count": 2,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -76,7 +76,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-30T21:35:10.155266+00:00"
+      "last_observed_at": "2026-10-01T21:59:33.382847+00:00"
     },
     {
       "company": "City of Burbank",
@@ -136,7 +136,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-30T21:35:10.155280+00:00"
+      "last_observed_at": "2026-10-01T21:59:33.382857+00:00"
     },
     {
       "company": "County of Marin",
@@ -166,7 +166,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-30T21:35:10.155282+00:00"
+      "last_observed_at": "2026-10-01T21:59:33.382858+00:00"
     },
     {
       "company": "South Orange County Community College District",
@@ -211,7 +211,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-30T21:35:10.155273+00:00"
+      "last_observed_at": "2026-10-01T21:59:33.382853+00:00"
     },
     {
       "company": "Los Angeles County Sanitation Districts",
@@ -226,7 +226,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-30T21:35:10.155263+00:00"
+      "last_observed_at": "2026-10-01T21:59:33.382845+00:00"
     },
     {
       "company": "County of Los Angeles",
@@ -256,7 +256,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-30T21:35:10.155277+00:00"
+      "last_observed_at": "2026-10-01T21:59:33.382855+00:00"
     },
     {
       "company": "City of Hermosa Beach",
@@ -271,7 +271,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-30T21:35:10.155285+00:00"
+      "last_observed_at": "2026-10-01T21:59:33.382863+00:00"
     },
     {
       "company": "City of South Pasadena",
@@ -301,7 +301,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-30T21:35:10.155278+00:00"
+      "last_observed_at": "2026-10-01T21:59:33.382856+00:00"
     },
     {
       "company": "East Bay Regional Park District",
@@ -316,7 +316,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-30T21:35:10.155272+00:00"
+      "last_observed_at": "2026-10-01T21:59:33.382851+00:00"
     },
     {
       "company": "Central Basin Municipal Water District (CA)",
@@ -331,7 +331,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-30T21:35:10.155283+00:00"
+      "last_observed_at": "2026-10-01T21:59:33.382859+00:00"
     },
     {
       "company": "City of Rancho Cordova",
@@ -346,7 +346,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-29T21:34:39.643518+00:00"
+      "last_observed_at": "2026-10-01T21:59:33.382863+00:00"
     },
     {
       "company": "City of Burbank",
@@ -361,7 +361,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-30T21:35:10.155275+00:00"
+      "last_observed_at": "2026-10-01T21:59:33.382854+00:00"
     },
     {
       "company": "City of Anaheim",
@@ -391,10 +391,71 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-09-30T21:35:10.155253+00:00"
+      "last_observed_at": "2026-10-01T21:59:33.382831+00:00"
+    },
+    {
+      "company": "Judicial Council of California",
+      "title": "Senior Fiscal Analyst (JO#6769)",
+      "location": "San Francisco, CA",
+      "url": "https://www.governmentjobs.com/jobs/151598-1/senior-fiscal-analyst-jo6769",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-01T21:59:33.382859+00:00"
+    },
+    {
+      "company": "City of Beverly Hills",
+      "title": "Management Analyst",
+      "location": "Beverly Hills City Hall, CA",
+      "url": "https://www.governmentjobs.com/jobs/5482631-0/management-analyst",
+      "date_posted": "",
+      "salary": "$95,422.44 - $118,551.36 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-01T21:59:33.382860+00:00"
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Judicial Council of California",
+      "title": "Senior Fiscal Analyst (JO#6769)",
+      "location": "San Francisco, CA",
+      "url": "https://www.governmentjobs.com/jobs/151598-1/senior-fiscal-analyst-jo6769",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-01T21:59:33.382859+00:00"
+    },
+    {
+      "company": "City of Beverly Hills",
+      "title": "Management Analyst",
+      "location": "Beverly Hills City Hall, CA",
+      "url": "https://www.governmentjobs.com/jobs/5482631-0/management-analyst",
+      "date_posted": "",
+      "salary": "$95,422.44 - $118,551.36 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-01T21:59:33.382860+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
