@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-02 21:26 UTC",
-  "total": 29,
+  "scraped_at": "2026-10-03 19:59 UTC",
+  "total": 30,
   "new_count": 1,
   "jobs": [
     {
@@ -136,7 +136,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-02T21:26:36.728877+00:00"
+      "last_observed_at": "2026-10-03T19:59:54.661378+00:00"
     },
     {
       "company": "County of Marin",
@@ -166,7 +166,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-01T21:59:33.382858+00:00"
+      "last_observed_at": "2026-10-03T19:59:54.661379+00:00"
     },
     {
       "company": "South Orange County Community College District",
@@ -211,7 +211,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-02T21:26:36.728870+00:00"
+      "last_observed_at": "2026-10-03T19:59:54.661373+00:00"
     },
     {
       "company": "Los Angeles County Sanitation Districts",
@@ -226,7 +226,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-02T21:26:36.728838+00:00"
+      "last_observed_at": "2026-10-03T19:59:54.661358+00:00"
     },
     {
       "company": "County of Los Angeles",
@@ -271,7 +271,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-02T21:26:36.728879+00:00"
+      "last_observed_at": "2026-10-03T19:59:54.661388+00:00"
     },
     {
       "company": "City of South Pasadena",
@@ -301,7 +301,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-02T21:26:36.728875+00:00"
+      "last_observed_at": "2026-10-03T19:59:54.661376+00:00"
     },
     {
       "company": "East Bay Regional Park District",
@@ -316,7 +316,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-02T21:26:36.728872+00:00"
+      "last_observed_at": "2026-10-03T19:59:54.661371+00:00"
     },
     {
       "company": "Central Basin Municipal Water District (CA)",
@@ -331,7 +331,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-02T21:26:36.728881+00:00"
+      "last_observed_at": "2026-10-03T19:59:54.661382+00:00"
     },
     {
       "company": "City of Rancho Cordova",
@@ -346,7 +346,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-01T21:59:33.382863+00:00"
+      "last_observed_at": "2026-10-03T19:59:54.661389+00:00"
     },
     {
       "company": "City of Burbank",
@@ -361,7 +361,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-02T21:26:36.728873+00:00"
+      "last_observed_at": "2026-10-03T19:59:54.661375+00:00"
     },
     {
       "company": "City of Anaheim",
@@ -391,7 +391,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-02T21:26:36.728835+00:00"
+      "last_observed_at": "2026-10-03T19:59:54.661355+00:00"
     },
     {
       "company": "Judicial Council of California",
@@ -406,7 +406,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-01T21:59:33.382859+00:00"
+      "last_observed_at": "2026-10-03T19:59:54.661381+00:00"
     },
     {
       "company": "City of Beverly Hills",
@@ -421,7 +421,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-02T21:26:36.728878+00:00"
+      "last_observed_at": "2026-10-03T19:59:54.661384+00:00"
     },
     {
       "company": "Superior Court of California County of Los Angeles",
@@ -436,24 +436,39 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-02T21:26:36.728822+00:00"
+      "last_observed_at": "2026-10-03T19:59:54.661345+00:00"
+    },
+    {
+      "company": "City of Fullerton",
+      "title": "Administrative Analyst I/II",
+      "location": "City of Fullerton, CA",
+      "url": "https://www.governmentjobs.com/jobs/5498116-0/administrative-analyst-i-ii",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-03T19:59:54.661369+00:00"
     }
   ],
   "new_jobs": [
     {
-      "company": "Superior Court of California County of Los Angeles",
-      "title": "Financial Analyst",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/5495090-0/financial-analyst",
+      "company": "City of Fullerton",
+      "title": "Administrative Analyst I/II",
+      "location": "City of Fullerton, CA",
+      "url": "https://www.governmentjobs.com/jobs/5498116-0/administrative-analyst-i-ii",
       "date_posted": "",
-      "salary": "$76,804.32 - $106,342.92 Annually",
+      "salary": "",
       "ats": "NEOGOV",
       "california_eligibility": "local",
-      "role_fit": "matched",
+      "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-02T21:26:36.728822+00:00"
+      "last_observed_at": "2026-10-03T19:59:54.661369+00:00"
     }
   ],
   "filter_stats": {
