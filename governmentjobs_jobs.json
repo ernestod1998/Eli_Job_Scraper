@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-03 19:59 UTC",
+  "scraped_at": "2026-10-04 20:19 UTC",
   "total": 30,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -136,7 +136,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-03T19:59:54.661378+00:00"
+      "last_observed_at": "2026-10-04T20:19:11.162315+00:00"
     },
     {
       "company": "County of Marin",
@@ -166,7 +166,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-03T19:59:54.661379+00:00"
+      "last_observed_at": "2026-10-04T20:19:11.162316+00:00"
     },
     {
       "company": "South Orange County Community College District",
@@ -211,7 +211,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-03T19:59:54.661373+00:00"
+      "last_observed_at": "2026-10-04T20:19:11.162306+00:00"
     },
     {
       "company": "Los Angeles County Sanitation Districts",
@@ -226,7 +226,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-03T19:59:54.661358+00:00"
+      "last_observed_at": "2026-10-04T20:19:11.162293+00:00"
     },
     {
       "company": "County of Los Angeles",
@@ -301,7 +301,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-03T19:59:54.661376+00:00"
+      "last_observed_at": "2026-10-04T20:19:11.162313+00:00"
     },
     {
       "company": "East Bay Regional Park District",
@@ -316,7 +316,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-03T19:59:54.661371+00:00"
+      "last_observed_at": "2026-10-04T20:19:11.162309+00:00"
     },
     {
       "company": "Central Basin Municipal Water District (CA)",
@@ -361,7 +361,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-03T19:59:54.661375+00:00"
+      "last_observed_at": "2026-10-04T20:19:11.162311+00:00"
     },
     {
       "company": "City of Anaheim",
@@ -391,7 +391,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-03T19:59:54.661355+00:00"
+      "last_observed_at": "2026-10-04T20:19:11.162290+00:00"
     },
     {
       "company": "Judicial Council of California",
@@ -436,7 +436,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-03T19:59:54.661345+00:00"
+      "last_observed_at": "2026-10-04T20:19:11.162276+00:00"
     },
     {
       "company": "City of Fullerton",
@@ -451,26 +451,10 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-03T19:59:54.661369+00:00"
+      "last_observed_at": "2026-10-04T20:19:11.162308+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Fullerton",
-      "title": "Administrative Analyst I/II",
-      "location": "City of Fullerton, CA",
-      "url": "https://www.governmentjobs.com/jobs/5498116-0/administrative-analyst-i-ii",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-03T19:59:54.661369+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
