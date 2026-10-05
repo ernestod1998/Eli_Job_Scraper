@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-04 20:19 UTC",
-  "total": 30,
-  "new_count": 0,
+  "scraped_at": "2026-10-05 23:19 UTC",
+  "total": 31,
+  "new_count": 1,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -211,7 +211,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-04T20:19:11.162306+00:00"
+      "last_observed_at": "2026-10-05T23:19:27.926115+00:00"
     },
     {
       "company": "Los Angeles County Sanitation Districts",
@@ -226,7 +226,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-04T20:19:11.162293+00:00"
+      "last_observed_at": "2026-10-05T23:19:27.926101+00:00"
     },
     {
       "company": "County of Los Angeles",
@@ -301,7 +301,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-04T20:19:11.162313+00:00"
+      "last_observed_at": "2026-10-05T23:19:27.926121+00:00"
     },
     {
       "company": "East Bay Regional Park District",
@@ -316,7 +316,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-04T20:19:11.162309+00:00"
+      "last_observed_at": "2026-10-05T23:19:27.926118+00:00"
     },
     {
       "company": "Central Basin Municipal Water District (CA)",
@@ -361,7 +361,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-04T20:19:11.162311+00:00"
+      "last_observed_at": "2026-10-05T23:19:27.926120+00:00"
     },
     {
       "company": "City of Anaheim",
@@ -391,7 +391,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-04T20:19:11.162290+00:00"
+      "last_observed_at": "2026-10-05T23:19:27.926098+00:00"
     },
     {
       "company": "Judicial Council of California",
@@ -406,7 +406,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-03T19:59:54.661381+00:00"
+      "last_observed_at": "2026-10-05T23:19:27.926124+00:00"
     },
     {
       "company": "City of Beverly Hills",
@@ -436,7 +436,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-04T20:19:11.162276+00:00"
+      "last_observed_at": "2026-10-05T23:19:27.926085+00:00"
     },
     {
       "company": "City of Fullerton",
@@ -451,10 +451,41 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-04T20:19:11.162308+00:00"
+      "last_observed_at": "2026-10-05T23:19:27.926117+00:00"
+    },
+    {
+      "company": "City of Long Beach",
+      "title": "ASSISTANT ADMINISTRATIVE ANALYST II (NON-CAREER)",
+      "location": "City of Long Beach, CA",
+      "url": "https://www.governmentjobs.com/jobs/5498010-0/assistant-administrative-analyst-ii-non-career",
+      "date_posted": "",
+      "salary": "$32.27 - $43.83 Hourly",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-05T23:19:27.926123+00:00"
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "City of Long Beach",
+      "title": "ASSISTANT ADMINISTRATIVE ANALYST II (NON-CAREER)",
+      "location": "City of Long Beach, CA",
+      "url": "https://www.governmentjobs.com/jobs/5498010-0/assistant-administrative-analyst-ii-non-career",
+      "date_posted": "",
+      "salary": "$32.27 - $43.83 Hourly",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-05T23:19:27.926123+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
