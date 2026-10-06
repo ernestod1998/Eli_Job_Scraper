@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-05 23:19 UTC",
+  "scraped_at": "2026-10-06 21:46 UTC",
   "total": 4,
   "new_count": 0,
   "jobs": [
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-05T23:19:53.550088+00:00"
+      "last_observed_at": "2026-10-06T21:46:58.822480+00:00"
     },
     {
       "company": "Belmont",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-05T23:19:53.550102+00:00"
+      "last_observed_at": "2026-10-06T21:46:58.822493+00:00"
     },
     {
       "company": "Judicial Council Of California",
@@ -46,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-05T23:19:53.550105+00:00"
+      "last_observed_at": "2026-10-06T21:46:58.822496+00:00"
     },
     {
       "company": "Judicial Council Of California",
@@ -61,7 +61,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-05T23:19:53.550107+00:00"
+      "last_observed_at": "2026-10-06T21:46:58.822498+00:00"
     }
   ],
   "new_jobs": [],
