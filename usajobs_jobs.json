@@ -1,8 +1,23 @@
 {
-  "scraped_at": "2026-10-06 21:45 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-10-07 22:07 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "National Oceanic and Atmospheric Administration",
+      "title": "Budget Analyst",
+      "location": "Long Beach, California",
+      "url": "https://www.usajobs.gov/job/887843900",
+      "date_posted": "2026-10-07",
+      "salary": "Starting at $80,465 Per year (ZA 3)",
+      "ats": "USAJOBS",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-07T22:07:35.824493+00:00"
+    },
     {
       "company": "Space Systems Command",
       "title": "Budget Analyst",
@@ -16,15 +31,31 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-06T21:45:45.490345+00:00"
+      "last_observed_at": "2026-10-07T22:07:35.824505+00:00"
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "National Oceanic and Atmospheric Administration",
+      "title": "Budget Analyst",
+      "location": "Long Beach, California",
+      "url": "https://www.usajobs.gov/job/887843900",
+      "date_posted": "2026-10-07",
+      "salary": "Starting at $80,465 Per year (ZA 3)",
+      "ats": "USAJOBS",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-07T22:07:35.824493+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 74,
+    "location": 79,
     "stale": 0
   }
 }
