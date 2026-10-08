@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-07 22:08 UTC",
+  "scraped_at": "2026-10-08 22:14 UTC",
   "total": 32,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -316,7 +316,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:08:53.178787+00:00"
+      "last_observed_at": "2026-10-08T22:14:13.340576+00:00"
     },
     {
       "company": "Central Basin Municipal Water District (CA)",
@@ -346,7 +346,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-03T19:59:54.661389+00:00"
+      "last_observed_at": "2026-10-08T22:14:13.340582+00:00"
     },
     {
       "company": "City of Burbank",
@@ -361,7 +361,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:08:53.178789+00:00"
+      "last_observed_at": "2026-10-08T22:14:13.340577+00:00"
     },
     {
       "company": "City of Anaheim",
@@ -406,7 +406,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:08:53.178790+00:00"
+      "last_observed_at": "2026-10-08T22:14:13.340579+00:00"
     },
     {
       "company": "City of Beverly Hills",
@@ -421,7 +421,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:08:53.178791+00:00"
+      "last_observed_at": "2026-10-08T22:14:13.340580+00:00"
     },
     {
       "company": "Superior Court of California County of Los Angeles",
@@ -436,7 +436,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:08:53.178767+00:00"
+      "last_observed_at": "2026-10-08T22:14:13.340551+00:00"
     },
     {
       "company": "City of Fullerton",
@@ -451,7 +451,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:08:53.178786+00:00"
+      "last_observed_at": "2026-10-08T22:14:13.340574+00:00"
     },
     {
       "company": "City of Long Beach",
@@ -481,26 +481,10 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:08:53.178783+00:00"
+      "last_observed_at": "2026-10-08T22:14:13.340571+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "County of Santa Clara",
-      "title": "Budget Analyst",
-      "location": "San Jose Metropolitan Area, CA",
-      "url": "https://www.governmentjobs.com/jobs/5492557-0/budget-analyst",
-      "date_posted": "",
-      "salary": "$140,697.44 - $171,011.36 Annually",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:08:53.178783+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,

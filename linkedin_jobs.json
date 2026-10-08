@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-07 22:04 UTC",
-  "total": 428,
-  "new_count": 89,
+  "scraped_at": "2026-10-08 22:10 UTC",
+  "total": 522,
+  "new_count": 94,
   "jobs": [
     {
       "company": "Kratos Defense and Security Solutions",
@@ -123,13 +123,12 @@
       "url": "https://www.linkedin.com/jobs/view/4473814977/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
-      "salary": "$100,000.00/yr - $115,000.00/yr",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246737+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040124+00:00"
     },
     {
       "company": "Northrop Grumman",
@@ -1648,14 +1647,14 @@
       "title": "Financial Analyst, Supply Chain",
       "location": "Berkeley, CA",
       "url": "https://www.linkedin.com/jobs/view/4465862909/",
-      "date_posted": "2026-10-02",
+      "date_posted": "2026-10-07",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-03T19:56:54.604277+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040160+00:00"
     },
     {
       "company": "Tata Consultancy Services",
@@ -1984,14 +1983,15 @@
       "title": "Financial Analyst",
       "location": "Los Angeles, CA",
       "url": "https://www.linkedin.com/jobs/view/4473046067/",
-      "date_posted": "2026-10-06",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
+      "salary": "$90,000.00/yr - $100,000.00/yr",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246810+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040037+00:00"
     },
     {
       "company": "ProSearch",
@@ -2103,7 +2103,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246855+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040180+00:00"
     },
     {
       "company": "Alamar Biosciences, Inc.",
@@ -2131,7 +2131,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246862+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040183+00:00"
     },
     {
       "company": "Cisco",
@@ -3731,7 +3731,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246745+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040132+00:00"
     },
     {
       "company": "Coalition for Responsible Community Development",
@@ -3745,7 +3745,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246746+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040131+00:00"
     },
     {
       "company": "Pacific Life",
@@ -4765,13 +4765,12 @@
       "url": "https://www.linkedin.com/jobs/view/4452761984/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
-      "salary": "$70,000.00/yr - $80,000.00/yr",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246717+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040117+00:00"
     },
     {
       "company": "California Department of Social Services",
@@ -4780,13 +4779,12 @@
       "url": "https://www.linkedin.com/jobs/view/4476535057/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
-      "salary": "$6,330.00/mo - $7,929.00/mo",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246728+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040121+00:00"
     },
     {
       "company": "Golden 1 Credit Union",
@@ -4800,7 +4798,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246730+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040119+00:00"
     },
     {
       "company": "PRIDE Industries",
@@ -4814,7 +4812,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246731+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040120+00:00"
     },
     {
       "company": "LATICRETE International",
@@ -4828,7 +4826,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246732+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040118+00:00"
     },
     {
       "company": "Robert Half",
@@ -4837,13 +4835,12 @@
       "url": "https://www.linkedin.com/jobs/view/4476747067/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
-      "salary": "$95,000.00/yr - $120,000.00/yr",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246733+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040118+00:00"
     },
     {
       "company": "Disney Entertainment",
@@ -4857,7 +4854,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246734+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040121+00:00"
     },
     {
       "company": "Jobot",
@@ -4886,7 +4883,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246736+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040122+00:00"
     },
     {
       "company": "Sensorex, Inc.",
@@ -4900,7 +4897,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246736+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040123+00:00"
     },
     {
       "company": "VetJobs",
@@ -4914,7 +4911,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246738+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040125+00:00"
     },
     {
       "company": "American Honda Finance Corporation",
@@ -4928,7 +4925,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246739+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040126+00:00"
     },
     {
       "company": "Houlihan Lokey",
@@ -4942,7 +4939,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246740+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040126+00:00"
     },
     {
       "company": "J.F. Shea Co., Inc.",
@@ -4984,7 +4981,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246742+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040127+00:00"
     },
     {
       "company": "Paramount Pictures",
@@ -4998,7 +4995,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246743+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040128+00:00"
     },
     {
       "company": "Space Systems Command",
@@ -5012,7 +5009,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246744+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040130+00:00"
     },
     {
       "company": "Ghost",
@@ -5026,7 +5023,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246744+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040130+00:00"
     },
     {
       "company": "UC Irvine",
@@ -5040,7 +5037,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246747+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040132+00:00"
     },
     {
       "company": "Volunteers of America Los Angeles",
@@ -5063,13 +5060,12 @@
       "url": "https://www.linkedin.com/jobs/view/4464565747/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $120,000.00/yr",
       "california_eligibility": "local",
       "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246749+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040133+00:00"
     },
     {
       "company": "Crissair Inc",
@@ -5083,7 +5079,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246750+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040134+00:00"
     },
     {
       "company": "Broadata Communications, Inc.",
@@ -5097,7 +5093,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246751+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040135+00:00"
     },
     {
       "company": "Kindeva Drug Delivery",
@@ -5111,7 +5107,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246751+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040137+00:00"
     },
     {
       "company": "Ryan Herco Flow Solutions",
@@ -5125,7 +5121,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246752+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040137+00:00"
     },
     {
       "company": "LATICRETE International",
@@ -5139,7 +5135,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246753+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040138+00:00"
     },
     {
       "company": "L'AGENCE",
@@ -5197,7 +5193,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246762+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040140+00:00"
     },
     {
       "company": "Premier America Credit Union",
@@ -5225,7 +5221,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246764+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040140+00:00"
     },
     {
       "company": "Boot Barn",
@@ -5234,13 +5230,12 @@
       "url": "https://www.linkedin.com/jobs/view/4475490223/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
-      "salary": "$27.00/hr - $28.85/hr",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246764+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040139+00:00"
     },
     {
       "company": "AppLovin",
@@ -5254,7 +5249,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246766+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040142+00:00"
     },
     {
       "company": "PayPal",
@@ -5268,7 +5263,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246766+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040142+00:00"
     },
     {
       "company": "Abbott",
@@ -5282,7 +5277,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246767+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040143+00:00"
     },
     {
       "company": "Logitech",
@@ -5296,7 +5291,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246768+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040144+00:00"
     },
     {
       "company": "Midi Health",
@@ -5324,7 +5319,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246770+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040145+00:00"
     },
     {
       "company": "Snowflake",
@@ -5333,13 +5328,12 @@
       "url": "https://www.linkedin.com/jobs/view/4466550757/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
-      "salary": "$110,000.00/yr - $143,800.00/yr",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246770+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040146+00:00"
     },
     {
       "company": "Kinder's Premium Quality Seasonings & Sauces",
@@ -5367,7 +5361,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246772+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040148+00:00"
     },
     {
       "company": "Intuit",
@@ -5381,7 +5375,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246773+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040148+00:00"
     },
     {
       "company": "KLA",
@@ -5395,7 +5389,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246774+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040149+00:00"
     },
     {
       "company": "Intuit",
@@ -5409,7 +5403,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246774+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040158+00:00"
     },
     {
       "company": "Intuitive Machines",
@@ -5423,7 +5417,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246775+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040150+00:00"
     },
     {
       "company": "Momentum for Health",
@@ -5437,7 +5431,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246776+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040151+00:00"
     },
     {
       "company": "Armadin",
@@ -5451,11 +5445,11 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246777+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040152+00:00"
     },
     {
       "company": "Armadin",
-      "title": "Senior FP&A Analyst, COGS",
+      "title": "Senior FP&A Analyst, Services Finance",
       "location": "Palo Alto, CA",
       "url": "https://www.linkedin.com/jobs/view/4476903342/",
       "date_posted": "2026-10-07",
@@ -5465,7 +5459,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246778+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040151+00:00"
     },
     {
       "company": "Hudson Pacific Properties",
@@ -5474,13 +5468,12 @@
       "url": "https://www.linkedin.com/jobs/view/4445783748/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
-      "salary": "$115,000.00/yr - $125,000.00/yr",
       "california_eligibility": "local",
       "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246779+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040153+00:00"
     },
     {
       "company": "Supermicro",
@@ -5494,7 +5487,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246780+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040154+00:00"
     },
     {
       "company": "County of Santa Clara",
@@ -5508,7 +5501,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246781+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040154+00:00"
     },
     {
       "company": "Houlihan Lokey",
@@ -5522,7 +5515,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246781+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040155+00:00"
     },
     {
       "company": "MCE",
@@ -5536,7 +5529,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246782+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040159+00:00"
     },
     {
       "company": "Snorkel AI",
@@ -5550,7 +5543,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246783+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040160+00:00"
     },
     {
       "company": "Google",
@@ -5564,7 +5557,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246784+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040157+00:00"
     },
     {
       "company": "U.S. Department of Veterans Affairs",
@@ -5573,13 +5566,12 @@
       "url": "https://www.linkedin.com/jobs/view/4476391521/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
-      "salary": "$63,081.00/yr - $100,315.00/yr",
       "california_eligibility": "local",
       "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246785+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040162+00:00"
     },
     {
       "company": "GSA",
@@ -5588,13 +5580,12 @@
       "url": "https://www.linkedin.com/jobs/view/4476573490/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
-      "salary": "$108,173.00/yr - $172,980.00/yr",
       "california_eligibility": "local",
       "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246785+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040161+00:00"
     },
     {
       "company": "Tekgence Inc",
@@ -5608,7 +5599,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246786+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040163+00:00"
     },
     {
       "company": "DataVisor",
@@ -5636,7 +5627,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246788+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040165+00:00"
     },
     {
       "company": "Mainspring Energy",
@@ -5645,13 +5636,12 @@
       "url": "https://www.linkedin.com/jobs/view/4434123744/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
-      "salary": "$84,000.00/yr - $115,000.00/yr",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246789+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040166+00:00"
     },
     {
       "company": "Bio-Rad Laboratories",
@@ -5665,7 +5655,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246790+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040167+00:00"
     },
     {
       "company": "BizLink Group",
@@ -5674,13 +5664,12 @@
       "url": "https://www.linkedin.com/jobs/view/4476781338/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
-      "salary": "$80,000.00/yr - $90,000.00/yr",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246791+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040168+00:00"
     },
     {
       "company": "Supermicro",
@@ -5694,7 +5683,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246792+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040168+00:00"
     },
     {
       "company": "Johnson & Johnson MedTech",
@@ -5708,7 +5697,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246793+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040170+00:00"
     },
     {
       "company": "Pyramid Consulting, Inc",
@@ -5717,13 +5706,12 @@
       "url": "https://www.linkedin.com/jobs/view/4476751970/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
-      "salary": "$60.00/hr - $65.00/hr",
       "california_eligibility": "local",
       "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246794+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040171+00:00"
     },
     {
       "company": "SEPHORA",
@@ -5737,7 +5725,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246795+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040172+00:00"
     },
     {
       "company": "Google",
@@ -5751,7 +5739,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246796+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040147+00:00"
     },
     {
       "company": "MKL Careers",
@@ -5765,7 +5753,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246797+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040173+00:00"
     },
     {
       "company": "The Planet Group",
@@ -5774,13 +5762,12 @@
       "url": "https://www.linkedin.com/jobs/view/4476762644/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
-      "salary": "$65.00/hr - $77.00/hr",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246797+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040175+00:00"
     },
     {
       "company": "Pyramid Consulting, Inc",
@@ -5789,13 +5776,12 @@
       "url": "https://www.linkedin.com/jobs/view/4476935005/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
-      "salary": "$80.00/hr - $88.00/hr",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246798+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040175+00:00"
     },
     {
       "company": "Molecular Devices",
@@ -5809,7 +5795,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246801+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040176+00:00"
     },
     {
       "company": "Capitol Hyundai",
@@ -5818,13 +5804,12 @@
       "url": "https://www.linkedin.com/jobs/view/4475401209/",
       "date_posted": "2026-10-07",
       "ats": "LinkedIn",
-      "salary": "$36,000.00/yr - $150,000.00/yr",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246802+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040177+00:00"
     },
     {
       "company": "Hikma Pharmaceuticals",
@@ -5838,7 +5823,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246802+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040178+00:00"
     },
     {
       "company": "Origence",
@@ -5866,7 +5851,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246818+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040179+00:00"
     },
     {
       "company": "Curtin Maritime, Corp.",
@@ -5887,14 +5872,14 @@
       "title": "Student Finance Analyst - Disbursement Team",
       "location": "Irvine, CA",
       "url": "https://www.linkedin.com/jobs/view/4476391765/",
-      "date_posted": "2026-10-06",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246828+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040066+00:00"
     },
     {
       "company": "Arrowhead Pharmaceuticals",
@@ -5922,7 +5907,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246840+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040179+00:00"
     },
     {
       "company": "Systems Integration Solutions",
@@ -5936,7 +5921,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246858+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040181+00:00"
     },
     {
       "company": "San Francisco Conservatory of Music",
@@ -5964,7 +5949,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246861+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040182+00:00"
     },
     {
       "company": "Supermicro",
@@ -6006,7 +5991,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246872+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040183+00:00"
     },
     {
       "company": "Motion Recruitment",
@@ -6021,1279 +6006,2677 @@
         "general"
       ],
       "last_observed_at": "2026-10-07T22:04:51.246874+00:00"
+    },
+    {
+      "company": "Delta Dental Ins.",
+      "title": "Senior Financial Planning & Analysis (FP&A) Analyst \u2013 Business Cases",
+      "location": "Rancho Cordova, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468247511/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040022+00:00"
+    },
+    {
+      "company": "Delta Dental Ins.",
+      "title": "Senior Financial Planning & Analysis (FP&A) Analyst \u2013 (Op Gain/Special Projects)",
+      "location": "Rancho Cordova, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468254474/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040029+00:00"
+    },
+    {
+      "company": "Delta Dental Ins.",
+      "title": "Senior Financial Planning & Analysis (FP&A) Analyst - Federal",
+      "location": "Rancho Cordova, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468246549/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040031+00:00"
+    },
+    {
+      "company": "California Department of Health Care Services",
+      "title": "Care Management Analyst",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475721672/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$6,031.00/mo - $7,547.00/mo",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040032+00:00"
+    },
+    {
+      "company": "Northrop Grumman",
+      "title": "Financial Analyst (Level 2/3)",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477106168/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040033+00:00"
+    },
+    {
+      "company": "Northrop Grumman",
+      "title": "Financial Analyst (Level 3/4)",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476990780/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040034+00:00"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Senior Financial Analyst, Corporate Finance",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468297661/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040035+00:00"
+    },
+    {
+      "company": "Internet Brands",
+      "title": "Financial Analyst",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419220054/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040036+00:00"
+    },
+    {
+      "company": "Addison Group",
+      "title": "Financial Analyst",
+      "location": "Santa Ana, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475744729/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040038+00:00"
+    },
+    {
+      "company": "Berkadia",
+      "title": "Senior Financial Analyst",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468312847/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040039+00:00"
+    },
+    {
+      "company": "Snap Inc.",
+      "title": "Senior Financial Analyst",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476962056/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040040+00:00"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Lead Financial Analyst, Frontier Systems",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4440387440/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040041+00:00"
+    },
+    {
+      "company": "Hyundai Capital America",
+      "title": "FP&A Associate",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473900799/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$64,000.00/yr - $96,000.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040042+00:00"
+    },
+    {
+      "company": "Proven Recruiting",
+      "title": "Lead Financial Analyst",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411808181/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040043+00:00"
+    },
+    {
+      "company": "Raytheon",
+      "title": "E2V2 - Financial Analyst - P3 - (Hybrid)",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459677765/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040043+00:00"
+    },
+    {
+      "company": "Deloitte",
+      "title": "FP&A Advise Senior Consultant",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475766260/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040044+00:00"
+    },
+    {
+      "company": "Deloitte",
+      "title": "FP&A Advise Senior Consultant",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475748921/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040045+00:00"
+    },
+    {
+      "company": "Unitek Learning",
+      "title": "Sr. Manager Financial Planning & Analysis (FP&A)",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477425105/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040046+00:00"
+    },
+    {
+      "company": "Northrop Grumman",
+      "title": "Budget Analyst (Level 2/3)",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477106164/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040047+00:00"
+    },
+    {
+      "company": "California State Polytechnic University-Pomona",
+      "title": "Administrative Analyst",
+      "location": "Pomona, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475995798/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040048+00:00"
+    },
+    {
+      "company": "Astrion",
+      "title": "Journeyman Program Analyst",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458320550/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040049+00:00"
+    },
+    {
+      "company": "California State University, Fullerton",
+      "title": "Project Specialist (Administrative Analyst/Specialist - Exempt II)",
+      "location": "Fullerton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476212164/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040050+00:00"
+    },
+    {
+      "company": "ACCO Engineered Systems",
+      "title": "Dir, Financial Planning and Analysis",
+      "location": "Pasadena, CA",
+      "url": "https://www.linkedin.com/jobs/view/4448577679/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040050+00:00"
+    },
+    {
+      "company": "Metropolitan Water District of Southern California",
+      "title": "Administrative Analyst II (C)",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477400966/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040064+00:00"
+    },
+    {
+      "company": "Boot Barn",
+      "title": "Supply Chain & Vendor Compliance Analyst",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475732418/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040065+00:00"
+    },
+    {
+      "company": "BryceTech",
+      "title": "Senior Acquisition Program Analyst",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477415085/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$145,000.00/yr - $185,000.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040066+00:00"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Procurement Analyst",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468394812/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040067+00:00"
+    },
+    {
+      "company": "Pacific Life",
+      "title": "Mutual Fund/Investment Compliance Analyst II",
+      "location": "Newport Beach, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476948841/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040068+00:00"
+    },
+    {
+      "company": "Crissair Inc",
+      "title": "Buyer II",
+      "location": "Santa Clarita, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474486681/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040069+00:00"
+    },
+    {
+      "company": "Northrop Grumman",
+      "title": "Business Management Analyst - Material Estimating",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476996508/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040070+00:00"
+    },
+    {
+      "company": "Motorola Solutions",
+      "title": "Junior Buyer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4403503552/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040071+00:00"
+    },
+    {
+      "company": "Nikkiso Clean Energy & Industrial Gases",
+      "title": "Senior Buyer",
+      "location": "Huntington Beach, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468289254/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040072+00:00"
+    },
+    {
+      "company": "Skechers",
+      "title": "Assistant Buyer, International",
+      "location": "Manhattan Beach, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447207190/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040073+00:00"
+    },
+    {
+      "company": "ALO",
+      "title": "Associate Buyer, Men's",
+      "location": "Beverly Hills, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459016881/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040074+00:00"
+    },
+    {
+      "company": "LATICRETE International",
+      "title": "Buyer",
+      "location": "Los Angeles Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4447230802/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040075+00:00"
+    },
+    {
+      "company": "Jetro Restaurant Depot",
+      "title": "Produce Buyer",
+      "location": "Anaheim, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477411531/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$75,000.00/yr - $95,000.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040075+00:00"
+    },
+    {
+      "company": "Northrop Grumman",
+      "title": "Principal Financial Reporting Analyst",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4437479323/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040076+00:00"
+    },
+    {
+      "company": "Incubator Lab",
+      "title": "Finance Lead (FP&A and Accounting) - US Remote",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467178625/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040077+00:00"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Buyer, Advanced Effects",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459394495/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040078+00:00"
+    },
+    {
+      "company": "LATICRETE International",
+      "title": "Buyer",
+      "location": "Fountain Valley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447236636/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040079+00:00"
+    },
+    {
+      "company": "24 Seven Talent",
+      "title": "Senior Buyer \u2014 Women\u2019s Wovens, Dresses & Essentials",
+      "location": "Anaheim, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471828130/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040079+00:00"
+    },
+    {
+      "company": "24 Seven Talent",
+      "title": "Buyer \u2013 Women\u2019s Denim",
+      "location": "Anaheim, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472054901/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040080+00:00"
+    },
+    {
+      "company": "Plug",
+      "title": "Buyer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459465015/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040081+00:00"
+    },
+    {
+      "company": "Delta Dental Ins.",
+      "title": "Senior Financial Planning & Analysis (FP&A) Analyst \u2013 Business Cases",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468254473/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040082+00:00"
+    },
+    {
+      "company": "Delta Dental Ins.",
+      "title": "Senior Financial Planning & Analysis (FP&A) Analyst \u2013 (Op Gain/Special Projects)",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468244548/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040083+00:00"
+    },
+    {
+      "company": "Owner.com",
+      "title": "Senior FP&A Analyst",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4442198612/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040083+00:00"
+    },
+    {
+      "company": "Intuit",
+      "title": "Staff Financial Analyst - Customer Success FP&A",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475797366/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040084+00:00"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Financial Analyst, FP&A",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466239661/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040085+00:00"
+    },
+    {
+      "company": "SoFi",
+      "title": "Strategic Finance Analyst, Operations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459027918/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$89,600.00/yr - $168,000.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040086+00:00"
+    },
+    {
+      "company": "Teradyne",
+      "title": "FP&A Analyst (Teradyne, San Jose CA)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474840586/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040087+00:00"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Sr. Financial Analyst",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477181477/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$80,000.00/yr - $130,000.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040087+00:00"
+    },
+    {
+      "company": "West Coast Community Bank",
+      "title": "AVP Financial Planning & Analysis Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475708867/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040088+00:00"
+    },
+    {
+      "company": "Deloitte",
+      "title": "FP&A Advise Senior Consultant",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475753789/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040089+00:00"
+    },
+    {
+      "company": "Deloitte",
+      "title": "FP&A Advise Senior Consultant",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475761378/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040090+00:00"
+    },
+    {
+      "company": "Perigon Wealth Management",
+      "title": "Financial Planning Associate (Hybrid)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475781180/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040091+00:00"
+    },
+    {
+      "company": "DeWinter Group",
+      "title": "Sr. Financial Analyst",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476749634/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040091+00:00"
+    },
+    {
+      "company": "Delta Dental Ins.",
+      "title": "Senior Financial Planning & Analysis (FP&A) Analyst - Federal",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468249503/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040092+00:00"
+    },
+    {
+      "company": "Hill International, Inc.",
+      "title": "Cost Analyst",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460092191/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040093+00:00"
+    },
+    {
+      "company": "Intuit",
+      "title": "Staff Financial Analyst, Technology Ecosystem",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458789823/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040094+00:00"
+    },
+    {
+      "company": "Swinerton",
+      "title": "Scheduling/Cost Analyst",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4439488507/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040095+00:00"
+    },
+    {
+      "company": "Proofpoint",
+      "title": "Sr. Manager, Financial Planning & Analysis \u2013 Cloud Infrastructure",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475747028/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040095+00:00"
+    },
+    {
+      "company": "ITCO Solutions, Inc.",
+      "title": "VMS Program Analyst",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474841329/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040096+00:00"
+    },
+    {
+      "company": "State Bar of California",
+      "title": "Board Secretary (Principal Program Analyst)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475980265/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$126,222.00/yr - $168,276.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040097+00:00"
+    },
+    {
+      "company": "California Department of Social Services",
+      "title": "LICENSING PROGRAM ANALYST",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473940374/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$3,938.00/mo - $7,351.00/mo",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040101+00:00"
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Compliance Analyst, Snowgov Compliance",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475758476/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$152,000.00/yr - $218,500.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040102+00:00"
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Compliance Analyst, Customer Trust",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475747718/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$152,000.00/yr - $218,500.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040103+00:00"
+    },
+    {
+      "company": "Confidential Careers",
+      "title": "Compliance Analyst",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477460764/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040104+00:00"
+    },
+    {
+      "company": "Avicena Tech",
+      "title": "Optical Fiber \u2013 Strategic Buyer/Technologist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449192791/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040105+00:00"
+    },
+    {
+      "company": "1 Arc Power",
+      "title": "Supply Chain Specialist/ Buyer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474827991/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040106+00:00"
+    },
+    {
+      "company": "Intuitive",
+      "title": "Sr. NPI Buyer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422167658/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$87,700.00/yr - $148,600.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040107+00:00"
+    },
+    {
+      "company": "LATICRETE International",
+      "title": "Buyer",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447224781/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040108+00:00"
+    },
+    {
+      "company": "Aston Carter",
+      "title": "Buyer",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474803056/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$55.00/hr - $60.00/hr",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040108+00:00"
+    },
+    {
+      "company": "Thuma",
+      "title": "Buyer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475781523/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040109+00:00"
+    },
+    {
+      "company": "Pacific Gas and Electric Company",
+      "title": "Senior Asset Accounting Analyst",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477401927/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040110+00:00"
+    },
+    {
+      "company": "Navan",
+      "title": "Sr. Accountant, Financial Reporting",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468209067/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040111+00:00"
+    },
+    {
+      "company": "Intuit",
+      "title": "Staff Financial Analyst - Sales, Global Business Solutions Group",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468602438/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040112+00:00"
+    },
+    {
+      "company": "San Francisco State University",
+      "title": "CoSE Student Success & Events Coordinator (Administrative Analyst/Specialist - Exempt I, Range II) - College of Science & Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475736009/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040112+00:00"
+    },
+    {
+      "company": "AMISEQ",
+      "title": "Financial Analyst",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477441552/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$60.00/yr - $64.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040113+00:00"
+    },
+    {
+      "company": "Aquent",
+      "title": "Sr Financial Analyst_USD [AQ-21366]",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474833605/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$36.00/hr - $36.00/hr",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040114+00:00"
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Compliance Analyst, Governance Programs",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475761136/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$152,000.00/yr - $218,500.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040115+00:00"
+    },
+    {
+      "company": "Northrop Grumman",
+      "title": "Contracts Administrator (Level 2/3)",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477100435/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040115+00:00"
+    },
+    {
+      "company": "DZYNE Technologies",
+      "title": "Contract Administrator",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423253949/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040116+00:00"
+    },
+    {
+      "company": "Alliance Resource Group",
+      "title": "Senior Financial Planning Analyst",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475718010/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040124+00:00"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Financial Planning and Analysis Manager",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476951353/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040129+00:00"
+    },
+    {
+      "company": "Robinson Pharma, Inc.",
+      "title": "Buyer - office of procurement",
+      "location": "Santa Ana, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477191065/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040136+00:00"
+    },
+    {
+      "company": "Beckman Coulter Diagnostics",
+      "title": "FP&A Intern",
+      "location": "Brea, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474415779/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040141+00:00"
+    },
+    {
+      "company": "InfoTrack US",
+      "title": "FP&A Senior Analyst, Platform North America",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475710531/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040145+00:00"
+    },
+    {
+      "company": "PayPal",
+      "title": "Sr. Manager, Consumer FP&A",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467954309/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040156+00:00"
+    },
+    {
+      "company": "CFS",
+      "title": "Financial Planning and Accounting Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474495121/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040158+00:00"
+    },
+    {
+      "company": "Apex Systems",
+      "title": "Billing Analyst II",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476946206/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040164+00:00"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Billing Analyst",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475710358/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040164+00:00"
+    },
+    {
+      "company": "Proteus Industries Inc.",
+      "title": "Buyer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475167650/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040169+00:00"
+    },
+    {
+      "company": "Iron Construction, Inc.",
+      "title": "Project Accountant",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475710673/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040172+00:00"
+    },
+    {
+      "company": "Google",
+      "title": "Financial Analyst, Global Hardware Sales Finance",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476585994/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040174+00:00"
     }
   ],
   "new_jobs": [
     {
-      "company": "LHH",
-      "title": "Financial Analyst",
-      "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4452761984/",
-      "date_posted": "2026-10-07",
+      "company": "Delta Dental Ins.",
+      "title": "Senior Financial Planning & Analysis (FP&A) Analyst \u2013 Business Cases",
+      "location": "Rancho Cordova, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468247511/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
-      "salary": "$70,000.00/yr - $80,000.00/yr",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246717+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040022+00:00"
     },
     {
-      "company": "California Department of Social Services",
-      "title": "ASSOCIATE ACCOUNTING ANALYST",
-      "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476535057/",
-      "date_posted": "2026-10-07",
+      "company": "Delta Dental Ins.",
+      "title": "Senior Financial Planning & Analysis (FP&A) Analyst \u2013 (Op Gain/Special Projects)",
+      "location": "Rancho Cordova, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468254474/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
-      "salary": "$6,330.00/mo - $7,929.00/mo",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246728+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040029+00:00"
     },
     {
-      "company": "Golden 1 Credit Union",
-      "title": "Sr Designated Compliance Analyst SDCA",
-      "location": "Sacramento, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459055342/",
-      "date_posted": "2026-10-07",
+      "company": "Delta Dental Ins.",
+      "title": "Senior Financial Planning & Analysis (FP&A) Analyst - Federal",
+      "location": "Rancho Cordova, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468246549/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040031+00:00"
+    },
+    {
+      "company": "California Department of Health Care Services",
+      "title": "Care Management Analyst",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475721672/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$6,031.00/mo - $7,547.00/mo",
       "california_eligibility": "local",
       "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246730+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040032+00:00"
     },
     {
-      "company": "PRIDE Industries",
-      "title": "Buyer II",
-      "location": "Roseville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467227867/",
-      "date_posted": "2026-10-07",
+      "company": "Northrop Grumman",
+      "title": "Financial Analyst (Level 2/3)",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477106168/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246731+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040033+00:00"
     },
     {
-      "company": "LATICRETE International",
-      "title": "Buyer",
-      "location": "Citrus Heights, CA",
-      "url": "https://www.linkedin.com/jobs/view/4447222800/",
-      "date_posted": "2026-10-07",
+      "company": "Northrop Grumman",
+      "title": "Financial Analyst (Level 3/4)",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476990780/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246732+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040034+00:00"
     },
     {
-      "company": "Robert Half",
-      "title": "Sr. Financial Analyst",
-      "location": "Vacaville, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476747067/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$95,000.00/yr - $120,000.00/yr",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246733+00:00"
-    },
-    {
-      "company": "Disney Entertainment",
-      "title": "Senior Financial Analyst, DET FP&A",
-      "location": "Burbank, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475420431/",
-      "date_posted": "2026-10-07",
+      "company": "Anduril Industries",
+      "title": "Senior Financial Analyst, Corporate Finance",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468297661/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246734+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040035+00:00"
     },
     {
-      "company": "Jobot",
-      "title": "Senior Financial Analyst (FP&A)",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466568136/",
-      "date_posted": "2026-10-07",
+      "company": "Internet Brands",
+      "title": "Financial Analyst",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419220054/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
-      "salary": "$110,000.00/yr - $125,000.00/yr",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246735+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040036+00:00"
     },
     {
-      "company": "DisruptiX Talent Solutions",
+      "company": "Addison Group",
+      "title": "Financial Analyst",
+      "location": "Santa Ana, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475744729/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040038+00:00"
+    },
+    {
+      "company": "Berkadia",
       "title": "Senior Financial Analyst",
       "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476799337/",
-      "date_posted": "2026-10-07",
+      "url": "https://www.linkedin.com/jobs/view/4468312847/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246736+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040039+00:00"
     },
     {
-      "company": "Sensorex, Inc.",
-      "title": "Senior FP&A Analyst",
-      "location": "Garden Grove, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476922215/",
-      "date_posted": "2026-10-07",
+      "company": "Snap Inc.",
+      "title": "Senior Financial Analyst",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476962056/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246736+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040040+00:00"
     },
     {
-      "company": "VetJobs",
-      "title": "Financial Analyst - El Segundo CA",
+      "company": "Anduril Industries",
+      "title": "Lead Financial Analyst, Frontier Systems",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4440387440/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040041+00:00"
+    },
+    {
+      "company": "Hyundai Capital America",
+      "title": "FP&A Associate",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473900799/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$64,000.00/yr - $96,000.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040042+00:00"
+    },
+    {
+      "company": "Proven Recruiting",
+      "title": "Lead Financial Analyst",
       "location": "El Segundo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475150191/",
-      "date_posted": "2026-10-07",
+      "url": "https://www.linkedin.com/jobs/view/4411808181/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246738+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040043+00:00"
     },
     {
-      "company": "American Honda Finance Corporation",
-      "title": "Financial Analyst",
-      "location": "Torrance, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475443901/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246739+00:00"
-    },
-    {
-      "company": "Houlihan Lokey",
-      "title": "Financial Analyst, Media, Sports and Entertainment - Valuation Advisory Services",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476502705/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246740+00:00"
-    },
-    {
-      "company": "J.F. Shea Co., Inc.",
-      "title": "Asset Management Analyst",
-      "location": "Aliso Viejo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476739576/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246740+00:00"
-    },
-    {
-      "company": "OMNI Consulting Solutions",
-      "title": "Financial Management analyst",
+      "company": "Raytheon",
+      "title": "E2V2 - Financial Analyst - P3 - (Hybrid)",
       "location": "El Segundo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476726484/",
-      "date_posted": "2026-10-07",
+      "url": "https://www.linkedin.com/jobs/view/4459677765/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246741+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040043+00:00"
     },
     {
-      "company": "Irvine Company Chicago",
-      "title": "Manager, Financial Planning & Analysis - Office Division ($119,700 - $155,500)",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475415935/",
-      "date_posted": "2026-10-07",
+      "company": "Deloitte",
+      "title": "FP&A Advise Senior Consultant",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475766260/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246742+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040044+00:00"
     },
     {
-      "company": "Paramount Pictures",
-      "title": "Senior Manager, FP&A & Deal Analysis, Paramount Television Studios",
+      "company": "Deloitte",
+      "title": "FP&A Advise Senior Consultant",
       "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4382334031/",
-      "date_posted": "2026-10-07",
+      "url": "https://www.linkedin.com/jobs/view/4475748921/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246743+00:00"
-    },
-    {
-      "company": "Space Systems Command",
-      "title": "Budget Analyst.",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476595618/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246744+00:00"
-    },
-    {
-      "company": "Ghost",
-      "title": "Senior Manager, Financial Planning & Analysis",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4436112411/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246744+00:00"
-    },
-    {
-      "company": "UC Irvine",
-      "title": "Project and Financial Analyst",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476901324/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246747+00:00"
-    },
-    {
-      "company": "Volunteers of America Los Angeles",
-      "title": "Programmatic Compliance Analyst",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476913280/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246748+00:00"
-    },
-    {
-      "company": "SteelPeak Wealth",
-      "title": "Compliance Analyst",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4464565747/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$90,000.00/yr - $120,000.00/yr",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246749+00:00"
-    },
-    {
-      "company": "Crissair Inc",
-      "title": "Buyer I",
-      "location": "Santa Clarita, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474415574/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246750+00:00"
-    },
-    {
-      "company": "Broadata Communications, Inc.",
-      "title": "Senior Buyer",
-      "location": "Torrance, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476540064/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246751+00:00"
-    },
-    {
-      "company": "Kindeva Drug Delivery",
-      "title": "Procurement Direct Buyer",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466359076/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246751+00:00"
-    },
-    {
-      "company": "Ryan Herco Flow Solutions",
-      "title": "Regional Buyer - Industrial Distribution - Burbank, CA  or Tempe, AZ",
-      "location": "Burbank, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474484515/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246752+00:00"
-    },
-    {
-      "company": "LATICRETE International",
-      "title": "Buyer",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4447218774/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246753+00:00"
-    },
-    {
-      "company": "L'AGENCE",
-      "title": "ASSOCIATE BUYER",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476732483/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246754+00:00"
-    },
-    {
-      "company": "INA Solution",
-      "title": "Senior FP&A Manager / Senior Financial Planning",
-      "location": "Pasadena, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474472192/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$130.00/yr - $160.00/yr",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246755+00:00"
-    },
-    {
-      "company": "Robert Half",
-      "title": "Hybrid Onsite Contracts Administrator",
-      "location": "Santa Clarita, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476744179/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$30.00/hr - $35.00/hr",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246756+00:00"
-    },
-    {
-      "company": "Century Group",
-      "title": "Senior Cost Analyst",
-      "location": "Los Angeles County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476938295/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246762+00:00"
-    },
-    {
-      "company": "Premier America Credit Union",
-      "title": "Business Intelligence Financial Analyst - onsite daily Chatsworth",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476733570/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246763+00:00"
-    },
-    {
-      "company": "Advanced Sterilization Products",
-      "title": "Financial Planning and Analysis Intern",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476513427/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246764+00:00"
-    },
-    {
-      "company": "Boot Barn",
-      "title": "Assistant Buyer",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475490223/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$27.00/hr - $28.85/hr",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246764+00:00"
-    },
-    {
-      "company": "AppLovin",
-      "title": "Media Buyer, Emerging Channels - Growth Marketing",
-      "location": "Santa Monica, CA",
-      "url": "https://www.linkedin.com/jobs/view/4442406772/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246766+00:00"
-    },
-    {
-      "company": "PayPal",
-      "title": "Sr Analyst, FP&A",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467979744/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246766+00:00"
-    },
-    {
-      "company": "Abbott",
-      "title": "Senior Financial Analyst - TPM",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4471257327/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246767+00:00"
-    },
-    {
-      "company": "Logitech",
-      "title": "Sr. Financial Analyst",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467796910/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246768+00:00"
-    },
-    {
-      "company": "Midi Health",
-      "title": "Financial Analyst",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476930390/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246769+00:00"
-    },
-    {
-      "company": "Google",
-      "title": "Senior Financial Analyst, Global Data Centers",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4447985382/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246770+00:00"
-    },
-    {
-      "company": "Snowflake",
-      "title": "Strategic Finance Analyst II",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4466550757/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$110,000.00/yr - $143,800.00/yr",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246770+00:00"
-    },
-    {
-      "company": "Kinder's Premium Quality Seasonings & Sauces",
-      "title": "Senior Financial Analyst - Logistics & 3PL",
-      "location": "Walnut Creek, CA",
-      "url": "https://www.linkedin.com/jobs/view/4440390600/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246771+00:00"
-    },
-    {
-      "company": "Supermicro",
-      "title": "Staff Financial Analyst",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4467799220/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246772+00:00"
-    },
-    {
-      "company": "Intuit",
-      "title": "Staff Financial Analyst - Payments",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458789822/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246773+00:00"
-    },
-    {
-      "company": "KLA",
-      "title": "Sr. Financial Analyst",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465958061/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246774+00:00"
-    },
-    {
-      "company": "Intuit",
-      "title": "Staff Financial Analyst, Desktop Accounting",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4459182291/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246774+00:00"
-    },
-    {
-      "company": "Intuitive Machines",
-      "title": "Sr. Financial Analyst",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476933428/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246775+00:00"
-    },
-    {
-      "company": "Momentum for Health",
-      "title": "Senior Financial Planning & Analysis (FP&A) Analyst",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475146138/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246776+00:00"
-    },
-    {
-      "company": "Armadin",
-      "title": "Senior Financial Analyst, GTM Business Partner",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476904241/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246777+00:00"
-    },
-    {
-      "company": "Armadin",
-      "title": "Senior FP&A Analyst, COGS",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476903342/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246778+00:00"
-    },
-    {
-      "company": "Hudson Pacific Properties",
-      "title": "Senior Portfolio Management Analyst",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4445783748/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$115,000.00/yr - $125,000.00/yr",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246779+00:00"
-    },
-    {
-      "company": "Supermicro",
-      "title": "FP&A Manager",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476778516/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246780+00:00"
-    },
-    {
-      "company": "County of Santa Clara",
-      "title": "Budget Analyst",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475147095/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246781+00:00"
-    },
-    {
-      "company": "Houlihan Lokey",
-      "title": "Experienced Financial Analyst, Portfolio Valuation and Fund Advisory Services (Complex Securities) - Multiple Locations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458276192/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246781+00:00"
-    },
-    {
-      "company": "MCE",
-      "title": "Finance Manager, Financial Planning & Analysis",
-      "location": "San Rafael, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475499443/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246782+00:00"
-    },
-    {
-      "company": "Snorkel AI",
-      "title": "Corporate FP&A Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474487277/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246783+00:00"
-    },
-    {
-      "company": "Google",
-      "title": "Finance Analyst, Android Commercial Agreements",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476700274/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246784+00:00"
-    },
-    {
-      "company": "U.S. Department of Veterans Affairs",
-      "title": "Program Analyst",
-      "location": "Livermore, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476391521/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$63,081.00/yr - $100,315.00/yr",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246785+00:00"
-    },
-    {
-      "company": "GSA",
-      "title": "Program Analyst (Data Analytics) - Federal Acquisition Service",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476573490/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$108,173.00/yr - $172,980.00/yr",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246785+00:00"
-    },
-    {
-      "company": "Tekgence Inc",
-      "title": "Beeline VMS Program Analyst",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475469377/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246786+00:00"
-    },
-    {
-      "company": "DataVisor",
-      "title": "Business Operations Analyst / Process Improvement",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476722903/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246787+00:00"
-    },
-    {
-      "company": "Visa",
-      "title": "Sr. Compliance Analyst",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476782767/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246788+00:00"
-    },
-    {
-      "company": "Mainspring Energy",
-      "title": "Senior Buyer/Planner",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4434123744/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$84,000.00/yr - $115,000.00/yr",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246789+00:00"
-    },
-    {
-      "company": "Bio-Rad Laboratories",
-      "title": "Supply Assurance Buyer",
-      "location": "Richmond, CA",
-      "url": "https://www.linkedin.com/jobs/view/4465963023/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246790+00:00"
-    },
-    {
-      "company": "BizLink Group",
-      "title": "Buyer II",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476781338/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$80,000.00/yr - $90,000.00/yr",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246791+00:00"
-    },
-    {
-      "company": "Supermicro",
-      "title": "Sr. Buyer/Planner - Components",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4448623689/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246792+00:00"
-    },
-    {
-      "company": "Johnson & Johnson MedTech",
-      "title": "Jr Buyer Co-Op",
-      "location": "Milpitas, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476768763/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246793+00:00"
-    },
-    {
-      "company": "Pyramid Consulting, Inc",
-      "title": "Contract Management Analyst V",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476751970/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$60.00/hr - $65.00/hr",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246794+00:00"
-    },
-    {
-      "company": "SEPHORA",
-      "title": "Financial Analyst",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476700933/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246795+00:00"
-    },
-    {
-      "company": "Google",
-      "title": "Senior Financial Analyst, Global Data Centers",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4447977580/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246796+00:00"
-    },
-    {
-      "company": "MKL Careers",
-      "title": "Project Accountant",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476941272/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246797+00:00"
-    },
-    {
-      "company": "The Planet Group",
-      "title": "Financial Analyst out of SAAS Contract (652733)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4476762644/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$65.00/hr - $77.00/hr",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246797+00:00"
-    },
-    {
-      "company": "Pyramid Consulting, Inc",
-      "title": "Financial Analyst",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476935005/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$80.00/hr - $88.00/hr",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246798+00:00"
-    },
-    {
-      "company": "Molecular Devices",
-      "title": "Strategic Portfolio Management Analyst",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474478276/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246801+00:00"
-    },
-    {
-      "company": "Capitol Hyundai",
-      "title": "Used Car Buyer/Trade-In Specialist",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475401209/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "salary": "$36,000.00/yr - $150,000.00/yr",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246802+00:00"
-    },
-    {
-      "company": "Hikma Pharmaceuticals",
-      "title": "Financial Analyst - FP&A",
-      "location": "Berkeley Heights, NJ",
-      "url": "https://www.linkedin.com/jobs/view/4475451568/",
-      "date_posted": "2026-10-07",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246802+00:00"
-    },
-    {
-      "company": "Origence",
-      "title": "Financial Analyst - FP&A",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476728296/",
-      "date_posted": "2026-10-06",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246815+00:00"
-    },
-    {
-      "company": "OPCO Skilled Management",
-      "title": "Senior Financial Analyst- Long Term Care",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475140256/",
-      "date_posted": "2026-10-06",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246818+00:00"
-    },
-    {
-      "company": "Curtin Maritime, Corp.",
-      "title": "Project Cost Analyst",
-      "location": "Long Beach, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476736241/",
-      "date_posted": "2026-10-06",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246823+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040045+00:00"
     },
     {
       "company": "Unitek Learning",
-      "title": "Student Finance Analyst - Disbursement Team",
+      "title": "Sr. Manager Financial Planning & Analysis (FP&A)",
       "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476391765/",
-      "date_posted": "2026-10-06",
+      "url": "https://www.linkedin.com/jobs/view/4477425105/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246828+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040046+00:00"
     },
     {
-      "company": "Arrowhead Pharmaceuticals",
-      "title": "Senior Contracts Analyst",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4458634759/",
-      "date_posted": "2026-10-06",
+      "company": "Northrop Grumman",
+      "title": "Budget Analyst (Level 2/3)",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477106164/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246838+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040047+00:00"
     },
     {
-      "company": "ExED",
-      "title": "Accounting Analyst",
-      "location": "Los Angeles, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475127742/",
-      "date_posted": "2026-10-06",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246840+00:00"
-    },
-    {
-      "company": "Systems Integration Solutions",
-      "title": "Financial Analyst",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475135487/",
-      "date_posted": "2026-10-06",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246858+00:00"
-    },
-    {
-      "company": "San Francisco Conservatory of Music",
-      "title": "Accounting & Financial Planning Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4475125405/",
-      "date_posted": "2026-10-06",
-      "ats": "LinkedIn",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-07T22:04:51.246858+00:00"
-    },
-    {
-      "company": "City and County of San Francisco",
-      "title": "Senior Administrative Analyst (1823)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476503060/",
-      "date_posted": "2026-10-06",
+      "company": "California State Polytechnic University-Pomona",
+      "title": "Administrative Analyst",
+      "location": "Pomona, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475995798/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246861+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040048+00:00"
     },
     {
-      "company": "Supermicro",
-      "title": "Buyer/Planner - Key Components",
+      "company": "Astrion",
+      "title": "Journeyman Program Analyst",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458320550/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040049+00:00"
+    },
+    {
+      "company": "California State University, Fullerton",
+      "title": "Project Specialist (Administrative Analyst/Specialist - Exempt II)",
+      "location": "Fullerton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476212164/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040050+00:00"
+    },
+    {
+      "company": "ACCO Engineered Systems",
+      "title": "Dir, Financial Planning and Analysis",
+      "location": "Pasadena, CA",
+      "url": "https://www.linkedin.com/jobs/view/4448577679/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040050+00:00"
+    },
+    {
+      "company": "Metropolitan Water District of Southern California",
+      "title": "Administrative Analyst II (C)",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477400966/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040064+00:00"
+    },
+    {
+      "company": "Boot Barn",
+      "title": "Supply Chain & Vendor Compliance Analyst",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475732418/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040065+00:00"
+    },
+    {
+      "company": "BryceTech",
+      "title": "Senior Acquisition Program Analyst",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477415085/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$145,000.00/yr - $185,000.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040066+00:00"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Procurement Analyst",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468394812/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040067+00:00"
+    },
+    {
+      "company": "Pacific Life",
+      "title": "Mutual Fund/Investment Compliance Analyst II",
+      "location": "Newport Beach, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476948841/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040068+00:00"
+    },
+    {
+      "company": "Crissair Inc",
+      "title": "Buyer II",
+      "location": "Santa Clarita, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474486681/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040069+00:00"
+    },
+    {
+      "company": "Northrop Grumman",
+      "title": "Business Management Analyst - Material Estimating",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476996508/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040070+00:00"
+    },
+    {
+      "company": "Motorola Solutions",
+      "title": "Junior Buyer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4403503552/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040071+00:00"
+    },
+    {
+      "company": "Nikkiso Clean Energy & Industrial Gases",
+      "title": "Senior Buyer",
+      "location": "Huntington Beach, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468289254/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040072+00:00"
+    },
+    {
+      "company": "Skechers",
+      "title": "Assistant Buyer, International",
+      "location": "Manhattan Beach, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447207190/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040073+00:00"
+    },
+    {
+      "company": "ALO",
+      "title": "Associate Buyer, Men's",
+      "location": "Beverly Hills, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459016881/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040074+00:00"
+    },
+    {
+      "company": "LATICRETE International",
+      "title": "Buyer",
+      "location": "Los Angeles Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/4447230802/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040075+00:00"
+    },
+    {
+      "company": "Jetro Restaurant Depot",
+      "title": "Produce Buyer",
+      "location": "Anaheim, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477411531/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$75,000.00/yr - $95,000.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040075+00:00"
+    },
+    {
+      "company": "Northrop Grumman",
+      "title": "Principal Financial Reporting Analyst",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4437479323/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040076+00:00"
+    },
+    {
+      "company": "Incubator Lab",
+      "title": "Finance Lead (FP&A and Accounting) - US Remote",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467178625/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040077+00:00"
+    },
+    {
+      "company": "Anduril Industries",
+      "title": "Buyer, Advanced Effects",
+      "location": "Costa Mesa, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459394495/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040078+00:00"
+    },
+    {
+      "company": "LATICRETE International",
+      "title": "Buyer",
+      "location": "Fountain Valley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447236636/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040079+00:00"
+    },
+    {
+      "company": "24 Seven Talent",
+      "title": "Senior Buyer \u2014 Women\u2019s Wovens, Dresses & Essentials",
+      "location": "Anaheim, CA",
+      "url": "https://www.linkedin.com/jobs/view/4471828130/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040079+00:00"
+    },
+    {
+      "company": "24 Seven Talent",
+      "title": "Buyer \u2013 Women\u2019s Denim",
+      "location": "Anaheim, CA",
+      "url": "https://www.linkedin.com/jobs/view/4472054901/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040080+00:00"
+    },
+    {
+      "company": "Plug",
+      "title": "Buyer",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459465015/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040081+00:00"
+    },
+    {
+      "company": "Delta Dental Ins.",
+      "title": "Senior Financial Planning & Analysis (FP&A) Analyst \u2013 Business Cases",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468254473/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040082+00:00"
+    },
+    {
+      "company": "Delta Dental Ins.",
+      "title": "Senior Financial Planning & Analysis (FP&A) Analyst \u2013 (Op Gain/Special Projects)",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468244548/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040083+00:00"
+    },
+    {
+      "company": "Owner.com",
+      "title": "Senior FP&A Analyst",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4442198612/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040083+00:00"
+    },
+    {
+      "company": "Intuit",
+      "title": "Staff Financial Analyst - Customer Success FP&A",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475797366/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040084+00:00"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "Financial Analyst, FP&A",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4466239661/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040085+00:00"
+    },
+    {
+      "company": "SoFi",
+      "title": "Strategic Finance Analyst, Operations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4459027918/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$89,600.00/yr - $168,000.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040086+00:00"
+    },
+    {
+      "company": "Teradyne",
+      "title": "FP&A Analyst (Teradyne, San Jose CA)",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476394228/",
-      "date_posted": "2026-10-06",
+      "url": "https://www.linkedin.com/jobs/view/4474840586/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246864+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040087+00:00"
     },
     {
-      "company": "Pyka",
-      "title": "Senior Buyer/Planner - Medical Device",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476713869/",
-      "date_posted": "2026-10-06",
+      "company": "Robert Half",
+      "title": "Sr. Financial Analyst",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477181477/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$80,000.00/yr - $130,000.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040087+00:00"
+    },
+    {
+      "company": "West Coast Community Bank",
+      "title": "AVP Financial Planning & Analysis Manager",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475708867/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246865+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040088+00:00"
+    },
+    {
+      "company": "Deloitte",
+      "title": "FP&A Advise Senior Consultant",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475753789/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040089+00:00"
+    },
+    {
+      "company": "Deloitte",
+      "title": "FP&A Advise Senior Consultant",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475761378/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040090+00:00"
+    },
+    {
+      "company": "Perigon Wealth Management",
+      "title": "Financial Planning Associate (Hybrid)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475781180/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040091+00:00"
+    },
+    {
+      "company": "DeWinter Group",
+      "title": "Sr. Financial Analyst",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476749634/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040091+00:00"
+    },
+    {
+      "company": "Delta Dental Ins.",
+      "title": "Senior Financial Planning & Analysis (FP&A) Analyst - Federal",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468249503/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040092+00:00"
+    },
+    {
+      "company": "Hill International, Inc.",
+      "title": "Cost Analyst",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4460092191/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040093+00:00"
+    },
+    {
+      "company": "Intuit",
+      "title": "Staff Financial Analyst, Technology Ecosystem",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4458789823/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040094+00:00"
+    },
+    {
+      "company": "Swinerton",
+      "title": "Scheduling/Cost Analyst",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4439488507/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040095+00:00"
+    },
+    {
+      "company": "Proofpoint",
+      "title": "Sr. Manager, Financial Planning & Analysis \u2013 Cloud Infrastructure",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475747028/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040095+00:00"
+    },
+    {
+      "company": "ITCO Solutions, Inc.",
+      "title": "VMS Program Analyst",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474841329/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040096+00:00"
+    },
+    {
+      "company": "State Bar of California",
+      "title": "Board Secretary (Principal Program Analyst)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475980265/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$126,222.00/yr - $168,276.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040097+00:00"
+    },
+    {
+      "company": "California Department of Social Services",
+      "title": "LICENSING PROGRAM ANALYST",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4473940374/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$3,938.00/mo - $7,351.00/mo",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040101+00:00"
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Compliance Analyst, Snowgov Compliance",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475758476/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$152,000.00/yr - $218,500.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040102+00:00"
+    },
+    {
+      "company": "Snowflake",
+      "title": "Senior Compliance Analyst, Customer Trust",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475747718/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$152,000.00/yr - $218,500.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040103+00:00"
+    },
+    {
+      "company": "Confidential Careers",
+      "title": "Compliance Analyst",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477460764/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040104+00:00"
+    },
+    {
+      "company": "Avicena Tech",
+      "title": "Optical Fiber \u2013 Strategic Buyer/Technologist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4449192791/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040105+00:00"
+    },
+    {
+      "company": "1 Arc Power",
+      "title": "Supply Chain Specialist/ Buyer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474827991/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040106+00:00"
+    },
+    {
+      "company": "Intuitive",
+      "title": "Sr. NPI Buyer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422167658/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$87,700.00/yr - $148,600.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040107+00:00"
+    },
+    {
+      "company": "LATICRETE International",
+      "title": "Buyer",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4447224781/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040108+00:00"
+    },
+    {
+      "company": "Aston Carter",
+      "title": "Buyer",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474803056/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$55.00/hr - $60.00/hr",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040108+00:00"
+    },
+    {
+      "company": "Thuma",
+      "title": "Buyer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475781523/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040109+00:00"
+    },
+    {
+      "company": "Pacific Gas and Electric Company",
+      "title": "Senior Asset Accounting Analyst",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477401927/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040110+00:00"
+    },
+    {
+      "company": "Navan",
+      "title": "Sr. Accountant, Financial Reporting",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468209067/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040111+00:00"
+    },
+    {
+      "company": "Intuit",
+      "title": "Staff Financial Analyst - Sales, Global Business Solutions Group",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4468602438/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040112+00:00"
+    },
+    {
+      "company": "San Francisco State University",
+      "title": "CoSE Student Success & Events Coordinator (Administrative Analyst/Specialist - Exempt I, Range II) - College of Science & Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475736009/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040112+00:00"
+    },
+    {
+      "company": "AMISEQ",
+      "title": "Financial Analyst",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477441552/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$60.00/yr - $64.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040113+00:00"
     },
     {
       "company": "Aquent",
-      "title": "Financial Analyst [AQ-21068]",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4474404916/",
-      "date_posted": "2026-10-06",
+      "title": "Sr Financial Analyst_USD [AQ-21366]",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474833605/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
+      "salary": "$36.00/hr - $36.00/hr",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246872+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040114+00:00"
     },
     {
-      "company": "Motion Recruitment",
-      "title": "Financial Analyst",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4476386579/",
-      "date_posted": "2026-10-06",
+      "company": "Snowflake",
+      "title": "Senior Compliance Analyst, Governance Programs",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475761136/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "salary": "$152,000.00/yr - $218,500.00/yr",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040115+00:00"
+    },
+    {
+      "company": "Northrop Grumman",
+      "title": "Contracts Administrator (Level 2/3)",
+      "location": "El Segundo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477100435/",
+      "date_posted": "2026-10-08",
       "ats": "LinkedIn",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-07T22:04:51.246874+00:00"
+      "last_observed_at": "2026-10-08T22:10:31.040115+00:00"
+    },
+    {
+      "company": "DZYNE Technologies",
+      "title": "Contract Administrator",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423253949/",
+      "date_posted": "2026-10-08",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040116+00:00"
+    },
+    {
+      "company": "Alliance Resource Group",
+      "title": "Senior Financial Planning Analyst",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475718010/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040124+00:00"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Financial Planning and Analysis Manager",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476951353/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040129+00:00"
+    },
+    {
+      "company": "Robinson Pharma, Inc.",
+      "title": "Buyer - office of procurement",
+      "location": "Santa Ana, CA",
+      "url": "https://www.linkedin.com/jobs/view/4477191065/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040136+00:00"
+    },
+    {
+      "company": "Beckman Coulter Diagnostics",
+      "title": "FP&A Intern",
+      "location": "Brea, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474415779/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040141+00:00"
+    },
+    {
+      "company": "InfoTrack US",
+      "title": "FP&A Senior Analyst, Platform North America",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475710531/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040145+00:00"
+    },
+    {
+      "company": "PayPal",
+      "title": "Sr. Manager, Consumer FP&A",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4467954309/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040156+00:00"
+    },
+    {
+      "company": "CFS",
+      "title": "Financial Planning and Accounting Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4474495121/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040158+00:00"
+    },
+    {
+      "company": "Apex Systems",
+      "title": "Billing Analyst II",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476946206/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040164+00:00"
+    },
+    {
+      "company": "Robert Half",
+      "title": "Billing Analyst",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475710358/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040164+00:00"
+    },
+    {
+      "company": "Proteus Industries Inc.",
+      "title": "Buyer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475167650/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040169+00:00"
+    },
+    {
+      "company": "Iron Construction, Inc.",
+      "title": "Project Accountant",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4475710673/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040172+00:00"
+    },
+    {
+      "company": "Google",
+      "title": "Financial Analyst, Global Hardware Sales Finance",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4476585994/",
+      "date_posted": "2026-10-07",
+      "ats": "LinkedIn",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-08T22:10:31.040174+00:00"
     }
   ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 415,
+    "location": 509,
     "stale": 0
   }
 }
