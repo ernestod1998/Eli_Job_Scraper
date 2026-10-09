@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-08 22:14 UTC",
-  "total": 32,
-  "new_count": 0,
+  "scraped_at": "2026-10-09 21:50 UTC",
+  "total": 37,
+  "new_count": 5,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -316,7 +316,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-08T22:14:13.340576+00:00"
+      "last_observed_at": "2026-10-09T21:50:22.993087+00:00"
     },
     {
       "company": "Central Basin Municipal Water District (CA)",
@@ -346,7 +346,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-08T22:14:13.340582+00:00"
+      "last_observed_at": "2026-10-09T21:50:22.993098+00:00"
     },
     {
       "company": "City of Burbank",
@@ -361,7 +361,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-08T22:14:13.340577+00:00"
+      "last_observed_at": "2026-10-09T21:50:22.993089+00:00"
     },
     {
       "company": "City of Anaheim",
@@ -406,7 +406,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-08T22:14:13.340579+00:00"
+      "last_observed_at": "2026-10-09T21:50:22.993093+00:00"
     },
     {
       "company": "City of Beverly Hills",
@@ -421,7 +421,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-08T22:14:13.340580+00:00"
+      "last_observed_at": "2026-10-09T21:50:22.993095+00:00"
     },
     {
       "company": "Superior Court of California County of Los Angeles",
@@ -436,7 +436,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-08T22:14:13.340551+00:00"
+      "last_observed_at": "2026-10-09T21:50:22.993067+00:00"
     },
     {
       "company": "City of Fullerton",
@@ -451,7 +451,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-08T22:14:13.340574+00:00"
+      "last_observed_at": "2026-10-09T21:50:22.993085+00:00"
     },
     {
       "company": "City of Long Beach",
@@ -481,10 +481,161 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-08T22:14:13.340571+00:00"
+      "last_observed_at": "2026-10-09T21:50:22.993080+00:00"
+    },
+    {
+      "company": "City of Alameda",
+      "title": "Part Time Budget Analyst",
+      "location": "City of Alameda (City Hall), CA",
+      "url": "https://www.governmentjobs.com/jobs/5497428-0/part-time-budget-analyst",
+      "date_posted": "",
+      "salary": "$35.26 - $52.08 Hourly",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-09T21:50:22.993083+00:00"
+    },
+    {
+      "company": "The Metropolitan Water District of Southern California",
+      "title": "Administrative Analyst II (C)",
+      "location": "Los Angeles, CA",
+      "url": "https://www.governmentjobs.com/jobs/151939-1/administrative-analyst-ii-c",
+      "date_posted": "",
+      "salary": "$48.38 - $63.75 Hourly",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-09T21:50:22.993090+00:00"
+    },
+    {
+      "company": "City of Sacramento",
+      "title": "Administrative Analyst (Crime Analysis)",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/5500875-0/administrative-analyst-crime-analysis",
+      "date_posted": "",
+      "salary": "$77,672.41 - $109,292.88 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-09T21:50:22.993092+00:00"
+    },
+    {
+      "company": "City of Elk Grove",
+      "title": "Management Analyst I/II",
+      "location": "Elk Grove City Hall, CA",
+      "url": "https://www.governmentjobs.com/jobs/5509981-0/management-analyst-i-ii",
+      "date_posted": "",
+      "salary": "$83,570.00 - $123,753.00 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-09T21:50:22.993097+00:00"
+    },
+    {
+      "company": "City of Pasadena",
+      "title": "Management Analyst III (Transportation)",
+      "location": "City of Pasadena, CA",
+      "url": "https://www.governmentjobs.com/jobs/5509863-0/management-analyst-iii-transportation",
+      "date_posted": "",
+      "salary": "$97,269.00 - $121,586.00 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-09T21:50:22.993104+00:00"
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "City of Alameda",
+      "title": "Part Time Budget Analyst",
+      "location": "City of Alameda (City Hall), CA",
+      "url": "https://www.governmentjobs.com/jobs/5497428-0/part-time-budget-analyst",
+      "date_posted": "",
+      "salary": "$35.26 - $52.08 Hourly",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-09T21:50:22.993083+00:00"
+    },
+    {
+      "company": "The Metropolitan Water District of Southern California",
+      "title": "Administrative Analyst II (C)",
+      "location": "Los Angeles, CA",
+      "url": "https://www.governmentjobs.com/jobs/151939-1/administrative-analyst-ii-c",
+      "date_posted": "",
+      "salary": "$48.38 - $63.75 Hourly",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-09T21:50:22.993090+00:00"
+    },
+    {
+      "company": "City of Sacramento",
+      "title": "Administrative Analyst (Crime Analysis)",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/5500875-0/administrative-analyst-crime-analysis",
+      "date_posted": "",
+      "salary": "$77,672.41 - $109,292.88 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-09T21:50:22.993092+00:00"
+    },
+    {
+      "company": "City of Elk Grove",
+      "title": "Management Analyst I/II",
+      "location": "Elk Grove City Hall, CA",
+      "url": "https://www.governmentjobs.com/jobs/5509981-0/management-analyst-i-ii",
+      "date_posted": "",
+      "salary": "$83,570.00 - $123,753.00 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-09T21:50:22.993097+00:00"
+    },
+    {
+      "company": "City of Pasadena",
+      "title": "Management Analyst III (Transportation)",
+      "location": "City of Pasadena, CA",
+      "url": "https://www.governmentjobs.com/jobs/5509863-0/management-analyst-iii-transportation",
+      "date_posted": "",
+      "salary": "$97,269.00 - $121,586.00 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-09T21:50:22.993104+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,

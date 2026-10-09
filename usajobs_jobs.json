@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-08 22:13 UTC",
-  "total": 2,
+  "scraped_at": "2026-10-09 21:49 UTC",
+  "total": 1,
   "new_count": 0,
   "jobs": [
     {
@@ -16,22 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-08T22:13:12.899661+00:00"
-    },
-    {
-      "company": "Space Systems Command",
-      "title": "Budget Analyst",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov/job/887413200",
-      "date_posted": "2026-10-02",
-      "salary": "Starting at $104,349 Per year (NH 3)",
-      "ats": "USAJOBS",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-08T22:13:12.899670+00:00"
+      "last_observed_at": "2026-10-09T21:49:39.321233+00:00"
     }
   ],
   "new_jobs": [],
@@ -39,7 +24,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 88,
+    "location": 90,
     "stale": 0
   }
 }
