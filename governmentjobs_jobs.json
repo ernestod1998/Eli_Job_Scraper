@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-10 20:41 UTC",
-  "total": 37,
-  "new_count": 0,
+  "scraped_at": "2026-10-11 21:06 UTC",
+  "total": 38,
+  "new_count": 1,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -316,7 +316,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-10T20:41:38.093450+00:00"
+      "last_observed_at": "2026-10-11T21:06:17.933075+00:00"
     },
     {
       "company": "Central Basin Municipal Water District (CA)",
@@ -346,7 +346,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-10T20:41:38.093460+00:00"
+      "last_observed_at": "2026-10-11T21:06:17.933084+00:00"
     },
     {
       "company": "City of Burbank",
@@ -361,7 +361,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-10T20:41:38.093452+00:00"
+      "last_observed_at": "2026-10-11T21:06:17.933077+00:00"
     },
     {
       "company": "City of Anaheim",
@@ -421,7 +421,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-10T20:41:38.093457+00:00"
+      "last_observed_at": "2026-10-11T21:06:17.933081+00:00"
     },
     {
       "company": "Superior Court of California County of Los Angeles",
@@ -436,7 +436,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-10T20:41:38.093430+00:00"
+      "last_observed_at": "2026-10-11T21:06:17.933057+00:00"
     },
     {
       "company": "City of Fullerton",
@@ -451,7 +451,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-10T20:41:38.093448+00:00"
+      "last_observed_at": "2026-10-11T21:06:17.933074+00:00"
     },
     {
       "company": "City of Long Beach",
@@ -481,7 +481,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-10T20:41:38.093443+00:00"
+      "last_observed_at": "2026-10-11T21:06:17.933070+00:00"
     },
     {
       "company": "City of Alameda",
@@ -496,7 +496,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-10T20:41:38.093446+00:00"
+      "last_observed_at": "2026-10-11T21:06:17.933073+00:00"
     },
     {
       "company": "The Metropolitan Water District of Southern California",
@@ -511,7 +511,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-10T20:41:38.093454+00:00"
+      "last_observed_at": "2026-10-11T21:06:17.933078+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -526,7 +526,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-10T20:41:38.093455+00:00"
+      "last_observed_at": "2026-10-11T21:06:17.933079+00:00"
     },
     {
       "company": "City of Elk Grove",
@@ -541,7 +541,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-10T20:41:38.093458+00:00"
+      "last_observed_at": "2026-10-11T21:06:17.933083+00:00"
     },
     {
       "company": "City of Pasadena",
@@ -556,10 +556,41 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-10T20:41:38.093461+00:00"
+      "last_observed_at": "2026-10-11T21:06:17.933089+00:00"
+    },
+    {
+      "company": "California State University, Fullerton",
+      "title": "Project Specialist (Administrative Analyst/Specialist - Exempt II)",
+      "location": "Fullerton, CA",
+      "url": "https://www.governmentjobs.com/jobs/151916-1/project-specialist-administrative-analyst-specialist-exempt-ii",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-11T21:06:17.933080+00:00"
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "California State University, Fullerton",
+      "title": "Project Specialist (Administrative Analyst/Specialist - Exempt II)",
+      "location": "Fullerton, CA",
+      "url": "https://www.governmentjobs.com/jobs/151916-1/project-specialist-administrative-analyst-specialist-exempt-ii",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-11T21:06:17.933080+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
