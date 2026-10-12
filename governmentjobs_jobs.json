@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-11 21:06 UTC",
-  "total": 38,
-  "new_count": 1,
+  "scraped_at": "2026-10-12 23:43 UTC",
+  "total": 40,
+  "new_count": 2,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -316,7 +316,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-11T21:06:17.933075+00:00"
+      "last_observed_at": "2026-10-12T23:43:25.841443+00:00"
     },
     {
       "company": "Central Basin Municipal Water District (CA)",
@@ -346,7 +346,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-11T21:06:17.933084+00:00"
+      "last_observed_at": "2026-10-12T23:43:25.841462+00:00"
     },
     {
       "company": "City of Burbank",
@@ -361,7 +361,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-11T21:06:17.933077+00:00"
+      "last_observed_at": "2026-10-12T23:43:25.841445+00:00"
     },
     {
       "company": "City of Anaheim",
@@ -421,7 +421,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-11T21:06:17.933081+00:00"
+      "last_observed_at": "2026-10-12T23:43:25.841450+00:00"
     },
     {
       "company": "Superior Court of California County of Los Angeles",
@@ -436,7 +436,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-11T21:06:17.933057+00:00"
+      "last_observed_at": "2026-10-12T23:43:25.841422+00:00"
     },
     {
       "company": "City of Fullerton",
@@ -451,7 +451,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-11T21:06:17.933074+00:00"
+      "last_observed_at": "2026-10-12T23:43:25.841442+00:00"
     },
     {
       "company": "City of Long Beach",
@@ -481,7 +481,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-11T21:06:17.933070+00:00"
+      "last_observed_at": "2026-10-12T23:43:25.841435+00:00"
     },
     {
       "company": "City of Alameda",
@@ -496,7 +496,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-11T21:06:17.933073+00:00"
+      "last_observed_at": "2026-10-12T23:43:25.841437+00:00"
     },
     {
       "company": "The Metropolitan Water District of Southern California",
@@ -511,7 +511,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-11T21:06:17.933078+00:00"
+      "last_observed_at": "2026-10-12T23:43:25.841446+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -526,7 +526,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-11T21:06:17.933079+00:00"
+      "last_observed_at": "2026-10-12T23:43:25.841447+00:00"
     },
     {
       "company": "City of Elk Grove",
@@ -541,7 +541,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-11T21:06:17.933083+00:00"
+      "last_observed_at": "2026-10-12T23:43:25.841460+00:00"
     },
     {
       "company": "City of Pasadena",
@@ -556,7 +556,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-11T21:06:17.933089+00:00"
+      "last_observed_at": "2026-10-12T23:43:25.841463+00:00"
     },
     {
       "company": "California State University, Fullerton",
@@ -571,24 +571,69 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-11T21:06:17.933080+00:00"
+      "last_observed_at": "2026-10-12T23:43:25.841448+00:00"
+    },
+    {
+      "company": "City of Livermore",
+      "title": "Senior Budget Analyst",
+      "location": "Livermore, CA",
+      "url": "https://www.governmentjobs.com/jobs/5512223-0/senior-budget-analyst",
+      "date_posted": "",
+      "salary": "$11,491.86 - $14,364.83 Monthly",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-12T23:43:25.841439+00:00"
+    },
+    {
+      "company": "City of Folsom",
+      "title": "Principal Budget Analyst",
+      "location": "Folsom, CA",
+      "url": "https://www.governmentjobs.com/jobs/5391616-0/principal-budget-analyst",
+      "date_posted": "",
+      "salary": "$124,057.66 - $157,152.53 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-12T23:43:25.841441+00:00"
     }
   ],
   "new_jobs": [
     {
-      "company": "California State University, Fullerton",
-      "title": "Project Specialist (Administrative Analyst/Specialist - Exempt II)",
-      "location": "Fullerton, CA",
-      "url": "https://www.governmentjobs.com/jobs/151916-1/project-specialist-administrative-analyst-specialist-exempt-ii",
+      "company": "City of Livermore",
+      "title": "Senior Budget Analyst",
+      "location": "Livermore, CA",
+      "url": "https://www.governmentjobs.com/jobs/5512223-0/senior-budget-analyst",
       "date_posted": "",
-      "salary": "",
+      "salary": "$11,491.86 - $14,364.83 Monthly",
       "ats": "NEOGOV",
       "california_eligibility": "local",
-      "role_fit": "unverified",
+      "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-11T21:06:17.933080+00:00"
+      "last_observed_at": "2026-10-12T23:43:25.841439+00:00"
+    },
+    {
+      "company": "City of Folsom",
+      "title": "Principal Budget Analyst",
+      "location": "Folsom, CA",
+      "url": "https://www.governmentjobs.com/jobs/5391616-0/principal-budget-analyst",
+      "date_posted": "",
+      "salary": "$124,057.66 - $157,152.53 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-12T23:43:25.841441+00:00"
     }
   ],
   "filter_stats": {
