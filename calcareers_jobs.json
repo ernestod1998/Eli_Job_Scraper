@@ -1,14 +1,46 @@
 {
-  "scraped_at": "2026-10-12 23:44 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": [],
+  "scraped_at": "2026-10-13 21:57 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "State Compensation Insurance Fund",
+      "title": "Senior Financial Analyst",
+      "location": "Alameda County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535444",
+      "date_posted": "2026-10-13",
+      "salary": "$6623.00 - $8290.00",
+      "ats": "CalCareers",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-13T21:57:56.296394+00:00"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "State Compensation Insurance Fund",
+      "title": "Senior Financial Analyst",
+      "location": "Alameda County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535444",
+      "date_posted": "2026-10-13",
+      "salary": "$6623.00 - $8290.00",
+      "ats": "CalCareers",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-13T21:57:56.296394+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 26,
+    "location": 23,
     "stale": 0
   }
 }

@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-12 23:43 UTC",
-  "total": 40,
+  "scraped_at": "2026-10-13 21:56 UTC",
+  "total": 42,
   "new_count": 2,
   "jobs": [
     {
@@ -316,7 +316,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-12T23:43:25.841443+00:00"
+      "last_observed_at": "2026-10-13T21:56:55.830552+00:00"
     },
     {
       "company": "Central Basin Municipal Water District (CA)",
@@ -361,7 +361,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-12T23:43:25.841445+00:00"
+      "last_observed_at": "2026-10-13T21:56:55.830554+00:00"
     },
     {
       "company": "City of Anaheim",
@@ -406,7 +406,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-09T21:50:22.993093+00:00"
+      "last_observed_at": "2026-10-13T21:56:55.830560+00:00"
     },
     {
       "company": "City of Beverly Hills",
@@ -421,7 +421,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-12T23:43:25.841450+00:00"
+      "last_observed_at": "2026-10-13T21:56:55.830567+00:00"
     },
     {
       "company": "Superior Court of California County of Los Angeles",
@@ -436,7 +436,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-12T23:43:25.841422+00:00"
+      "last_observed_at": "2026-10-13T21:56:55.830531+00:00"
     },
     {
       "company": "City of Fullerton",
@@ -451,7 +451,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-12T23:43:25.841442+00:00"
+      "last_observed_at": "2026-10-13T21:56:55.830551+00:00"
     },
     {
       "company": "City of Long Beach",
@@ -481,7 +481,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-12T23:43:25.841435+00:00"
+      "last_observed_at": "2026-10-13T21:56:55.830546+00:00"
     },
     {
       "company": "City of Alameda",
@@ -496,7 +496,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-12T23:43:25.841437+00:00"
+      "last_observed_at": "2026-10-13T21:56:55.830548+00:00"
     },
     {
       "company": "The Metropolitan Water District of Southern California",
@@ -511,7 +511,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-12T23:43:25.841446+00:00"
+      "last_observed_at": "2026-10-13T21:56:55.830555+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -526,7 +526,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-12T23:43:25.841447+00:00"
+      "last_observed_at": "2026-10-13T21:56:55.830557+00:00"
     },
     {
       "company": "City of Elk Grove",
@@ -541,7 +541,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-12T23:43:25.841460+00:00"
+      "last_observed_at": "2026-10-13T21:56:55.830568+00:00"
     },
     {
       "company": "City of Pasadena",
@@ -571,7 +571,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-12T23:43:25.841448+00:00"
+      "last_observed_at": "2026-10-13T21:56:55.830558+00:00"
     },
     {
       "company": "City of Livermore",
@@ -586,7 +586,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-12T23:43:25.841439+00:00"
+      "last_observed_at": "2026-10-13T21:56:55.830549+00:00"
     },
     {
       "company": "City of Folsom",
@@ -602,38 +602,68 @@
         "general"
       ],
       "last_observed_at": "2026-10-12T23:43:25.841441+00:00"
+    },
+    {
+      "company": "CalOptima",
+      "title": "Financial Analyst I, Budgeting",
+      "location": "Orange, CA",
+      "url": "https://www.governmentjobs.com/jobs/152092-1/financial-analyst-i-budgeting",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-13T21:56:55.830543+00:00"
+    },
+    {
+      "company": "Orange County Transportation Authority",
+      "title": "Contract Administrator Senior",
+      "location": "Orange, CA",
+      "url": "https://www.governmentjobs.com/jobs/152032-1/contract-administrator-senior",
+      "date_posted": "",
+      "salary": "$101,275.20 - $139,339.20 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-13T21:56:55.830570+00:00"
     }
   ],
   "new_jobs": [
     {
-      "company": "City of Livermore",
-      "title": "Senior Budget Analyst",
-      "location": "Livermore, CA",
-      "url": "https://www.governmentjobs.com/jobs/5512223-0/senior-budget-analyst",
+      "company": "CalOptima",
+      "title": "Financial Analyst I, Budgeting",
+      "location": "Orange, CA",
+      "url": "https://www.governmentjobs.com/jobs/152092-1/financial-analyst-i-budgeting",
       "date_posted": "",
-      "salary": "$11,491.86 - $14,364.83 Monthly",
+      "salary": "",
       "ats": "NEOGOV",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-12T23:43:25.841439+00:00"
+      "last_observed_at": "2026-10-13T21:56:55.830543+00:00"
     },
     {
-      "company": "City of Folsom",
-      "title": "Principal Budget Analyst",
-      "location": "Folsom, CA",
-      "url": "https://www.governmentjobs.com/jobs/5391616-0/principal-budget-analyst",
+      "company": "Orange County Transportation Authority",
+      "title": "Contract Administrator Senior",
+      "location": "Orange, CA",
+      "url": "https://www.governmentjobs.com/jobs/152032-1/contract-administrator-senior",
       "date_posted": "",
-      "salary": "$124,057.66 - $157,152.53 Annually",
+      "salary": "$101,275.20 - $139,339.20 Annually",
       "ats": "NEOGOV",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-12T23:43:25.841441+00:00"
+      "last_observed_at": "2026-10-13T21:56:55.830570+00:00"
     }
   ],
   "filter_stats": {
