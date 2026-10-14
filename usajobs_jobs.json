@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-13 21:56 UTC",
-  "total": 3,
-  "new_count": 2,
+  "scraped_at": "2026-10-14 20:49 UTC",
+  "total": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "National Oceanic and Atmospheric Administration",
@@ -16,22 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-13T21:56:04.720086+00:00"
-    },
-    {
-      "company": "Department of Education Headquarters",
-      "title": "Management and Program Analyst, GS-0343-13, FPL GS-13 (DE)",
-      "location": "San Francisco, California",
-      "url": "https://www.usajobs.gov/job/888425500",
-      "date_posted": "2026-10-13",
-      "salary": "Starting at $108,173 Per year (GS 13)",
-      "ats": "USAJOBS",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-13T21:56:04.720098+00:00"
+      "last_observed_at": "2026-10-14T20:49:53.543791+00:00"
     },
     {
       "company": "Space Systems Command",
@@ -46,46 +31,15 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-13T21:56:04.720101+00:00"
+      "last_observed_at": "2026-10-14T20:49:53.543804+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Department of Education Headquarters",
-      "title": "Management and Program Analyst, GS-0343-13, FPL GS-13 (DE)",
-      "location": "San Francisco, California",
-      "url": "https://www.usajobs.gov/job/888425500",
-      "date_posted": "2026-10-13",
-      "salary": "Starting at $108,173 Per year (GS 13)",
-      "ats": "USAJOBS",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-13T21:56:04.720098+00:00"
-    },
-    {
-      "company": "Space Systems Command",
-      "title": "Management Analyst, 61 FSS",
-      "location": "Los Angeles County, California",
-      "url": "https://www.usajobs.gov/job/888598200",
-      "date_posted": "2026-10-13",
-      "salary": "Starting at $104,349 Per year (NH 3)",
-      "ats": "USAJOBS",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-13T21:56:04.720101+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 71,
+    "location": 65,
     "stale": 0
   }
 }
