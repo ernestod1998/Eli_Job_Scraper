@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-14 20:49 UTC",
+  "scraped_at": "2026-10-15 20:26 UTC",
   "total": 2,
   "new_count": 0,
   "jobs": [
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-14T20:49:53.543791+00:00"
+      "last_observed_at": "2026-10-15T20:26:01.258745+00:00"
     },
     {
       "company": "Space Systems Command",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-14T20:49:53.543804+00:00"
+      "last_observed_at": "2026-10-15T20:26:01.258757+00:00"
     }
   ],
   "new_jobs": [],
