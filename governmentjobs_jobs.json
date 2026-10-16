@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-15 20:26 UTC",
-  "total": 46,
+  "scraped_at": "2026-10-16 20:03 UTC",
+  "total": 48,
   "new_count": 2,
   "jobs": [
     {
@@ -436,7 +436,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-15T20:26:51.898538+00:00"
+      "last_observed_at": "2026-10-16T20:03:20.814098+00:00"
     },
     {
       "company": "City of Fullerton",
@@ -451,7 +451,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-15T20:26:51.898566+00:00"
+      "last_observed_at": "2026-10-16T20:03:20.814132+00:00"
     },
     {
       "company": "City of Long Beach",
@@ -481,7 +481,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-15T20:26:51.898558+00:00"
+      "last_observed_at": "2026-10-16T20:03:20.814121+00:00"
     },
     {
       "company": "City of Alameda",
@@ -496,7 +496,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-15T20:26:51.898563+00:00"
+      "last_observed_at": "2026-10-16T20:03:20.814128+00:00"
     },
     {
       "company": "The Metropolitan Water District of Southern California",
@@ -511,7 +511,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-15T20:26:51.898569+00:00"
+      "last_observed_at": "2026-10-16T20:03:20.814133+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -526,7 +526,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-15T20:26:51.898581+00:00"
+      "last_observed_at": "2026-10-16T20:03:20.814143+00:00"
     },
     {
       "company": "City of Elk Grove",
@@ -541,7 +541,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-14T20:50:33.834803+00:00"
+      "last_observed_at": "2026-10-16T20:03:20.814150+00:00"
     },
     {
       "company": "City of Pasadena",
@@ -556,7 +556,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-14T20:50:33.834805+00:00"
+      "last_observed_at": "2026-10-16T20:03:20.814152+00:00"
     },
     {
       "company": "California State University, Fullerton",
@@ -571,7 +571,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-15T20:26:51.898582+00:00"
+      "last_observed_at": "2026-10-16T20:03:20.814149+00:00"
     },
     {
       "company": "City of Livermore",
@@ -586,7 +586,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-14T20:50:33.834787+00:00"
+      "last_observed_at": "2026-10-16T20:03:20.814125+00:00"
     },
     {
       "company": "City of Folsom",
@@ -601,7 +601,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-15T20:26:51.898561+00:00"
+      "last_observed_at": "2026-10-16T20:03:20.814127+00:00"
     },
     {
       "company": "CalOptima",
@@ -616,7 +616,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-15T20:26:51.898554+00:00"
+      "last_observed_at": "2026-10-16T20:03:20.814115+00:00"
     },
     {
       "company": "Orange County Transportation Authority",
@@ -631,7 +631,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-15T20:26:51.898585+00:00"
+      "last_observed_at": "2026-10-16T20:03:20.814154+00:00"
     },
     {
       "company": "City of San Jose",
@@ -646,7 +646,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-15T20:26:51.898560+00:00"
+      "last_observed_at": "2026-10-16T20:03:20.814123+00:00"
     },
     {
       "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
@@ -661,7 +661,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-15T20:26:51.898564+00:00"
+      "last_observed_at": "2026-10-16T20:03:20.814130+00:00"
     },
     {
       "company": "CalOptima",
@@ -676,7 +676,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-15T20:26:51.898551+00:00"
+      "last_observed_at": "2026-10-16T20:03:20.814111+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -691,30 +691,45 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-15T20:26:51.898556+00:00"
+      "last_observed_at": "2026-10-16T20:03:20.814119+00:00"
+    },
+    {
+      "company": "City of Sacramento",
+      "title": "Administrative Analyst (Architecture & Engineering)",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/5507821-0/administrative-analyst-architecture-engineering",
+      "date_posted": "",
+      "salary": "$77,672.41 - $109,292.88 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-16T20:03:20.814146+00:00"
+    },
+    {
+      "company": "California State University, Fullerton",
+      "title": "Workforce Operations Analyst (Administrative Analyst/Specialist Exempt-II)",
+      "location": "Fullerton, CA",
+      "url": "https://www.governmentjobs.com/jobs/152221-1/workforce-operations-analyst-administrative-analyst-specialist-exempt-ii",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-16T20:03:20.814147+00:00"
     }
   ],
   "new_jobs": [
     {
-      "company": "CalOptima",
-      "title": "Financial Analyst III (Financial Reporting)",
-      "location": "Orange, CA",
-      "url": "https://www.governmentjobs.com/jobs/152171-1/financial-analyst-iii-financial-reporting",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-15T20:26:51.898551+00:00"
-    },
-    {
       "company": "City of Sacramento",
-      "title": "Administrative Analyst (Financial Analyst)",
+      "title": "Administrative Analyst (Architecture & Engineering)",
       "location": "Sacramento, CA",
-      "url": "https://www.governmentjobs.com/jobs/5508693-0/administrative-analyst-financial-analyst",
+      "url": "https://www.governmentjobs.com/jobs/5507821-0/administrative-analyst-architecture-engineering",
       "date_posted": "",
       "salary": "$77,672.41 - $109,292.88 Annually",
       "ats": "NEOGOV",
@@ -723,7 +738,22 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-15T20:26:51.898556+00:00"
+      "last_observed_at": "2026-10-16T20:03:20.814146+00:00"
+    },
+    {
+      "company": "California State University, Fullerton",
+      "title": "Workforce Operations Analyst (Administrative Analyst/Specialist Exempt-II)",
+      "location": "Fullerton, CA",
+      "url": "https://www.governmentjobs.com/jobs/152221-1/workforce-operations-analyst-administrative-analyst-specialist-exempt-ii",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-16T20:03:20.814147+00:00"
     }
   ],
   "filter_stats": {

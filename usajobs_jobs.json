@@ -1,8 +1,23 @@
 {
-  "scraped_at": "2026-10-15 20:26 UTC",
-  "total": 2,
-  "new_count": 0,
+  "scraped_at": "2026-10-16 20:02 UTC",
+  "total": 3,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Western Area Power Administration",
+      "title": "Financial Analyst",
+      "location": "Folsom, California",
+      "url": "https://www.usajobs.gov/job/889076700",
+      "date_posted": "2026-10-16",
+      "salary": "Starting at $50,460 Per year (GS 7-12)",
+      "ats": "USAJOBS",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-16T20:02:25.736518+00:00"
+    },
     {
       "company": "National Oceanic and Atmospheric Administration",
       "title": "Budget Analyst",
@@ -16,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-15T20:26:01.258745+00:00"
+      "last_observed_at": "2026-10-16T20:02:25.736529+00:00"
     },
     {
       "company": "Space Systems Command",
@@ -31,15 +46,31 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-15T20:26:01.258757+00:00"
+      "last_observed_at": "2026-10-16T20:02:25.736532+00:00"
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Western Area Power Administration",
+      "title": "Financial Analyst",
+      "location": "Folsom, California",
+      "url": "https://www.usajobs.gov/job/889076700",
+      "date_posted": "2026-10-16",
+      "salary": "Starting at $50,460 Per year (GS 7-12)",
+      "ats": "USAJOBS",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-16T20:02:25.736518+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 65,
+    "location": 64,
     "stale": 0
   }
 }
