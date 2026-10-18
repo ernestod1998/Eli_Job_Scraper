@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-17 19:32 UTC",
+  "scraped_at": "2026-10-18 19:33 UTC",
   "total": 49,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -406,7 +406,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-15T20:26:51.898584+00:00"
+      "last_observed_at": "2026-10-18T19:33:12.707358+00:00"
     },
     {
       "company": "City of Beverly Hills",
@@ -436,7 +436,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760370+00:00"
+      "last_observed_at": "2026-10-18T19:33:12.707312+00:00"
     },
     {
       "company": "City of Fullerton",
@@ -481,7 +481,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760388+00:00"
+      "last_observed_at": "2026-10-18T19:33:12.707332+00:00"
     },
     {
       "company": "City of Alameda",
@@ -496,7 +496,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760395+00:00"
+      "last_observed_at": "2026-10-18T19:33:12.707338+00:00"
     },
     {
       "company": "The Metropolitan Water District of Southern California",
@@ -511,7 +511,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760399+00:00"
+      "last_observed_at": "2026-10-18T19:33:12.707341+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -526,7 +526,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760400+00:00"
+      "last_observed_at": "2026-10-18T19:33:12.707343+00:00"
     },
     {
       "company": "City of Elk Grove",
@@ -571,7 +571,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760408+00:00"
+      "last_observed_at": "2026-10-18T19:33:12.707356+00:00"
     },
     {
       "company": "City of Livermore",
@@ -586,7 +586,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760392+00:00"
+      "last_observed_at": "2026-10-18T19:33:12.707335+00:00"
     },
     {
       "company": "City of Folsom",
@@ -601,7 +601,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760394+00:00"
+      "last_observed_at": "2026-10-18T19:33:12.707336+00:00"
     },
     {
       "company": "CalOptima",
@@ -616,7 +616,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760384+00:00"
+      "last_observed_at": "2026-10-18T19:33:12.707328+00:00"
     },
     {
       "company": "Orange County Transportation Authority",
@@ -631,7 +631,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760414+00:00"
+      "last_observed_at": "2026-10-18T19:33:12.707359+00:00"
     },
     {
       "company": "City of San Jose",
@@ -646,7 +646,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760390+00:00"
+      "last_observed_at": "2026-10-18T19:33:12.707333+00:00"
     },
     {
       "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
@@ -661,7 +661,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760397+00:00"
+      "last_observed_at": "2026-10-18T19:33:12.707339+00:00"
     },
     {
       "company": "CalOptima",
@@ -676,7 +676,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760382+00:00"
+      "last_observed_at": "2026-10-18T19:33:12.707325+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -691,7 +691,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760387+00:00"
+      "last_observed_at": "2026-10-18T19:33:12.707330+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -706,7 +706,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760405+00:00"
+      "last_observed_at": "2026-10-18T19:33:12.707354+00:00"
     },
     {
       "company": "California State University, Fullerton",
@@ -739,23 +739,7 @@
       "last_observed_at": "2026-10-17T19:32:35.760409+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Calabasas",
-      "title": "Management Analyst",
-      "location": "Calabasas, CA 91302",
-      "url": "https://www.governmentjobs.com/jobs/5520173-0/management-analyst",
-      "date_posted": "",
-      "salary": "$101,649.86 - $126,946.82 Annually",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-17T19:32:35.760409+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
