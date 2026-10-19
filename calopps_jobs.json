@@ -1,8 +1,23 @@
 {
-  "scraped_at": "2026-10-18 19:33 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-10-19 21:39 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "South San Francisco",
+      "title": "Financial Analyst I",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/south-san-francisco/job-20782692",
+      "date_posted": "",
+      "salary": "$109,033.00-$132,516.00 Annually",
+      "ats": "CalOpps",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-19T21:39:32.214004+00:00"
+    },
     {
       "company": "Belmont",
       "title": "Budget Analyst (Management Analyst I/II)",
@@ -16,15 +31,31 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-18T19:33:36.610653+00:00"
+      "last_observed_at": "2026-10-19T21:39:32.214016+00:00"
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "South San Francisco",
+      "title": "Financial Analyst I",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/south-san-francisco/job-20782692",
+      "date_posted": "",
+      "salary": "$109,033.00-$132,516.00 Annually",
+      "ats": "CalOpps",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-19T21:39:32.214004+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 5,
+    "location": 6,
     "stale": 0
   }
 }

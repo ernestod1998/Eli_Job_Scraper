@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-18 19:33 UTC",
-  "total": 49,
-  "new_count": 0,
+  "scraped_at": "2026-10-19 21:39 UTC",
+  "total": 50,
+  "new_count": 1,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -406,7 +406,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-18T19:33:12.707358+00:00"
+      "last_observed_at": "2026-10-19T21:39:05.989341+00:00"
     },
     {
       "company": "City of Beverly Hills",
@@ -481,7 +481,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-18T19:33:12.707332+00:00"
+      "last_observed_at": "2026-10-19T21:39:05.989317+00:00"
     },
     {
       "company": "City of Alameda",
@@ -496,7 +496,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-18T19:33:12.707338+00:00"
+      "last_observed_at": "2026-10-19T21:39:05.989320+00:00"
     },
     {
       "company": "The Metropolitan Water District of Southern California",
@@ -511,7 +511,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-18T19:33:12.707341+00:00"
+      "last_observed_at": "2026-10-19T21:39:05.989323+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -526,7 +526,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-18T19:33:12.707343+00:00"
+      "last_observed_at": "2026-10-19T21:39:05.989324+00:00"
     },
     {
       "company": "City of Elk Grove",
@@ -571,7 +571,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-18T19:33:12.707356+00:00"
+      "last_observed_at": "2026-10-19T21:39:05.989339+00:00"
     },
     {
       "company": "City of Livermore",
@@ -616,7 +616,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-18T19:33:12.707328+00:00"
+      "last_observed_at": "2026-10-19T21:39:05.989313+00:00"
     },
     {
       "company": "Orange County Transportation Authority",
@@ -631,7 +631,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-18T19:33:12.707359+00:00"
+      "last_observed_at": "2026-10-19T21:39:05.989344+00:00"
     },
     {
       "company": "City of San Jose",
@@ -646,7 +646,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-18T19:33:12.707333+00:00"
+      "last_observed_at": "2026-10-19T21:39:05.989318+00:00"
     },
     {
       "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
@@ -661,7 +661,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-18T19:33:12.707339+00:00"
+      "last_observed_at": "2026-10-19T21:39:05.989321+00:00"
     },
     {
       "company": "CalOptima",
@@ -676,7 +676,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-18T19:33:12.707325+00:00"
+      "last_observed_at": "2026-10-19T21:39:05.989300+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -691,7 +691,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-18T19:33:12.707330+00:00"
+      "last_observed_at": "2026-10-19T21:39:05.989316+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -706,7 +706,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-18T19:33:12.707354+00:00"
+      "last_observed_at": "2026-10-19T21:39:05.989326+00:00"
     },
     {
       "company": "California State University, Fullerton",
@@ -721,7 +721,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760406+00:00"
+      "last_observed_at": "2026-10-19T21:39:05.989327+00:00"
     },
     {
       "company": "City of Calabasas",
@@ -737,9 +737,40 @@
         "general"
       ],
       "last_observed_at": "2026-10-17T19:32:35.760409+00:00"
+    },
+    {
+      "company": "San Jose State University",
+      "title": "Administrative Analyst - TVFSON",
+      "location": "San Jose, CA",
+      "url": "https://www.governmentjobs.com/jobs/152304-1/administrative-analyst-tvfson",
+      "date_posted": "",
+      "salary": "$5,513.00 - $5,967.00 Monthly",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-19T21:39:05.989322+00:00"
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "San Jose State University",
+      "title": "Administrative Analyst - TVFSON",
+      "location": "San Jose, CA",
+      "url": "https://www.governmentjobs.com/jobs/152304-1/administrative-analyst-tvfson",
+      "date_posted": "",
+      "salary": "$5,513.00 - $5,967.00 Monthly",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-19T21:39:05.989322+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
