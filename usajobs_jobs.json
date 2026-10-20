@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-19 21:37 UTC",
-  "total": 3,
+  "scraped_at": "2026-10-20 20:44 UTC",
+  "total": 2,
   "new_count": 0,
   "jobs": [
     {
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-19T21:37:49.567530+00:00"
+      "last_observed_at": "2026-10-20T20:44:40.258057+00:00"
     },
     {
       "company": "National Oceanic and Atmospheric Administration",
@@ -31,22 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-19T21:37:49.567540+00:00"
-    },
-    {
-      "company": "Space Systems Command",
-      "title": "Management Analyst, 61 FSS",
-      "location": "Los Angeles County, California",
-      "url": "https://www.usajobs.gov/job/888598200",
-      "date_posted": "2026-10-13",
-      "salary": "Starting at $104,349 Per year (NH 3)",
-      "ats": "USAJOBS",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-19T21:37:49.567542+00:00"
+      "last_observed_at": "2026-10-20T20:44:40.258070+00:00"
     }
   ],
   "new_jobs": [],
@@ -54,7 +39,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 65,
+    "location": 71,
     "stale": 0
   }
 }

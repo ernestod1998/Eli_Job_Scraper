@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-19 21:39 UTC",
-  "total": 50,
+  "scraped_at": "2026-10-20 20:45 UTC",
+  "total": 51,
   "new_count": 1,
   "jobs": [
     {
@@ -481,7 +481,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-19T21:39:05.989317+00:00"
+      "last_observed_at": "2026-10-20T20:45:38.958308+00:00"
     },
     {
       "company": "City of Alameda",
@@ -496,7 +496,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-19T21:39:05.989320+00:00"
+      "last_observed_at": "2026-10-20T20:45:38.958314+00:00"
     },
     {
       "company": "The Metropolitan Water District of Southern California",
@@ -511,7 +511,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-19T21:39:05.989323+00:00"
+      "last_observed_at": "2026-10-20T20:45:38.958317+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -526,7 +526,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-19T21:39:05.989324+00:00"
+      "last_observed_at": "2026-10-20T20:45:38.958319+00:00"
     },
     {
       "company": "City of Elk Grove",
@@ -541,7 +541,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760411+00:00"
+      "last_observed_at": "2026-10-20T20:45:38.958331+00:00"
     },
     {
       "company": "City of Pasadena",
@@ -556,7 +556,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760412+00:00"
+      "last_observed_at": "2026-10-20T20:45:38.958332+00:00"
     },
     {
       "company": "California State University, Fullerton",
@@ -571,7 +571,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-19T21:39:05.989339+00:00"
+      "last_observed_at": "2026-10-20T20:45:38.958328+00:00"
     },
     {
       "company": "City of Livermore",
@@ -586,7 +586,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-18T19:33:12.707335+00:00"
+      "last_observed_at": "2026-10-20T20:45:38.958311+00:00"
     },
     {
       "company": "City of Folsom",
@@ -601,7 +601,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-18T19:33:12.707336+00:00"
+      "last_observed_at": "2026-10-20T20:45:38.958313+00:00"
     },
     {
       "company": "CalOptima",
@@ -616,7 +616,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-19T21:39:05.989313+00:00"
+      "last_observed_at": "2026-10-20T20:45:38.958305+00:00"
     },
     {
       "company": "Orange County Transportation Authority",
@@ -646,7 +646,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-19T21:39:05.989318+00:00"
+      "last_observed_at": "2026-10-20T20:45:38.958310+00:00"
     },
     {
       "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
@@ -676,7 +676,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-19T21:39:05.989300+00:00"
+      "last_observed_at": "2026-10-20T20:45:38.958292+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -706,7 +706,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-19T21:39:05.989326+00:00"
+      "last_observed_at": "2026-10-20T20:45:38.958321+00:00"
     },
     {
       "company": "California State University, Fullerton",
@@ -721,7 +721,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-19T21:39:05.989327+00:00"
+      "last_observed_at": "2026-10-20T20:45:38.958327+00:00"
     },
     {
       "company": "City of Calabasas",
@@ -736,7 +736,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-17T19:32:35.760409+00:00"
+      "last_observed_at": "2026-10-20T20:45:38.958330+00:00"
     },
     {
       "company": "San Jose State University",
@@ -751,24 +751,39 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-19T21:39:05.989322+00:00"
-    }
-  ],
-  "new_jobs": [
+      "last_observed_at": "2026-10-20T20:45:38.958315+00:00"
+    },
     {
-      "company": "San Jose State University",
-      "title": "Administrative Analyst - TVFSON",
-      "location": "San Jose, CA",
-      "url": "https://www.governmentjobs.com/jobs/152304-1/administrative-analyst-tvfson",
+      "company": "City of Fremont",
+      "title": "Administrative Analyst (Council Aide)",
+      "location": "Fremont, CA",
+      "url": "https://www.governmentjobs.com/jobs/5521793-0/administrative-analyst-council-aide",
       "date_posted": "",
-      "salary": "$5,513.00 - $5,967.00 Monthly",
+      "salary": "$92,917.96 - $123,045.84 Annually",
       "ats": "NEOGOV",
       "california_eligibility": "local",
       "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-19T21:39:05.989322+00:00"
+      "last_observed_at": "2026-10-20T20:45:38.958318+00:00"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "City of Fremont",
+      "title": "Administrative Analyst (Council Aide)",
+      "location": "Fremont, CA",
+      "url": "https://www.governmentjobs.com/jobs/5521793-0/administrative-analyst-council-aide",
+      "date_posted": "",
+      "salary": "$92,917.96 - $123,045.84 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-20T20:45:38.958318+00:00"
     }
   ],
   "filter_stats": {
