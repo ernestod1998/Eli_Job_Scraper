@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-20 20:45 UTC",
-  "total": 51,
+  "scraped_at": "2026-10-21 20:48 UTC",
+  "total": 52,
   "new_count": 1,
   "jobs": [
     {
@@ -481,7 +481,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-20T20:45:38.958308+00:00"
+      "last_observed_at": "2026-10-21T20:48:11.525748+00:00"
     },
     {
       "company": "City of Alameda",
@@ -511,7 +511,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-20T20:45:38.958317+00:00"
+      "last_observed_at": "2026-10-21T20:48:11.525753+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -526,7 +526,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-20T20:45:38.958319+00:00"
+      "last_observed_at": "2026-10-21T20:48:11.525755+00:00"
     },
     {
       "company": "City of Elk Grove",
@@ -541,7 +541,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-20T20:45:38.958331+00:00"
+      "last_observed_at": "2026-10-21T20:48:11.525777+00:00"
     },
     {
       "company": "City of Pasadena",
@@ -571,7 +571,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-20T20:45:38.958328+00:00"
+      "last_observed_at": "2026-10-21T20:48:11.525775+00:00"
     },
     {
       "company": "City of Livermore",
@@ -586,7 +586,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-20T20:45:38.958311+00:00"
+      "last_observed_at": "2026-10-21T20:48:11.525750+00:00"
     },
     {
       "company": "City of Folsom",
@@ -601,7 +601,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-20T20:45:38.958313+00:00"
+      "last_observed_at": "2026-10-21T20:48:11.525751+00:00"
     },
     {
       "company": "CalOptima",
@@ -616,7 +616,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-20T20:45:38.958305+00:00"
+      "last_observed_at": "2026-10-21T20:48:11.525745+00:00"
     },
     {
       "company": "Orange County Transportation Authority",
@@ -631,7 +631,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-19T21:39:05.989344+00:00"
+      "last_observed_at": "2026-10-21T20:48:11.525778+00:00"
     },
     {
       "company": "City of San Jose",
@@ -646,7 +646,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-20T20:45:38.958310+00:00"
+      "last_observed_at": "2026-10-21T20:48:11.525749+00:00"
     },
     {
       "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
@@ -676,7 +676,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-20T20:45:38.958292+00:00"
+      "last_observed_at": "2026-10-21T20:48:11.525730+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -706,7 +706,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-20T20:45:38.958321+00:00"
+      "last_observed_at": "2026-10-21T20:48:11.525756+00:00"
     },
     {
       "company": "California State University, Fullerton",
@@ -721,7 +721,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-20T20:45:38.958327+00:00"
+      "last_observed_at": "2026-10-21T20:48:11.525774+00:00"
     },
     {
       "company": "City of Calabasas",
@@ -736,7 +736,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-20T20:45:38.958330+00:00"
+      "last_observed_at": "2026-10-21T20:48:11.525776+00:00"
     },
     {
       "company": "San Jose State University",
@@ -751,7 +751,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-20T20:45:38.958315+00:00"
+      "last_observed_at": "2026-10-21T20:48:11.525752+00:00"
     },
     {
       "company": "City of Fremont",
@@ -766,24 +766,39 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-20T20:45:38.958318+00:00"
-    }
-  ],
-  "new_jobs": [
+      "last_observed_at": "2026-10-21T20:48:11.525754+00:00"
+    },
     {
-      "company": "City of Fremont",
-      "title": "Administrative Analyst (Council Aide)",
-      "location": "Fremont, CA",
-      "url": "https://www.governmentjobs.com/jobs/5521793-0/administrative-analyst-council-aide",
+      "company": "City of San Ramon",
+      "title": "Administrative Analyst - Budget & Purchasing",
+      "location": "San Ramon, CA",
+      "url": "https://www.governmentjobs.com/jobs/5521328-0/administrative-analyst-budget-purchasing",
       "date_posted": "",
-      "salary": "$92,917.96 - $123,045.84 Annually",
+      "salary": "$107,746.67 - $143,626.47 Annually",
       "ats": "NEOGOV",
       "california_eligibility": "local",
       "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-20T20:45:38.958318+00:00"
+      "last_observed_at": "2026-10-21T20:48:11.525757+00:00"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "City of San Ramon",
+      "title": "Administrative Analyst - Budget & Purchasing",
+      "location": "San Ramon, CA",
+      "url": "https://www.governmentjobs.com/jobs/5521328-0/administrative-analyst-budget-purchasing",
+      "date_posted": "",
+      "salary": "$107,746.67 - $143,626.47 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-21T20:48:11.525757+00:00"
     }
   ],
   "filter_stats": {
