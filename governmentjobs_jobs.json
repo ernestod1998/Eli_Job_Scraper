@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-21 20:48 UTC",
-  "total": 52,
+  "scraped_at": "2026-10-22 20:44 UTC",
+  "total": 53,
   "new_count": 1,
   "jobs": [
     {
@@ -481,7 +481,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-21T20:48:11.525748+00:00"
+      "last_observed_at": "2026-10-22T20:44:35.780024+00:00"
     },
     {
       "company": "City of Alameda",
@@ -511,7 +511,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-21T20:48:11.525753+00:00"
+      "last_observed_at": "2026-10-22T20:44:35.780029+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -526,7 +526,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-21T20:48:11.525755+00:00"
+      "last_observed_at": "2026-10-22T20:44:35.780032+00:00"
     },
     {
       "company": "City of Elk Grove",
@@ -541,7 +541,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-21T20:48:11.525777+00:00"
+      "last_observed_at": "2026-10-22T20:44:35.780050+00:00"
     },
     {
       "company": "City of Pasadena",
@@ -556,7 +556,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-20T20:45:38.958332+00:00"
+      "last_observed_at": "2026-10-22T20:44:35.780052+00:00"
     },
     {
       "company": "California State University, Fullerton",
@@ -571,7 +571,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-21T20:48:11.525775+00:00"
+      "last_observed_at": "2026-10-22T20:44:35.780036+00:00"
     },
     {
       "company": "City of Livermore",
@@ -616,7 +616,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-21T20:48:11.525745+00:00"
+      "last_observed_at": "2026-10-22T20:44:35.780021+00:00"
     },
     {
       "company": "Orange County Transportation Authority",
@@ -646,7 +646,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-21T20:48:11.525749+00:00"
+      "last_observed_at": "2026-10-22T20:44:35.780025+00:00"
     },
     {
       "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
@@ -676,7 +676,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-21T20:48:11.525730+00:00"
+      "last_observed_at": "2026-10-22T20:44:35.780009+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -706,7 +706,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-21T20:48:11.525756+00:00"
+      "last_observed_at": "2026-10-22T20:44:35.780033+00:00"
     },
     {
       "company": "California State University, Fullerton",
@@ -721,7 +721,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-21T20:48:11.525774+00:00"
+      "last_observed_at": "2026-10-22T20:44:35.780034+00:00"
     },
     {
       "company": "City of Calabasas",
@@ -736,7 +736,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-21T20:48:11.525776+00:00"
+      "last_observed_at": "2026-10-22T20:44:35.780048+00:00"
     },
     {
       "company": "San Jose State University",
@@ -751,7 +751,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-21T20:48:11.525752+00:00"
+      "last_observed_at": "2026-10-22T20:44:35.780028+00:00"
     },
     {
       "company": "City of Fremont",
@@ -766,7 +766,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-21T20:48:11.525754+00:00"
+      "last_observed_at": "2026-10-22T20:44:35.780031+00:00"
     },
     {
       "company": "City of San Ramon",
@@ -781,24 +781,39 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-21T20:48:11.525757+00:00"
-    }
-  ],
-  "new_jobs": [
+      "last_observed_at": "2026-10-22T20:44:35.780027+00:00"
+    },
     {
-      "company": "City of San Ramon",
-      "title": "Administrative Analyst - Budget & Purchasing",
-      "location": "San Ramon, CA",
-      "url": "https://www.governmentjobs.com/jobs/5521328-0/administrative-analyst-budget-purchasing",
+      "company": "City of Signal Hill",
+      "title": "MANAGEMENT ANALYST - FINANCE",
+      "location": "Signal Hill, CA",
+      "url": "https://www.governmentjobs.com/jobs/5509362-0/management-analyst-finance",
       "date_posted": "",
-      "salary": "$107,746.67 - $143,626.47 Annually",
+      "salary": "$86,394.32 - $110,263.49 Annually",
       "ats": "NEOGOV",
       "california_eligibility": "local",
       "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-21T20:48:11.525757+00:00"
+      "last_observed_at": "2026-10-22T20:44:35.780051+00:00"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "City of Signal Hill",
+      "title": "MANAGEMENT ANALYST - FINANCE",
+      "location": "Signal Hill, CA",
+      "url": "https://www.governmentjobs.com/jobs/5509362-0/management-analyst-finance",
+      "date_posted": "",
+      "salary": "$86,394.32 - $110,263.49 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-22T20:44:35.780051+00:00"
     }
   ],
   "filter_stats": {
