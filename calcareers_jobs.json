@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-22 20:45 UTC",
+  "scraped_at": "2026-10-23 20:33 UTC",
   "total": 2,
   "new_count": 0,
   "jobs": [
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-22T20:45:39.777907+00:00"
+      "last_observed_at": "2026-10-23T20:33:26.935638+00:00"
     },
     {
       "company": "Department of Water Resources",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-22T20:45:39.777919+00:00"
+      "last_observed_at": "2026-10-23T20:33:26.935648+00:00"
     }
   ],
   "new_jobs": [],
@@ -39,7 +39,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 26,
+    "location": 29,
     "stale": 0
   }
 }
