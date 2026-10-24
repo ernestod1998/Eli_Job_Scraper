@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-23 20:32 UTC",
+  "scraped_at": "2026-10-24 19:35 UTC",
   "total": 54,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -481,7 +481,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-23T20:32:41.032483+00:00"
+      "last_observed_at": "2026-10-24T19:35:39.072930+00:00"
     },
     {
       "company": "City of Alameda",
@@ -511,7 +511,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-23T20:32:41.032491+00:00"
+      "last_observed_at": "2026-10-24T19:35:39.072936+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -541,7 +541,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-22T20:44:35.780050+00:00"
+      "last_observed_at": "2026-10-24T19:35:39.072946+00:00"
     },
     {
       "company": "City of Pasadena",
@@ -616,7 +616,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-23T20:32:41.032481+00:00"
+      "last_observed_at": "2026-10-24T19:35:39.072928+00:00"
     },
     {
       "company": "Orange County Transportation Authority",
@@ -646,7 +646,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-23T20:32:41.032486+00:00"
+      "last_observed_at": "2026-10-24T19:35:39.072932+00:00"
     },
     {
       "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
@@ -676,7 +676,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-23T20:32:41.032467+00:00"
+      "last_observed_at": "2026-10-24T19:35:39.072917+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -706,7 +706,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-23T20:32:41.032497+00:00"
+      "last_observed_at": "2026-10-24T19:35:39.072940+00:00"
     },
     {
       "company": "California State University, Fullerton",
@@ -721,7 +721,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-23T20:32:41.032499+00:00"
+      "last_observed_at": "2026-10-24T19:35:39.072943+00:00"
     },
     {
       "company": "City of Calabasas",
@@ -736,7 +736,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-23T20:32:41.032501+00:00"
+      "last_observed_at": "2026-10-24T19:35:39.072944+00:00"
     },
     {
       "company": "San Jose State University",
@@ -751,7 +751,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-23T20:32:41.032489+00:00"
+      "last_observed_at": "2026-10-24T19:35:39.072934+00:00"
     },
     {
       "company": "City of Fremont",
@@ -766,7 +766,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-23T20:32:41.032493+00:00"
+      "last_observed_at": "2026-10-24T19:35:39.072938+00:00"
     },
     {
       "company": "City of San Ramon",
@@ -781,7 +781,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-23T20:32:41.032488+00:00"
+      "last_observed_at": "2026-10-24T19:35:39.072941+00:00"
     },
     {
       "company": "City of Signal Hill",
@@ -796,7 +796,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-23T20:32:41.032512+00:00"
+      "last_observed_at": "2026-10-24T19:35:39.072956+00:00"
     },
     {
       "company": "County of Los Angeles",
@@ -811,26 +811,10 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-23T20:32:41.032515+00:00"
+      "last_observed_at": "2026-10-24T19:35:39.072957+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "County of Los Angeles",
-      "title": "MANAGEMENT ANALYST - FIRE EMERGENCY",
-      "location": "Los Angeles County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5103004-0/management-analyst-fire-emergency",
-      "date_posted": "",
-      "salary": "$75,860.88 - $102,219.36 Annually",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-23T20:32:41.032515+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
