@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-24 19:34 UTC",
+  "scraped_at": "2026-10-25 19:45 UTC",
   "total": 3,
   "new_count": 0,
   "jobs": [
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-24T19:34:50.076868+00:00"
+      "last_observed_at": "2026-10-25T19:45:52.098721+00:00"
     },
     {
       "company": "Western Area Power Administration",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-24T19:34:50.076880+00:00"
+      "last_observed_at": "2026-10-25T19:45:52.098734+00:00"
     },
     {
       "company": "Defense Contract Management Agency",
@@ -46,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-24T19:34:50.076883+00:00"
+      "last_observed_at": "2026-10-25T19:45:52.098736+00:00"
     }
   ],
   "new_jobs": [],
@@ -54,7 +54,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 67,
+    "location": 66,
     "stale": 0
   }
 }
