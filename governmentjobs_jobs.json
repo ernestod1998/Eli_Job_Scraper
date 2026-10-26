@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-25 19:47 UTC",
-  "total": 54,
-  "new_count": 0,
+  "scraped_at": "2026-10-26 21:45 UTC",
+  "total": 55,
+  "new_count": 1,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -481,7 +481,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-25T19:47:06.079270+00:00"
+      "last_observed_at": "2026-10-26T21:45:44.711645+00:00"
     },
     {
       "company": "City of Alameda",
@@ -511,7 +511,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-25T19:47:06.079273+00:00"
+      "last_observed_at": "2026-10-26T21:45:44.711652+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -541,7 +541,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-24T19:35:39.072946+00:00"
+      "last_observed_at": "2026-10-26T21:45:44.711669+00:00"
     },
     {
       "company": "City of Pasadena",
@@ -616,7 +616,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-25T19:47:06.079268+00:00"
+      "last_observed_at": "2026-10-26T21:45:44.711641+00:00"
     },
     {
       "company": "Orange County Transportation Authority",
@@ -646,7 +646,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-25T19:47:06.079271+00:00"
+      "last_observed_at": "2026-10-26T21:45:44.711647+00:00"
     },
     {
       "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
@@ -676,7 +676,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-25T19:47:06.079252+00:00"
+      "last_observed_at": "2026-10-26T21:45:44.711623+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -706,7 +706,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-25T19:47:06.079275+00:00"
+      "last_observed_at": "2026-10-26T21:45:44.711655+00:00"
     },
     {
       "company": "California State University, Fullerton",
@@ -721,7 +721,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-25T19:47:06.079278+00:00"
+      "last_observed_at": "2026-10-26T21:45:44.711658+00:00"
     },
     {
       "company": "City of Calabasas",
@@ -736,7 +736,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-24T19:35:39.072944+00:00"
+      "last_observed_at": "2026-10-26T21:45:44.711660+00:00"
     },
     {
       "company": "San Jose State University",
@@ -751,7 +751,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-25T19:47:06.079272+00:00"
+      "last_observed_at": "2026-10-26T21:45:44.711650+00:00"
     },
     {
       "company": "City of Fremont",
@@ -766,7 +766,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-25T19:47:06.079275+00:00"
+      "last_observed_at": "2026-10-26T21:45:44.711653+00:00"
     },
     {
       "company": "City of San Ramon",
@@ -781,7 +781,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-25T19:47:06.079277+00:00"
+      "last_observed_at": "2026-10-26T21:45:44.711656+00:00"
     },
     {
       "company": "City of Signal Hill",
@@ -796,7 +796,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-24T19:35:39.072956+00:00"
+      "last_observed_at": "2026-10-26T21:45:44.711671+00:00"
     },
     {
       "company": "County of Los Angeles",
@@ -811,10 +811,41 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-24T19:35:39.072957+00:00"
+      "last_observed_at": "2026-10-26T21:45:44.711672+00:00"
+    },
+    {
+      "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
+      "title": "ADMINISTRATIVE ANALYST (COMMUNICATIONS)",
+      "location": "Los Angeles, CA",
+      "url": "https://www.governmentjobs.com/jobs/5522925-0/administrative-analyst-communications",
+      "date_posted": "",
+      "salary": "$67,329.60 - $100,942.40 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-26T21:45:44.711649+00:00"
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
+      "title": "ADMINISTRATIVE ANALYST (COMMUNICATIONS)",
+      "location": "Los Angeles, CA",
+      "url": "https://www.governmentjobs.com/jobs/5522925-0/administrative-analyst-communications",
+      "date_posted": "",
+      "salary": "$67,329.60 - $100,942.40 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-26T21:45:44.711649+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,

@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-25 19:47 UTC",
+  "scraped_at": "2026-10-26 21:46 UTC",
   "total": 2,
   "new_count": 0,
   "jobs": [
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-25T19:47:27.065221+00:00"
+      "last_observed_at": "2026-10-26T21:46:02.788496+00:00"
     },
     {
       "company": "Belmont",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-25T19:47:27.065235+00:00"
+      "last_observed_at": "2026-10-26T21:46:02.788508+00:00"
     }
   ],
   "new_jobs": [],
