@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-26 21:45 UTC",
-  "total": 55,
+  "scraped_at": "2026-10-27 21:29 UTC",
+  "total": 56,
   "new_count": 1,
   "jobs": [
     {
@@ -511,7 +511,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-26T21:45:44.711652+00:00"
+      "last_observed_at": "2026-10-27T21:29:30.915828+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -616,7 +616,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-26T21:45:44.711641+00:00"
+      "last_observed_at": "2026-10-27T21:29:30.915823+00:00"
     },
     {
       "company": "Orange County Transportation Authority",
@@ -646,7 +646,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-26T21:45:44.711647+00:00"
+      "last_observed_at": "2026-10-27T21:29:30.915825+00:00"
     },
     {
       "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
@@ -676,7 +676,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-26T21:45:44.711623+00:00"
+      "last_observed_at": "2026-10-27T21:29:30.915820+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -706,7 +706,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-26T21:45:44.711655+00:00"
+      "last_observed_at": "2026-10-27T21:29:30.915830+00:00"
     },
     {
       "company": "California State University, Fullerton",
@@ -721,7 +721,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-26T21:45:44.711658+00:00"
+      "last_observed_at": "2026-10-27T21:29:30.915833+00:00"
     },
     {
       "company": "City of Calabasas",
@@ -751,7 +751,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-26T21:45:44.711650+00:00"
+      "last_observed_at": "2026-10-27T21:29:30.915826+00:00"
     },
     {
       "company": "City of Fremont",
@@ -766,7 +766,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-26T21:45:44.711653+00:00"
+      "last_observed_at": "2026-10-27T21:29:30.915829+00:00"
     },
     {
       "company": "City of San Ramon",
@@ -781,7 +781,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-26T21:45:44.711656+00:00"
+      "last_observed_at": "2026-10-27T21:29:30.915832+00:00"
     },
     {
       "company": "City of Signal Hill",
@@ -827,23 +827,38 @@
         "general"
       ],
       "last_observed_at": "2026-10-26T21:45:44.711649+00:00"
+    },
+    {
+      "company": "City of South San Francisco",
+      "title": "Financial Analyst I",
+      "location": "South San Francisco, CA",
+      "url": "https://www.governmentjobs.com/jobs/152730-1/financial-analyst-i",
+      "date_posted": "",
+      "salary": "$109,033.00 - $132,516.00 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-27T21:29:30.915810+00:00"
     }
   ],
   "new_jobs": [
     {
-      "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
-      "title": "ADMINISTRATIVE ANALYST (COMMUNICATIONS)",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/5522925-0/administrative-analyst-communications",
+      "company": "City of South San Francisco",
+      "title": "Financial Analyst I",
+      "location": "South San Francisco, CA",
+      "url": "https://www.governmentjobs.com/jobs/152730-1/financial-analyst-i",
       "date_posted": "",
-      "salary": "$67,329.60 - $100,942.40 Annually",
+      "salary": "$109,033.00 - $132,516.00 Annually",
       "ats": "NEOGOV",
       "california_eligibility": "local",
-      "role_fit": "unverified",
+      "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-26T21:45:44.711649+00:00"
+      "last_observed_at": "2026-10-27T21:29:30.915810+00:00"
     }
   ],
   "filter_stats": {

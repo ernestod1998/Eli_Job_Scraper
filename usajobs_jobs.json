@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-26 21:45 UTC",
-  "total": 3,
-  "new_count": 0,
+  "scraped_at": "2026-10-27 21:28 UTC",
+  "total": 4,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Space Systems Command",
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-26T21:45:19.013306+00:00"
+      "last_observed_at": "2026-10-27T21:28:36.268894+00:00"
     },
     {
       "company": "Western Area Power Administration",
@@ -31,30 +31,76 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-26T21:45:19.013317+00:00"
+      "last_observed_at": "2026-10-27T21:28:36.268903+00:00"
     },
     {
-      "company": "Defense Contract Management Agency",
-      "title": "Contract Administrator (Deployable)",
-      "location": "Carson, California",
-      "url": "https://www.usajobs.gov/job/889807900",
-      "date_posted": "2026-10-22",
-      "salary": "Starting at $83,935 Per year (GS 11)",
+      "company": "Veterans Health Administration",
+      "title": "Management and Program Analyst - Activations Project Manager",
+      "location": "Palo Alto, California",
+      "url": "https://www.usajobs.gov/job/890373100",
+      "date_posted": "2026-10-27",
+      "salary": "Starting at $93,358 Per year (GS 11)",
       "ats": "USAJOBS",
       "california_eligibility": "local",
-      "role_fit": "matched",
+      "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-26T21:45:19.013319+00:00"
+      "last_observed_at": "2026-10-27T21:28:36.268905+00:00"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Program Analyst",
+      "location": "San Francisco, California",
+      "url": "https://www.usajobs.gov/job/890334100",
+      "date_posted": "2026-10-27",
+      "salary": "Starting at $77,161 Per year (GS 9)",
+      "ats": "USAJOBS",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-27T21:28:36.268907+00:00"
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Management and Program Analyst - Activations Project Manager",
+      "location": "Palo Alto, California",
+      "url": "https://www.usajobs.gov/job/890373100",
+      "date_posted": "2026-10-27",
+      "salary": "Starting at $93,358 Per year (GS 11)",
+      "ats": "USAJOBS",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-27T21:28:36.268905+00:00"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Program Analyst",
+      "location": "San Francisco, California",
+      "url": "https://www.usajobs.gov/job/890334100",
+      "date_posted": "2026-10-27",
+      "salary": "Starting at $77,161 Per year (GS 9)",
+      "ats": "USAJOBS",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-27T21:28:36.268907+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 72,
+    "location": 63,
     "stale": 0
   }
 }
