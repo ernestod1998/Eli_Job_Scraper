@@ -1,45 +1,14 @@
 {
-  "scraped_at": "2026-10-27 21:30 UTC",
-  "total": 2,
+  "scraped_at": "2026-10-28 21:49 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "State Compensation Insurance Fund",
-      "title": "Senior Financial Analyst",
-      "location": "Alameda County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535444",
-      "date_posted": "2026-10-13",
-      "salary": "$6623.00 - $8290.00",
-      "ats": "CalCareers",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-27T21:30:12.826999+00:00"
-    },
-    {
-      "company": "Department of Water Resources",
-      "title": "Contracts Analyst",
-      "location": "Los Angeles County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535133",
-      "date_posted": "2026-10-16",
-      "salary": "$6031.00 - $7547.00",
-      "ats": "CalCareers",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-27T21:30:12.827009+00:00"
-    }
-  ],
+  "jobs": [],
   "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 22,
+    "location": 23,
     "stale": 0
   }
 }
