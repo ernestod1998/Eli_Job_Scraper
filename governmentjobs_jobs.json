@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-28 21:48 UTC",
-  "total": 58,
-  "new_count": 2,
+  "scraped_at": "2026-10-29 21:58 UTC",
+  "total": 59,
+  "new_count": 1,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -511,7 +511,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-28T21:48:05.187141+00:00"
+      "last_observed_at": "2026-10-29T21:58:36.924662+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -631,7 +631,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-25T19:47:06.079279+00:00"
+      "last_observed_at": "2026-10-29T21:58:36.924669+00:00"
     },
     {
       "company": "City of San Jose",
@@ -706,7 +706,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-28T21:48:05.187144+00:00"
+      "last_observed_at": "2026-10-29T21:58:36.924665+00:00"
     },
     {
       "company": "California State University, Fullerton",
@@ -721,7 +721,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-28T21:48:05.187147+00:00"
+      "last_observed_at": "2026-10-29T21:58:36.924668+00:00"
     },
     {
       "company": "City of Calabasas",
@@ -751,7 +751,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-28T21:48:05.187139+00:00"
+      "last_observed_at": "2026-10-29T21:58:36.924661+00:00"
     },
     {
       "company": "City of Fremont",
@@ -766,7 +766,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-28T21:48:05.187143+00:00"
+      "last_observed_at": "2026-10-29T21:58:36.924663+00:00"
     },
     {
       "company": "City of San Ramon",
@@ -781,7 +781,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-28T21:48:05.187136+00:00"
+      "last_observed_at": "2026-10-29T21:58:36.924659+00:00"
     },
     {
       "company": "City of Signal Hill",
@@ -841,7 +841,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-28T21:48:05.187098+00:00"
+      "last_observed_at": "2026-10-29T21:58:36.924656+00:00"
     },
     {
       "company": "County of Marin",
@@ -856,7 +856,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-28T21:48:05.187146+00:00"
+      "last_observed_at": "2026-10-29T21:58:36.924666+00:00"
     },
     {
       "company": "Southern California Association of Governments",
@@ -872,38 +872,38 @@
         "general"
       ],
       "last_observed_at": "2026-10-28T21:48:05.187160+00:00"
+    },
+    {
+      "company": "City of Compton",
+      "title": "Financial Analyst",
+      "location": "Compton, CA",
+      "url": "https://www.governmentjobs.com/jobs/5528681-0/financial-analyst",
+      "date_posted": "",
+      "salary": "$90,751.50 - $106,399.20 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-29T21:58:36.924643+00:00"
     }
   ],
   "new_jobs": [
     {
-      "company": "County of Marin",
-      "title": "Economic Vitality Analyst (Administrative Analyst III)",
-      "location": "San Rafael, CA",
-      "url": "https://www.governmentjobs.com/jobs/5528518-0/economic-vitality-analyst-administrative-analyst-iii",
+      "company": "City of Compton",
+      "title": "Financial Analyst",
+      "location": "Compton, CA",
+      "url": "https://www.governmentjobs.com/jobs/5528681-0/financial-analyst",
       "date_posted": "",
-      "salary": "$130,936.00 - $158,225.60 Annually",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-28T21:48:05.187146+00:00"
-    },
-    {
-      "company": "Southern California Association of Governments",
-      "title": "Budget & Grants Analyst II (Contracts & Grants) - Limited-Term",
-      "location": "Hybrid; Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/5531134-0/budget-grants-analyst-ii-contracts-grants-limited-term",
-      "date_posted": "",
-      "salary": "$94,681.60 - $127,836.80 Annually",
+      "salary": "$90,751.50 - $106,399.20 Annually",
       "ats": "NEOGOV",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-28T21:48:05.187160+00:00"
+      "last_observed_at": "2026-10-29T21:58:36.924643+00:00"
     }
   ],
   "filter_stats": {

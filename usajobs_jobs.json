@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-28 21:47 UTC",
-  "total": 5,
-  "new_count": 1,
+  "scraped_at": "2026-10-29 21:57 UTC",
+  "total": 4,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Space Systems Command",
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-28T21:47:15.339427+00:00"
+      "last_observed_at": "2026-10-29T21:57:22.883658+00:00"
     },
     {
       "company": "Space Systems Command",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-28T21:47:15.339438+00:00"
+      "last_observed_at": "2026-10-29T21:57:22.883670+00:00"
     },
     {
       "company": "Western Area Power Administration",
@@ -46,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-28T21:47:15.339441+00:00"
+      "last_observed_at": "2026-10-29T21:57:22.883672+00:00"
     },
     {
       "company": "Veterans Health Administration",
@@ -61,41 +61,10 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-28T21:47:15.339442+00:00"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Program Analyst",
-      "location": "San Francisco, California",
-      "url": "https://www.usajobs.gov/job/890334100",
-      "date_posted": "2026-10-27",
-      "salary": "Starting at $77,161 Per year (GS 9)",
-      "ats": "USAJOBS",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-28T21:47:15.339444+00:00"
+      "last_observed_at": "2026-10-29T21:57:22.883674+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Space Systems Command",
-      "title": "Supervisor, Cost Analyst",
-      "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov/job/890718500",
-      "date_posted": "2026-10-28",
-      "salary": "Starting at $104,349 Per year (NH 3)",
-      "ats": "USAJOBS",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-28T21:47:15.339427+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
