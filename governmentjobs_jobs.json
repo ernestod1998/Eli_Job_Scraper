@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-29 21:58 UTC",
-  "total": 59,
+  "scraped_at": "2026-10-30 21:39 UTC",
+  "total": 60,
   "new_count": 1,
   "jobs": [
     {
@@ -706,7 +706,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-29T21:58:36.924665+00:00"
+      "last_observed_at": "2026-10-30T21:39:55.901623+00:00"
     },
     {
       "company": "California State University, Fullerton",
@@ -751,7 +751,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-29T21:58:36.924661+00:00"
+      "last_observed_at": "2026-10-30T21:39:55.901621+00:00"
     },
     {
       "company": "City of Fremont",
@@ -766,7 +766,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-29T21:58:36.924663+00:00"
+      "last_observed_at": "2026-10-30T21:39:55.901622+00:00"
     },
     {
       "company": "City of San Ramon",
@@ -781,7 +781,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-29T21:58:36.924659+00:00"
+      "last_observed_at": "2026-10-30T21:39:55.901618+00:00"
     },
     {
       "company": "City of Signal Hill",
@@ -841,7 +841,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-29T21:58:36.924656+00:00"
+      "last_observed_at": "2026-10-30T21:39:55.901615+00:00"
     },
     {
       "company": "County of Marin",
@@ -856,7 +856,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-29T21:58:36.924666+00:00"
+      "last_observed_at": "2026-10-30T21:39:55.901624+00:00"
     },
     {
       "company": "Southern California Association of Governments",
@@ -871,7 +871,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-28T21:48:05.187160+00:00"
+      "last_observed_at": "2026-10-30T21:39:55.901626+00:00"
     },
     {
       "company": "City of Compton",
@@ -886,24 +886,39 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-29T21:58:36.924643+00:00"
+      "last_observed_at": "2026-10-30T21:39:55.901603+00:00"
+    },
+    {
+      "company": "Marin County Transit District",
+      "title": "Administrative Analyst",
+      "location": "San Rafael, CA",
+      "url": "https://www.governmentjobs.com/jobs/152962-1/administrative-analyst",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-10-30T21:39:55.901619+00:00"
     }
   ],
   "new_jobs": [
     {
-      "company": "City of Compton",
-      "title": "Financial Analyst",
-      "location": "Compton, CA",
-      "url": "https://www.governmentjobs.com/jobs/5528681-0/financial-analyst",
+      "company": "Marin County Transit District",
+      "title": "Administrative Analyst",
+      "location": "San Rafael, CA",
+      "url": "https://www.governmentjobs.com/jobs/152962-1/administrative-analyst",
       "date_posted": "",
-      "salary": "$90,751.50 - $106,399.20 Annually",
+      "salary": "",
       "ats": "NEOGOV",
       "california_eligibility": "local",
-      "role_fit": "matched",
+      "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-29T21:58:36.924643+00:00"
+      "last_observed_at": "2026-10-30T21:39:55.901619+00:00"
     }
   ],
   "filter_stats": {
