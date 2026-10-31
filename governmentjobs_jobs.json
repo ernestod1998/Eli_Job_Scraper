@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-30 21:39 UTC",
+  "scraped_at": "2026-10-31 20:35 UTC",
   "total": 60,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -631,7 +631,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-29T21:58:36.924669+00:00"
+      "last_observed_at": "2026-10-31T20:35:35.653310+00:00"
     },
     {
       "company": "City of San Jose",
@@ -751,7 +751,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-30T21:39:55.901621+00:00"
+      "last_observed_at": "2026-10-31T20:35:35.653305+00:00"
     },
     {
       "company": "City of Fremont",
@@ -766,7 +766,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-30T21:39:55.901622+00:00"
+      "last_observed_at": "2026-10-31T20:35:35.653307+00:00"
     },
     {
       "company": "City of San Ramon",
@@ -781,7 +781,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-30T21:39:55.901618+00:00"
+      "last_observed_at": "2026-10-31T20:35:35.653302+00:00"
     },
     {
       "company": "City of Signal Hill",
@@ -841,7 +841,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-30T21:39:55.901615+00:00"
+      "last_observed_at": "2026-10-31T20:35:35.653299+00:00"
     },
     {
       "company": "County of Marin",
@@ -856,7 +856,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-30T21:39:55.901624+00:00"
+      "last_observed_at": "2026-10-31T20:35:35.653309+00:00"
     },
     {
       "company": "Southern California Association of Governments",
@@ -871,7 +871,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-30T21:39:55.901626+00:00"
+      "last_observed_at": "2026-10-31T20:35:35.653312+00:00"
     },
     {
       "company": "City of Compton",
@@ -886,7 +886,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-30T21:39:55.901603+00:00"
+      "last_observed_at": "2026-10-31T20:35:35.653287+00:00"
     },
     {
       "company": "Marin County Transit District",
@@ -901,26 +901,10 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-10-30T21:39:55.901619+00:00"
+      "last_observed_at": "2026-10-31T20:35:35.653304+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Marin County Transit District",
-      "title": "Administrative Analyst",
-      "location": "San Rafael, CA",
-      "url": "https://www.governmentjobs.com/jobs/152962-1/administrative-analyst",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-10-30T21:39:55.901619+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
