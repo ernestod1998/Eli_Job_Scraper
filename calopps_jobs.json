@@ -1,8 +1,23 @@
 {
-  "scraped_at": "2026-11-01 21:19 UTC",
-  "total": 2,
-  "new_count": 0,
+  "scraped_at": "2026-11-02 23:59 UTC",
+  "total": 3,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Los Altos Hills",
+      "title": "Management Analyst (Finance and Community Development)",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/los-altos-hills/job-20789038",
+      "date_posted": "",
+      "salary": "$101,995.00-$155,121.00 Annually",
+      "ats": "CalOpps",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-11-02T23:59:04.223176+00:00"
+    },
     {
       "company": "South San Francisco",
       "title": "Financial Analyst I",
@@ -16,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-01T21:19:40.587855+00:00"
+      "last_observed_at": "2026-11-02T23:59:04.223187+00:00"
     },
     {
       "company": "Belmont",
@@ -31,10 +46,26 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-01T21:19:40.587867+00:00"
+      "last_observed_at": "2026-11-02T23:59:04.223190+00:00"
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Los Altos Hills",
+      "title": "Management Analyst (Finance and Community Development)",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/los-altos-hills/job-20789038",
+      "date_posted": "",
+      "salary": "$101,995.00-$155,121.00 Annually",
+      "ats": "CalOpps",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-11-02T23:59:04.223176+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
