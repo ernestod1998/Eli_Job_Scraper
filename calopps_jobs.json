@@ -1,8 +1,23 @@
 {
-  "scraped_at": "2026-11-02 23:59 UTC",
-  "total": 3,
+  "scraped_at": "2026-11-03 22:24 UTC",
+  "total": 4,
   "new_count": 1,
   "jobs": [
+    {
+      "company": "San Mateo County",
+      "title": "Community Program Analyst II- Aging & Disability- Commissions & Provider Svcs (Open & Promotional)",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo-county/job-20790008",
+      "date_posted": "",
+      "salary": "$110,136.00-$137,592.00 Annually",
+      "ats": "CalOpps",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-11-03T22:24:30.436298+00:00"
+    },
     {
       "company": "Los Altos Hills",
       "title": "Management Analyst (Finance and Community Development)",
@@ -16,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-02T23:59:04.223176+00:00"
+      "last_observed_at": "2026-11-03T22:24:30.436311+00:00"
     },
     {
       "company": "South San Francisco",
@@ -31,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-02T23:59:04.223187+00:00"
+      "last_observed_at": "2026-11-03T22:24:30.436314+00:00"
     },
     {
       "company": "Belmont",
@@ -46,24 +61,24 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-02T23:59:04.223190+00:00"
+      "last_observed_at": "2026-11-03T22:24:30.436316+00:00"
     }
   ],
   "new_jobs": [
     {
-      "company": "Los Altos Hills",
-      "title": "Management Analyst (Finance and Community Development)",
+      "company": "San Mateo County",
+      "title": "Community Program Analyst II- Aging & Disability- Commissions & Provider Svcs (Open & Promotional)",
       "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/los-altos-hills/job-20789038",
+      "url": "https://www.calopps.org/san-mateo-county/job-20790008",
       "date_posted": "",
-      "salary": "$101,995.00-$155,121.00 Annually",
+      "salary": "$110,136.00-$137,592.00 Annually",
       "ats": "CalOpps",
       "california_eligibility": "local",
       "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-02T23:59:04.223176+00:00"
+      "last_observed_at": "2026-11-03T22:24:30.436298+00:00"
     }
   ],
   "filter_stats": {
