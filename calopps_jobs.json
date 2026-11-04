@@ -1,8 +1,23 @@
 {
-  "scraped_at": "2026-11-03 22:24 UTC",
-  "total": 4,
+  "scraped_at": "2026-11-04 22:47 UTC",
+  "total": 5,
   "new_count": 1,
   "jobs": [
+    {
+      "company": "San Mateo County",
+      "title": "Senior Management Analyst- Probation Department",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo-county/job-20790401",
+      "date_posted": "",
+      "salary": "$139,734.40-$174,720.00 Annually",
+      "ats": "CalOpps",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-11-04T22:47:55.352213+00:00"
+    },
     {
       "company": "San Mateo County",
       "title": "Community Program Analyst II- Aging & Disability- Commissions & Provider Svcs (Open & Promotional)",
@@ -16,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-03T22:24:30.436298+00:00"
+      "last_observed_at": "2026-11-04T22:47:55.352226+00:00"
     },
     {
       "company": "Los Altos Hills",
@@ -31,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-03T22:24:30.436311+00:00"
+      "last_observed_at": "2026-11-04T22:47:55.352228+00:00"
     },
     {
       "company": "South San Francisco",
@@ -46,7 +61,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-03T22:24:30.436314+00:00"
+      "last_observed_at": "2026-11-04T22:47:55.352230+00:00"
     },
     {
       "company": "Belmont",
@@ -61,24 +76,24 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-03T22:24:30.436316+00:00"
+      "last_observed_at": "2026-11-04T22:47:55.352231+00:00"
     }
   ],
   "new_jobs": [
     {
       "company": "San Mateo County",
-      "title": "Community Program Analyst II- Aging & Disability- Commissions & Provider Svcs (Open & Promotional)",
+      "title": "Senior Management Analyst- Probation Department",
       "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20790008",
+      "url": "https://www.calopps.org/san-mateo-county/job-20790401",
       "date_posted": "",
-      "salary": "$110,136.00-$137,592.00 Annually",
+      "salary": "$139,734.40-$174,720.00 Annually",
       "ats": "CalOpps",
       "california_eligibility": "local",
       "role_fit": "unverified",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-03T22:24:30.436298+00:00"
+      "last_observed_at": "2026-11-04T22:47:55.352213+00:00"
     }
   ],
   "filter_stats": {
