@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-04 22:48 UTC",
+  "scraped_at": "2026-11-05 22:50 UTC",
   "total": 0,
   "new_count": 0,
   "jobs": [],
@@ -8,7 +8,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 30,
+    "location": 32,
     "stale": 0
   }
 }

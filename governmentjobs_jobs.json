@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-04 22:47 UTC",
+  "scraped_at": "2026-11-05 22:49 UTC",
   "total": 61,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -751,7 +751,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-04T22:47:33.945593+00:00"
+      "last_observed_at": "2026-11-05T22:49:32.683271+00:00"
     },
     {
       "company": "City of Fremont",
@@ -766,7 +766,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-04T22:47:33.945592+00:00"
+      "last_observed_at": "2026-11-05T22:49:32.683272+00:00"
     },
     {
       "company": "City of San Ramon",
@@ -796,7 +796,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-04T22:47:33.945596+00:00"
+      "last_observed_at": "2026-11-05T22:49:32.683275+00:00"
     },
     {
       "company": "County of Los Angeles",
@@ -841,7 +841,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-04T22:47:33.945585+00:00"
+      "last_observed_at": "2026-11-05T22:49:32.683253+00:00"
     },
     {
       "company": "County of Marin",
@@ -856,7 +856,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-04T22:47:33.945594+00:00"
+      "last_observed_at": "2026-11-05T22:49:32.683273+00:00"
     },
     {
       "company": "Southern California Association of Governments",
@@ -871,7 +871,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-04T22:47:33.945598+00:00"
+      "last_observed_at": "2026-11-05T22:49:32.683276+00:00"
     },
     {
       "company": "City of Compton",
@@ -886,7 +886,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-04T22:47:33.945572+00:00"
+      "last_observed_at": "2026-11-05T22:49:32.683241+00:00"
     },
     {
       "company": "Marin County Transit District",
@@ -901,7 +901,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-04T22:47:33.945590+00:00"
+      "last_observed_at": "2026-11-05T22:49:32.683269+00:00"
     },
     {
       "company": "City of Newport Beach",
@@ -919,23 +919,7 @@
       "last_observed_at": "2026-11-04T22:47:33.945597+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Newport Beach",
-      "title": "SENIOR MANAGEMENT ANALYST",
-      "location": "Newport Beach, CA",
-      "url": "https://www.governmentjobs.com/jobs/5525038-0/senior-management-analyst",
-      "date_posted": "",
-      "salary": "$8,806.29 - $13,014.11 Monthly",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-11-04T22:47:33.945597+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,

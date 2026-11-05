@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-11-04 22:46 UTC",
+  "scraped_at": "2026-11-05 22:48 UTC",
   "total": 1,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Space Systems Command",
-      "title": "Supervisor, Cost Analyst",
+      "title": "Budget Analyst, SSC/FMB",
       "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov/job/890718500",
-      "date_posted": "2026-10-28",
+      "url": "https://www.usajobs.gov/job/891827000",
+      "date_posted": "2026-11-05",
       "salary": "Starting at $104,349 Per year (NH 3)",
       "ats": "USAJOBS",
       "california_eligibility": "local",
@@ -16,15 +16,31 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-04T22:46:54.326228+00:00"
+      "last_observed_at": "2026-11-05T22:48:34.875892+00:00"
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "Space Systems Command",
+      "title": "Budget Analyst, SSC/FMB",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov/job/891827000",
+      "date_posted": "2026-11-05",
+      "salary": "Starting at $104,349 Per year (NH 3)",
+      "ats": "USAJOBS",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-11-05T22:48:34.875892+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 66,
+    "location": 74,
     "stale": 0
   }
 }

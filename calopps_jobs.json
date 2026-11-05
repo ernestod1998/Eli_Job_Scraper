@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-04 22:47 UTC",
+  "scraped_at": "2026-11-05 22:49 UTC",
   "total": 5,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "San Mateo County",
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-04T22:47:55.352213+00:00"
+      "last_observed_at": "2026-11-05T22:49:51.250180+00:00"
     },
     {
       "company": "San Mateo County",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-04T22:47:55.352226+00:00"
+      "last_observed_at": "2026-11-05T22:49:51.250192+00:00"
     },
     {
       "company": "Los Altos Hills",
@@ -46,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-04T22:47:55.352228+00:00"
+      "last_observed_at": "2026-11-05T22:49:51.250195+00:00"
     },
     {
       "company": "South San Francisco",
@@ -61,7 +61,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-04T22:47:55.352230+00:00"
+      "last_observed_at": "2026-11-05T22:49:51.250196+00:00"
     },
     {
       "company": "Belmont",
@@ -76,26 +76,10 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-04T22:47:55.352231+00:00"
+      "last_observed_at": "2026-11-05T22:49:51.250198+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "San Mateo County",
-      "title": "Senior Management Analyst- Probation Department",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20790401",
-      "date_posted": "",
-      "salary": "$139,734.40-$174,720.00 Annually",
-      "ats": "CalOpps",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-11-04T22:47:55.352213+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
