@@ -1,8 +1,38 @@
 {
-  "scraped_at": "2026-11-05 22:48 UTC",
-  "total": 1,
-  "new_count": 1,
+  "scraped_at": "2026-11-06 22:15 UTC",
+  "total": 3,
+  "new_count": 2,
   "jobs": [
+    {
+      "company": "Federal Emergency Management Agency",
+      "title": "Supervisory Management and Program Analyst",
+      "location": "Oakland, California",
+      "url": "https://www.usajobs.gov/job/891953100",
+      "date_posted": "2026-11-06",
+      "salary": "Starting at $133,060 Per year (GS 13)",
+      "ats": "USAJOBS",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-11-06T22:15:15.963192+00:00"
+    },
+    {
+      "company": "Securities and Exchange Commission",
+      "title": "SEC Fellow (Financial Analyst)",
+      "location": "Los Angeles, California",
+      "url": "https://www.usajobs.gov/job/891830300",
+      "date_posted": "2026-11-06",
+      "salary": "Starting at $168,396 Per year (SK 16)",
+      "ats": "USAJOBS",
+      "california_eligibility": "local",
+      "role_fit": "matched",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-11-06T22:15:15.963203+00:00"
+    },
     {
       "company": "Space Systems Command",
       "title": "Budget Analyst, SSC/FMB",
@@ -16,31 +46,46 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-05T22:48:34.875892+00:00"
+      "last_observed_at": "2026-11-06T22:15:15.963206+00:00"
     }
   ],
   "new_jobs": [
     {
-      "company": "Space Systems Command",
-      "title": "Budget Analyst, SSC/FMB",
+      "company": "Federal Emergency Management Agency",
+      "title": "Supervisory Management and Program Analyst",
+      "location": "Oakland, California",
+      "url": "https://www.usajobs.gov/job/891953100",
+      "date_posted": "2026-11-06",
+      "salary": "Starting at $133,060 Per year (GS 13)",
+      "ats": "USAJOBS",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-11-06T22:15:15.963192+00:00"
+    },
+    {
+      "company": "Securities and Exchange Commission",
+      "title": "SEC Fellow (Financial Analyst)",
       "location": "Los Angeles, California",
-      "url": "https://www.usajobs.gov/job/891827000",
-      "date_posted": "2026-11-05",
-      "salary": "Starting at $104,349 Per year (NH 3)",
+      "url": "https://www.usajobs.gov/job/891830300",
+      "date_posted": "2026-11-06",
+      "salary": "Starting at $168,396 Per year (SK 16)",
       "ats": "USAJOBS",
       "california_eligibility": "local",
       "role_fit": "matched",
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-05T22:48:34.875892+00:00"
+      "last_observed_at": "2026-11-06T22:15:15.963203+00:00"
     }
   ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 74,
+    "location": 69,
     "stale": 0
   }
 }

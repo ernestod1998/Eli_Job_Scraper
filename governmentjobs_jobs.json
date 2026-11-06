@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-05 22:49 UTC",
+  "scraped_at": "2026-11-06 22:15 UTC",
   "total": 61,
   "new_count": 0,
   "jobs": [
@@ -751,7 +751,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-05T22:49:32.683271+00:00"
+      "last_observed_at": "2026-11-06T22:15:45.913797+00:00"
     },
     {
       "company": "City of Fremont",
@@ -766,7 +766,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-05T22:49:32.683272+00:00"
+      "last_observed_at": "2026-11-06T22:15:45.913795+00:00"
     },
     {
       "company": "City of San Ramon",
@@ -796,7 +796,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-05T22:49:32.683275+00:00"
+      "last_observed_at": "2026-11-06T22:15:45.913800+00:00"
     },
     {
       "company": "County of Los Angeles",
@@ -841,7 +841,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-05T22:49:32.683253+00:00"
+      "last_observed_at": "2026-11-06T22:15:45.913784+00:00"
     },
     {
       "company": "County of Marin",
@@ -856,7 +856,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-05T22:49:32.683273+00:00"
+      "last_observed_at": "2026-11-06T22:15:45.913798+00:00"
     },
     {
       "company": "Southern California Association of Governments",
@@ -871,7 +871,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-05T22:49:32.683276+00:00"
+      "last_observed_at": "2026-11-06T22:15:45.913801+00:00"
     },
     {
       "company": "City of Compton",
@@ -886,7 +886,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-05T22:49:32.683241+00:00"
+      "last_observed_at": "2026-11-06T22:15:45.913772+00:00"
     },
     {
       "company": "Marin County Transit District",
@@ -901,7 +901,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-05T22:49:32.683269+00:00"
+      "last_observed_at": "2026-11-06T22:15:45.913792+00:00"
     },
     {
       "company": "City of Newport Beach",
