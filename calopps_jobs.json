@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-06 22:16 UTC",
-  "total": 5,
+  "scraped_at": "2026-11-07 21:01 UTC",
+  "total": 4,
   "new_count": 0,
   "jobs": [
     {
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-06T22:16:02.266110+00:00"
+      "last_observed_at": "2026-11-07T21:01:03.683517+00:00"
     },
     {
       "company": "San Mateo County",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-06T22:16:02.266122+00:00"
+      "last_observed_at": "2026-11-07T21:01:03.683528+00:00"
     },
     {
       "company": "Los Altos Hills",
@@ -46,22 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-06T22:16:02.266125+00:00"
-    },
-    {
-      "company": "South San Francisco",
-      "title": "Financial Analyst I",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/south-san-francisco/job-20782692",
-      "date_posted": "",
-      "salary": "$109,033.00-$132,516.00 Annually",
-      "ats": "CalOpps",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-11-06T22:16:02.266127+00:00"
+      "last_observed_at": "2026-11-07T21:01:03.683530+00:00"
     },
     {
       "company": "Belmont",
@@ -76,7 +61,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-06T22:16:02.266129+00:00"
+      "last_observed_at": "2026-11-07T21:01:03.683531+00:00"
     }
   ],
   "new_jobs": [],
