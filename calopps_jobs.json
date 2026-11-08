@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-07 21:01 UTC",
+  "scraped_at": "2026-11-08 21:19 UTC",
   "total": 4,
   "new_count": 0,
   "jobs": [
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-07T21:01:03.683517+00:00"
+      "last_observed_at": "2026-11-08T21:19:38.141252+00:00"
     },
     {
       "company": "San Mateo County",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-07T21:01:03.683528+00:00"
+      "last_observed_at": "2026-11-08T21:19:38.141266+00:00"
     },
     {
       "company": "Los Altos Hills",
@@ -46,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-07T21:01:03.683530+00:00"
+      "last_observed_at": "2026-11-08T21:19:38.141269+00:00"
     },
     {
       "company": "Belmont",
@@ -61,7 +61,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-07T21:01:03.683531+00:00"
+      "last_observed_at": "2026-11-08T21:19:38.141271+00:00"
     }
   ],
   "new_jobs": [],

@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-07 21:00 UTC",
+  "scraped_at": "2026-11-08 21:19 UTC",
   "total": 61,
   "new_count": 0,
   "jobs": [
@@ -751,7 +751,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-07T21:00:48.156847+00:00"
+      "last_observed_at": "2026-11-08T21:19:18.386435+00:00"
     },
     {
       "company": "City of Fremont",
@@ -766,7 +766,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-07T21:00:48.156846+00:00"
+      "last_observed_at": "2026-11-08T21:19:18.386416+00:00"
     },
     {
       "company": "City of San Ramon",
@@ -856,7 +856,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-07T21:00:48.156848+00:00"
+      "last_observed_at": "2026-11-08T21:19:18.386438+00:00"
     },
     {
       "company": "Southern California Association of Governments",
@@ -886,7 +886,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-07T21:00:48.156828+00:00"
+      "last_observed_at": "2026-11-08T21:19:18.386400+00:00"
     },
     {
       "company": "Marin County Transit District",
