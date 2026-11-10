@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-08 21:19 UTC",
-  "total": 4,
+  "scraped_at": "2026-11-10 00:47 UTC",
+  "total": 3,
   "new_count": 0,
   "jobs": [
     {
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-08T21:19:38.141252+00:00"
+      "last_observed_at": "2026-11-10T00:47:36.981295+00:00"
     },
     {
       "company": "San Mateo County",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-08T21:19:38.141266+00:00"
+      "last_observed_at": "2026-11-10T00:47:36.981307+00:00"
     },
     {
       "company": "Los Altos Hills",
@@ -46,22 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-08T21:19:38.141269+00:00"
-    },
-    {
-      "company": "Belmont",
-      "title": "Budget Analyst (Management Analyst I/II)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/belmont/job-20773376",
-      "date_posted": "",
-      "salary": "$103,123.00-$143,350.00 Annually",
-      "ats": "CalOpps",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-11-08T21:19:38.141271+00:00"
+      "last_observed_at": "2026-11-10T00:47:36.981309+00:00"
     }
   ],
   "new_jobs": [],
