@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-10 00:47 UTC",
+  "scraped_at": "2026-11-10 22:30 UTC",
   "total": 63,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -856,7 +856,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-10T00:47:23.026383+00:00"
+      "last_observed_at": "2026-11-10T22:30:15.855619+00:00"
     },
     {
       "company": "Southern California Association of Governments",
@@ -871,7 +871,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-10T00:47:23.026402+00:00"
+      "last_observed_at": "2026-11-10T22:30:15.855629+00:00"
     },
     {
       "company": "City of Compton",
@@ -931,7 +931,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-10T00:47:23.026370+00:00"
+      "last_observed_at": "2026-11-10T22:30:15.855609+00:00"
     },
     {
       "company": "City of Santa Clarita",
@@ -946,41 +946,10 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-10T00:47:23.026399+00:00"
+      "last_observed_at": "2026-11-10T22:30:15.855627+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Housing Authority of the City of Los Angeles",
-      "title": "Administrative Analyst I",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/5544682-0/administrative-analyst-i",
-      "date_posted": "",
-      "salary": "$79,726.40 - $110,032.00 Annually",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-11-10T00:47:23.026370+00:00"
-    },
-    {
-      "company": "City of Santa Clarita",
-      "title": "Administrative Analyst, Training, Development, and Engagement Programs",
-      "location": "Santa Clarita, CA",
-      "url": "https://www.governmentjobs.com/jobs/5544947-0/administrative-analyst-training-development-and-engagement-programs",
-      "date_posted": "",
-      "salary": "$45.70 - $55.54 Hourly",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-11-10T00:47:23.026399+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,

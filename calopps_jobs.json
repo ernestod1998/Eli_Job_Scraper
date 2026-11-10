@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-10 00:47 UTC",
+  "scraped_at": "2026-11-10 22:30 UTC",
   "total": 3,
   "new_count": 0,
   "jobs": [
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-10T00:47:36.981295+00:00"
+      "last_observed_at": "2026-11-10T22:30:29.054557+00:00"
     },
     {
       "company": "San Mateo County",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-10T00:47:36.981307+00:00"
+      "last_observed_at": "2026-11-10T22:30:29.054567+00:00"
     },
     {
       "company": "Los Altos Hills",
@@ -46,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-10T00:47:36.981309+00:00"
+      "last_observed_at": "2026-11-10T22:30:29.054570+00:00"
     }
   ],
   "new_jobs": [],

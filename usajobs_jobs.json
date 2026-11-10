@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-10 00:46 UTC",
+  "scraped_at": "2026-11-10 22:29 UTC",
   "total": 3,
   "new_count": 0,
   "jobs": [
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-10T00:46:25.843573+00:00"
+      "last_observed_at": "2026-11-10T22:29:50.976559+00:00"
     },
     {
       "company": "Securities and Exchange Commission",
@@ -31,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-10T00:46:25.843584+00:00"
+      "last_observed_at": "2026-11-10T22:29:50.976567+00:00"
     },
     {
       "company": "Space Systems Command",
@@ -46,7 +46,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-10T00:46:25.843586+00:00"
+      "last_observed_at": "2026-11-10T22:29:50.976570+00:00"
     }
   ],
   "new_jobs": [],
@@ -54,7 +54,7 @@
     "company": 0,
     "seniority": 0,
     "role": 0,
-    "location": 63,
+    "location": 69,
     "stale": 0
   }
 }
