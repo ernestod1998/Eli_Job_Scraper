@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-11 23:36 UTC",
+  "scraped_at": "2026-11-12 22:53 UTC",
   "total": 64,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -856,7 +856,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-11T23:36:41.848217+00:00"
+      "last_observed_at": "2026-11-12T22:53:34.709257+00:00"
     },
     {
       "company": "Southern California Association of Governments",
@@ -931,7 +931,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-11T23:36:41.848205+00:00"
+      "last_observed_at": "2026-11-12T22:53:34.709245+00:00"
     },
     {
       "company": "City of Santa Clarita",
@@ -946,7 +946,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-11T23:36:41.848223+00:00"
+      "last_observed_at": "2026-11-12T22:53:34.709276+00:00"
     },
     {
       "company": "Superior Court, County of Santa Clara",
@@ -964,23 +964,7 @@
       "last_observed_at": "2026-11-11T23:36:41.848225+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Superior Court, County of Santa Clara",
-      "title": "Management Analyst/Senior Management Analyst (Training & Development Analyst)",
-      "location": "County of Santa Clara, CA",
-      "url": "https://www.governmentjobs.com/jobs/5539255-0/management-analyst-senior-management-analyst-training-development-analyst",
-      "date_posted": "",
-      "salary": "$92,394.86 - $137,887.94 Annually",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-11-11T23:36:41.848225+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
