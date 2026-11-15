@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-14 21:40 UTC",
+  "scraped_at": "2026-11-15 21:59 UTC",
   "total": 67,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -856,7 +856,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-14T21:40:05.501579+00:00"
+      "last_observed_at": "2026-11-15T21:59:06.526992+00:00"
     },
     {
       "company": "Southern California Association of Governments",
@@ -871,7 +871,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-14T21:40:05.501572+00:00"
+      "last_observed_at": "2026-11-15T21:59:06.526985+00:00"
     },
     {
       "company": "City of Compton",
@@ -931,7 +931,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-14T21:40:05.501577+00:00"
+      "last_observed_at": "2026-11-15T21:59:06.526990+00:00"
     },
     {
       "company": "City of Santa Clarita",
@@ -946,7 +946,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-14T21:40:05.501580+00:00"
+      "last_observed_at": "2026-11-15T21:59:06.526993+00:00"
     },
     {
       "company": "Superior Court, County of Santa Clara",
@@ -961,7 +961,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-14T21:40:05.501581+00:00"
+      "last_observed_at": "2026-11-15T21:59:06.526994+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -976,7 +976,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-14T21:40:05.501560+00:00"
+      "last_observed_at": "2026-11-15T21:59:06.526973+00:00"
     },
     {
       "company": "County of San Mateo",
@@ -991,7 +991,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-14T21:40:05.501582+00:00"
+      "last_observed_at": "2026-11-15T21:59:06.526995+00:00"
     },
     {
       "company": "City of Rocklin (CA)",
@@ -1006,56 +1006,10 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-14T21:40:05.501584+00:00"
+      "last_observed_at": "2026-11-15T21:59:06.526996+00:00"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Sacramento",
-      "title": "Supervising Financial Analyst",
-      "location": "Sacramento, CA",
-      "url": "https://www.governmentjobs.com/jobs/5545483-0/supervising-financial-analyst",
-      "date_posted": "",
-      "salary": "$102,469.01 - $144,184.18 Annually",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-11-14T21:40:05.501560+00:00"
-    },
-    {
-      "company": "County of San Mateo",
-      "title": "Procurement and Contract Administrator I/II - Human Services Agency (Open and Promotional)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5544536-0/procurement-and-contract-administrator-i-ii-human-services-agency-open-and-pro",
-      "date_posted": "",
-      "salary": "$7,817.33 - $11,466.00 Monthly",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "matched",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-11-14T21:40:05.501582+00:00"
-    },
-    {
-      "company": "City of Rocklin (CA)",
-      "title": "Management Analyst (Human Resources)",
-      "location": "Rocklin City Hall, CA",
-      "url": "https://www.governmentjobs.com/jobs/5548842-0/management-analyst-human-resources",
-      "date_posted": "",
-      "salary": "$101,634.00 - $138,516.00 Annually",
-      "ats": "NEOGOV",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-11-14T21:40:05.501584+00:00"
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
