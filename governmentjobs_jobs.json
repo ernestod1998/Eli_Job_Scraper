@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-15 21:59 UTC",
+  "scraped_at": "2026-11-17 00:54 UTC",
   "total": 67,
   "new_count": 0,
   "jobs": [
@@ -856,7 +856,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-15T21:59:06.526992+00:00"
+      "last_observed_at": "2026-11-17T00:54:25.490589+00:00"
     },
     {
       "company": "Southern California Association of Governments",
@@ -871,7 +871,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-15T21:59:06.526985+00:00"
+      "last_observed_at": "2026-11-17T00:54:25.490579+00:00"
     },
     {
       "company": "City of Compton",
@@ -931,7 +931,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-15T21:59:06.526990+00:00"
+      "last_observed_at": "2026-11-17T00:54:25.490587+00:00"
     },
     {
       "company": "City of Santa Clarita",
@@ -946,7 +946,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-15T21:59:06.526993+00:00"
+      "last_observed_at": "2026-11-17T00:54:25.490591+00:00"
     },
     {
       "company": "Superior Court, County of Santa Clara",
@@ -961,7 +961,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-15T21:59:06.526994+00:00"
+      "last_observed_at": "2026-11-17T00:54:25.490592+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -976,7 +976,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-15T21:59:06.526973+00:00"
+      "last_observed_at": "2026-11-17T00:54:25.490565+00:00"
     },
     {
       "company": "County of San Mateo",
@@ -1006,7 +1006,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-15T21:59:06.526996+00:00"
+      "last_observed_at": "2026-11-17T00:54:25.490593+00:00"
     }
   ],
   "new_jobs": [],
