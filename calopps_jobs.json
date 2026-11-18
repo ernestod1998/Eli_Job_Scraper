@@ -1,23 +1,8 @@
 {
-  "scraped_at": "2026-11-17 00:54 UTC",
-  "total": 3,
+  "scraped_at": "2026-11-18 00:00 UTC",
+  "total": 2,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "San Mateo County",
-      "title": "Senior Management Analyst- Probation Department",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20790401",
-      "date_posted": "",
-      "salary": "$139,734.40-$174,720.00 Annually",
-      "ats": "CalOpps",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-11-17T00:54:37.066751+00:00"
-    },
     {
       "company": "San Mateo County",
       "title": "Community Program Analyst II- Aging & Disability- Commissions & Provider Svcs (Open & Promotional)",
@@ -31,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-17T00:54:37.066763+00:00"
+      "last_observed_at": "2026-11-18T00:00:54.383839+00:00"
     },
     {
       "company": "Los Altos Hills",
@@ -46,7 +31,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-17T00:54:37.066766+00:00"
+      "last_observed_at": "2026-11-18T00:00:54.383851+00:00"
     }
   ],
   "new_jobs": [],
