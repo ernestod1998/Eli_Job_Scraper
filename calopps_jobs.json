@@ -1,23 +1,8 @@
 {
-  "scraped_at": "2026-11-18 23:32 UTC",
-  "total": 2,
+  "scraped_at": "2026-11-19 23:42 UTC",
+  "total": 1,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "San Mateo County",
-      "title": "Community Program Analyst II- Aging & Disability- Commissions & Provider Svcs (Open & Promotional)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20790008",
-      "date_posted": "",
-      "salary": "$110,136.00-$137,592.00 Annually",
-      "ats": "CalOpps",
-      "california_eligibility": "local",
-      "role_fit": "unverified",
-      "feeds": [
-        "general"
-      ],
-      "last_observed_at": "2026-11-18T23:32:15.141907+00:00"
-    },
     {
       "company": "Los Altos Hills",
       "title": "Management Analyst (Finance and Community Development)",
@@ -31,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-18T23:32:15.141919+00:00"
+      "last_observed_at": "2026-11-19T23:42:04.263068+00:00"
     }
   ],
   "new_jobs": [],
