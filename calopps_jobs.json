@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-19 23:42 UTC",
+  "scraped_at": "2026-11-20 23:11 UTC",
   "total": 1,
   "new_count": 0,
   "jobs": [
@@ -16,7 +16,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-19T23:42:04.263068+00:00"
+      "last_observed_at": "2026-11-20T23:11:42.680426+00:00"
     }
   ],
   "new_jobs": [],

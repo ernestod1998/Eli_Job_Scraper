@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-19 23:41 UTC",
-  "total": 67,
-  "new_count": 0,
+  "scraped_at": "2026-11-20 23:11 UTC",
+  "total": 72,
+  "new_count": 5,
   "jobs": [
     {
       "company": "City of Rocklin (CA)",
@@ -931,7 +931,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-19T23:41:48.157190+00:00"
+      "last_observed_at": "2026-11-20T23:11:28.455519+00:00"
     },
     {
       "company": "City of Santa Clarita",
@@ -946,7 +946,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-19T23:41:48.157195+00:00"
+      "last_observed_at": "2026-11-20T23:11:28.455528+00:00"
     },
     {
       "company": "Superior Court, County of Santa Clara",
@@ -961,7 +961,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-19T23:41:48.157197+00:00"
+      "last_observed_at": "2026-11-20T23:11:28.455530+00:00"
     },
     {
       "company": "City of Sacramento",
@@ -976,7 +976,7 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-19T23:41:48.157177+00:00"
+      "last_observed_at": "2026-11-20T23:11:28.455506+00:00"
     },
     {
       "company": "County of San Mateo",
@@ -1006,10 +1006,161 @@
       "feeds": [
         "general"
       ],
-      "last_observed_at": "2026-11-19T23:41:48.157198+00:00"
+      "last_observed_at": "2026-11-20T23:11:28.455535+00:00"
+    },
+    {
+      "company": "California State University, Fullerton",
+      "title": "Experiential Learning and Curriculum Analyst (Administrative Analyst/Specialist Exempt I)",
+      "location": "Fullerton, CA",
+      "url": "https://www.governmentjobs.com/jobs/153803-1/experiential-learning-and-curriculum-analyst-administrative-analyst-specialist-e",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-11-20T23:11:28.455524+00:00"
+    },
+    {
+      "company": "California State University, Fullerton",
+      "title": "Educational Opportunity Program (EOP) Admissions Analyst (Administrative Analyst/Specialist - Exempt I)",
+      "location": "Fullerton, CA",
+      "url": "https://www.governmentjobs.com/jobs/153804-1/educational-opportunity-program-eop-admissions-analyst-administrative-analyst",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-11-20T23:11:28.455526+00:00"
+    },
+    {
+      "company": "California State University, Fullerton",
+      "title": "Box Office Operations Lead (Administrative Analyst/Specialist Exempt I)",
+      "location": "Fullerton, CA",
+      "url": "https://www.governmentjobs.com/jobs/153814-1/box-office-operations-lead-administrative-analyst-specialist-exempt-i",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-11-20T23:11:28.455529+00:00"
+    },
+    {
+      "company": "City of Folsom",
+      "title": "Management Analyst",
+      "location": "Folsom, CA",
+      "url": "https://www.governmentjobs.com/jobs/5551744-0/management-analyst",
+      "date_posted": "",
+      "salary": "$96,443.19 - $122,171.35 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-11-20T23:11:28.455532+00:00"
+    },
+    {
+      "company": "City of Monrovia",
+      "title": "Management Analyst (Public Works)",
+      "location": "Monrovia Public Works, CA",
+      "url": "https://www.governmentjobs.com/jobs/5556534-0/management-analyst-public-works",
+      "date_posted": "",
+      "salary": "$6,729.54 - $9,018.23 Monthly",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-11-20T23:11:28.455533+00:00"
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "company": "California State University, Fullerton",
+      "title": "Experiential Learning and Curriculum Analyst (Administrative Analyst/Specialist Exempt I)",
+      "location": "Fullerton, CA",
+      "url": "https://www.governmentjobs.com/jobs/153803-1/experiential-learning-and-curriculum-analyst-administrative-analyst-specialist-e",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-11-20T23:11:28.455524+00:00"
+    },
+    {
+      "company": "California State University, Fullerton",
+      "title": "Educational Opportunity Program (EOP) Admissions Analyst (Administrative Analyst/Specialist - Exempt I)",
+      "location": "Fullerton, CA",
+      "url": "https://www.governmentjobs.com/jobs/153804-1/educational-opportunity-program-eop-admissions-analyst-administrative-analyst",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-11-20T23:11:28.455526+00:00"
+    },
+    {
+      "company": "California State University, Fullerton",
+      "title": "Box Office Operations Lead (Administrative Analyst/Specialist Exempt I)",
+      "location": "Fullerton, CA",
+      "url": "https://www.governmentjobs.com/jobs/153814-1/box-office-operations-lead-administrative-analyst-specialist-exempt-i",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-11-20T23:11:28.455529+00:00"
+    },
+    {
+      "company": "City of Folsom",
+      "title": "Management Analyst",
+      "location": "Folsom, CA",
+      "url": "https://www.governmentjobs.com/jobs/5551744-0/management-analyst",
+      "date_posted": "",
+      "salary": "$96,443.19 - $122,171.35 Annually",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-11-20T23:11:28.455532+00:00"
+    },
+    {
+      "company": "City of Monrovia",
+      "title": "Management Analyst (Public Works)",
+      "location": "Monrovia Public Works, CA",
+      "url": "https://www.governmentjobs.com/jobs/5556534-0/management-analyst-public-works",
+      "date_posted": "",
+      "salary": "$6,729.54 - $9,018.23 Monthly",
+      "ats": "NEOGOV",
+      "california_eligibility": "local",
+      "role_fit": "unverified",
+      "feeds": [
+        "general"
+      ],
+      "last_observed_at": "2026-11-20T23:11:28.455533+00:00"
+    }
+  ],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
